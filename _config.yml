@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About me"
+title                    : "Suchismit"
 title_separator          : "-"
 name                     : &name "Suchismit Mahapatra"
 description              : &description "ML Research"
