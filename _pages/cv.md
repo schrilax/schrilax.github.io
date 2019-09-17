@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Curriculum Vitae](http://schrilax.github.io/files/Suchismit_CV.pdf)
+
 Education
 ======
 * Ph.D. in Computer Science and Engineering, University of Buffalo, The State University of New York, June 2018
