@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[CV](http://schrilax.github.io/files/Suchismit_CV.pdf)
+[<i class="far fa-file-pdf"></i>](http://schrilax.github.io/files/Suchismit_CV.pdf)
 
 Education
 ======
