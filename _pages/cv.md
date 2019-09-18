@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Curriculum Vitaé
+title: CV
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[<i class="far fa-file-pdf"></i>](http://schrilax.github.io/files/Suchismit_CV.pdf)
+[Curriculum Vitaé](http://schrilax.github.io/files/Suchismit_CV.pdf)
 
 Education
 ======
