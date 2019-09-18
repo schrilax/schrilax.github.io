@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: [<i class="far fa-file-pdf"></i>](http://schrilax.github.io/files/Suchismit_CV.pdf)
+title: Curriculum Vitaé
 permalink: /cv/
 author_profile: true
 redirect_from:
