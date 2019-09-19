@@ -107,7 +107,7 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Honors
 ======
 * Won a NSF Junior Researcher Award to attend CBMS Conference on Sparse Recovery 2017. (Las Cruces, NM - 2017)
