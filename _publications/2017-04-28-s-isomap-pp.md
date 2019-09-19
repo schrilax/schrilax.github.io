@@ -1,7 +1,7 @@
 ---
 title: "S-Isomap++: Multi Manifold Learning from Streaming Data"
 collection: publications
-permalink: /publications/2018-01-15-s-isomap-pp
+permalink: /publication/2018-01-15-s-isomap-pp
 date: 2018-01-15
 venue: '2017 IEEE International Conference on Big Data (Big Data)'
 paperurl: 'http://ieeexplore.ieee.org/document/8257987/'
