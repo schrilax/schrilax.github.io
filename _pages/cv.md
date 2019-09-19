@@ -9,19 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
-[Curriculum Vitaé [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](http://schrilax.github.io/files/Suchismit_CV.pdf)] <i class="fa fa-file-pdf-o"></i>
+[Curriculum Vitaé](http://schrilax.github.io/files/Suchismit_CV.pdf)
 
 Education
 ======
 * Ph.D. in [Computer Science and Engineering](https://engineering.buffalo.edu/computer-science-engineering.html), [University of Buffalo, The State University of New York](http://www.buffalo.edu) , June 2018
   * Thesis: Scalable Nonlinear Spectral Dimensionality Reduction (NLSDR) methods for streaming data.
   * Advisors: Varun Chandola, Nils Napp & Jaroslaw Zola
-  * GPA: 4.0 out of 4.0 [Transcript [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](http://schrilax.github.io/files/ub-cse-unofficial-transcript.pdf)]
+  * GPA: 4.0 out of 4.0 [Transcript](http://schrilax.github.io/files/ub-cse-unofficial-transcript.pdf)]
 * M.S. in [Computer Science and Engineering](https://engineering.buffalo.edu/computer-science-engineering.html), [University of Buffalo, The State University of New York](http://www.buffalo.edu), June 2012
   * Masters Topic: A Cold Start Recommendation System Using Item Correlation and User Similarity
-  * GPA: 4.0 out of 4.0 [Transcript [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](http://schrilax.github.io/files/ub-cse-unofficial-transcript.pdf)]
+  * GPA: 4.0 out of 4.0 [Transcript](http://schrilax.github.io/files/ub-cse-unofficial-transcript.pdf)]
   * Department rank: 1 out of 555
-* B.Tech. in Computer Science and Engineering, National Institute of Technology, Rourkela, May 2005
+* B.Tech. in [Computer Science and Engineering](https://www.nitrkl.ac.in/CS/Default.aspx), [National Institute of Technology, Rourkela](https://www.nitrkl.ac.in), May 2005
   * Cumulative Score: 77% (First class with honors)
   * Joint Entrance Exam Rank 22 out of 400,000
 
@@ -56,12 +56,6 @@ Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Service and leadership
