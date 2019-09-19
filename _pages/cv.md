@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Curriculum Vitaé](http://schrilax.github.io/files/Suchismit_CV.pdf)
+[[Curriculum Vitaé](http://schrilax.github.io/files/Suchismit_CV.pdf)]
 
 Education
 ======
@@ -46,6 +46,19 @@ Experience
 * Research Scientist Intern, Criteo (May 2017 - August 2017)
   - Joint Cross-domain Query-Product modeling using Adversarial Transfer Learning (working with [Suju Rajan](https://www.linkedin.com/in/suju-rajan/))
     - Trying to learn a robust Query-Product model across retailer domains using Adversarial techniques in Deep Transfer Learning.
+
+* Research Assistant, The Research Foundation for SUNY (January 2017 - May 2017)
+  - Representation learning via Deep learning/NLSDR methods (working with [Varun Chandola](https://cse.buffalo.edu/~chandola/) / [Nils Napp](https://cse.buffalo.edu/~nnapp/) / [Jaroslaw Zola](https://cse.buffalo.edu/~jzola/))
+    - Understanding complex nonlinear processes using Deep Learning/NLSDR methods.
+  - Incorporating complex constraints for sparse Logistic Regression (working with [Varun Chandola](https://cse.buffalo.edu/~chandola/))
+    - Working towards solving the problem of including graphical and/or tree-based hierarchical constraints in sparse Logistic Regression.
+
+* Teaching Assistant, University of Buffalo, The State University of New York (September 2016 - December 2016)
+  - Teaching Assistant for CSE 574 Machine Learning.
+
+* Machine Learning Algorithm Design Intern, BD Biosciences (June 2016 - August 2016)
+  - Fast Clustering of Flow Cytometry data
+    - Scaled up the existing framework for clustering of high dimensional Flow Cytometry data upto \~ 16x.
 
 Skills
 ======
