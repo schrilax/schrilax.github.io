@@ -49,12 +49,7 @@ Experience
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python, C/C++, TensorFlow, Scala, Hive, CUDA
 
 Publications
 ======
@@ -68,6 +63,19 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Honors
 ======
-* Currently signed in to 43 different slack teams
+* Won a NSF Junior Researcher Award to attend CBMS Conference on Sparse Recovery 2017. (Las Cruces, NM - 2017)
+* Became a NVIDIA GPU Educator. (Santa Clara, CA - 2016)
+* Won a NSF Student Travel Award to attend IEEE Big Data 2015. (Santa Clara, CA - 2015)
+* Won a rare Research Assistant-ship covering my second year as a Masters student. (Buffalo, NY - 2013)
+* Won the Star Performer of the Month award in Cognizant. (Kolkata, India - 2008)
+* Won the Outstanding Newbie award in Cognizant. (Kolkata, India - 2007)
+* Scored 99 percentile in Zonal, Discipline and National categories of National IT Aptitude Test. (Rourkela, India - 2004)
+* Subsequently won a Bhavishya Jyoti Scholarship for above. (Rourkela, India - 2004)
+* Won the Young Genius award. (Cuttack, India - 1999)
+
+Activities
+======
+* Part of organizing committee for KDCloud [2014], BigSpatial [2014, 2015, 2016, 2017].
+* Student Member of IEEE, SIAM and ACM.
