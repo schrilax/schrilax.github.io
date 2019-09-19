@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in [Computer Science and Engineering](https://engineering.buffalo.edu/computer-science-engineering.html), [University of Buffalo, The State University of New York](http://www.buffalo.edu) , June 2018
+* Ph.D. in [Computer Science and Engineering](https://engineering.buffalo.edu/computer-science-engineering.html), [University of Buffalo, The State University of New York](http://www.buffalo.edu), June 2018
   - Thesis: Scalable Nonlinear Spectral Dimensionality Reduction (NLSDR) methods for streaming data. [[Thesis](http://schrilax.github.io/files/thesis_final.pdf)]
   - Advisors: Varun Chandola, Nils Napp & Jaroslaw Zola
   - GPA: 4.0 out of 4.0 [[Transcript](http://schrilax.github.io/files/ub-cse-unofficial-transcript.pdf)]
