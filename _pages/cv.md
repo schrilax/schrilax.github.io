@@ -48,7 +48,7 @@ Experience
     - Trying to learn a robust Query-Product model across retailer domains using Adversarial techniques in Deep Transfer Learning.
 
 * Research Assistant, The Research Foundation for SUNY (January 2017 - May 2017)
-  - Representation learning via Deep learning/NLSDR methods (working with [Varun Chandola](https://cse.buffalo.edu/~chandola/) / [Nils Napp](https://cse.buffalo.edu/~nnapp/) / [Jaroslaw Zola](https://cse.buffalo.edu/~jzola/))
+  - Representation learning via Deep learning/NLSDR (working with [Varun Chandola](https://cse.buffalo.edu/~chandola/) / [Nils Napp](https://cse.buffalo.edu/~nnapp/) / [Jaroslaw Zola](https://cse.buffalo.edu/~jzola/))
     - Understanding complex nonlinear processes using Deep Learning/NLSDR methods.
   - Incorporating complex constraints for sparse Logistic Regression (working with [Varun Chandola](https://cse.buffalo.edu/~chandola/))
     - Working towards solving the problem of including graphical and/or tree-based hierarchical constraints in sparse Logistic Regression.
@@ -58,7 +58,25 @@ Experience
 
 * Machine Learning Algorithm Design Intern, BD Biosciences (June 2016 - August 2016)
   - Fast Clustering of Flow Cytometry data
-    - Scaled up the existing framework for clustering of high dimensional Flow Cytometry data upto \~ 16x.
+    - Scaled up the existing framework for clustering of high dimensional Flow Cytometry data upto \~16x.
+
+* Teaching Assistant, University of Buffalo, The State University of New York (January 2016 - May 2016)
+  - Teaching Assistant for CSE 574 Machine Learning.
+
+* Research Assistant, University of Buffalo, The State University of New York (June 2013 - December 2015)
+  - Nonlinear Spectral Dimensionality Reduction (working with [Varun Chandola](https://cse.buffalo.edu/~chandola/) / [Jaroslaw Zola](https://cse.buffalo.edu/~jzola/) / [Nils Napp](https://cse.buffalo.edu/~nnapp/))
+    - Developing scalable Nonlinear Spectral Dimensionality Reduction methods in a streaming setting.
+  - Social Network Modeling (working with [Varun Chandola](https://cse.buffalo.edu/~chandola/))
+    - Developed the xKPGM model for social network modeling.
+  - Variance Reduction techniques in Distributed Optimization (working with [Haimonti Dutta](http://mgt.buffalo.edu/faculty/academic-departments/management-science-systems/faculty/haimonti-dutta.html) / [Varun Chandola](https://cse.buffalo.edu/~chandola/))
+    - Working towards developing novel variance reduction techniques for the empirical risk minimization problem.
+  - Understanding Rumor Propagation in Social Networks (working with [Shambhu Upadhyaya](https://cse.buffalo.edu/~shambhu/) / [Varun Chandola](https://cse.buffalo.edu/~chandola/))
+    - Working towards modelling rumor propagation in social networks.
+  - Volcanic Flow Prediction (working with [Abani Patra](https://engineering.tufts.edu/people/faculty/abani-patra) / [Varun Chandola](https://cse.buffalo.edu/~chandola/) / [Paul Bauman](https://www.linkedin.com/in/paul-bauman-84a7093a))
+    - Developed a Gaussian process based model for prediction of flow using GPGPUs.
+
+* Teaching Assistant, University of Buffalo, The State University of New York (September 2012 - May 2013)
+  - Teaching Assistant for CSE 510 Introduction to Robotic Algorithms.
 
 Skills
 ======
