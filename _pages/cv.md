@@ -27,23 +27,23 @@ Education
 
 Experience
 ======
-* Research Scientist, Criteo (July 2018 - Present)
+* _Research Scientist, Criteo_ (July 2018 - Present)
   - Improve Click-through and Sales prediction
     - Understanding how to improve Click-through and Sales prediction using nonlinear ML techniques.
   - Theoretical aspects on Deep Learning (working with [Noureddine El Karoui](https://statistics.berkeley.edu/people/noureddine-el-karoui))
     - Working towards understanding kernel and manifold specific aspects of theoretical deep learning.
 
-* Research Assistant, The Research Foundation for SUNY (January 2018 - May 2018)
+* _Research Assistant, The Research Foundation for SUNY_ (January 2018 - May 2018)
   - Parallelized Hierarchical Clustering (working with [Haimonti Dutta](http://mgt.buffalo.edu/faculty/academic-departments/management-science-systems/faculty/haimonti-dutta.html))
     - Working towards developing a novel parallel random-partition based hierarchical clustering algorithm using activization strategies.
   - Kernel Manifold Learning (working with [Varun Chandola](https://cse.buffalo.edu/~chandola/))
     - Working towards developing Manifold Learning techniques motivated from Gaussian Processes.
 
-* Research Scientist Intern, Criteo (September 2017 - December 2017)
+* _Research Scientist Intern, Criteo_ (September 2017 - December 2017)
   - Efficient Domain Adaptation (working with [Suju Rajan](https://www.linkedin.com/in/suju-rajan/))
     - Understanding how to efficiently deal with the Domain Adaptation problem from an Optimal Transportation perspective.
 
-* Research Scientist Intern, Criteo (May 2017 - August 2017)
+* _Research Scientist Intern, Criteo_ (May 2017 - August 2017)
   - Joint Cross-domain Query-Product modeling using Adversarial Transfer Learning (working with [Suju Rajan](https://www.linkedin.com/in/suju-rajan/))
     - Trying to learn a robust Query-Product model across retailer domains using Adversarial techniques in Deep Transfer Learning.
 
