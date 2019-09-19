@@ -37,7 +37,7 @@ Experience
   - Parallelized Hierarchical Clustering (working with [Haimonti Dutta](http://mgt.buffalo.edu/faculty/academic-departments/management-science-systems/faculty/haimonti-dutta.html))
     - Working towards developing a novel parallel random-partition based hierarchical clustering algorithm using activization strategies.
   - Kernel Manifold Learning (working with [Varun Chandola](https://cse.buffalo.edu/~chandola/))
-    - Working towards developing Manifold Learning techniques motivated from Gaussian Processes. [[paper](https://arxiv.org/abs/1804.08833)]
+    - Working towards developing Manifold Learning techniques motivated from Gaussian Processes. [[Paper](https://arxiv.org/abs/1804.08833)]
 
 * __Research Scientist Intern, Criteo__ (September 2017 - December 2017)
   - Efficient Domain Adaptation (working with [Suju Rajan](https://www.linkedin.com/in/suju-rajan/))
@@ -49,7 +49,7 @@ Experience
 
 * __Research Assistant, The Research Foundation for SUNY__ (January 2017 - May 2017)
   - Representation learning via Deep learning/NLSDR (working with [Varun Chandola](https://cse.buffalo.edu/~chandola/) / [Nils Napp](https://cse.buffalo.edu/~nnapp/) / [Jaroslaw Zola](https://cse.buffalo.edu/~jzola/))
-    - Understanding complex nonlinear processes using Deep Learning/NLSDR methods. [[demo 1](https://www.youtube.com/watch?v=fwT1zJ7VMFc)][[demo 2](https://www.youtube.com/watch?v=ehN4I1TsBRc)]
+    - Understanding complex nonlinear processes using Deep Learning/NLSDR methods. [[Demo 1](https://www.youtube.com/watch?v=fwT1zJ7VMFc)][[Demo 2](https://www.youtube.com/watch?v=ehN4I1TsBRc)]
   - Incorporating complex constraints for sparse Logistic Regression (working with [Varun Chandola](https://cse.buffalo.edu/~chandola/))
     - Working towards solving the problem of including graphical and/or tree-based hierarchical constraints in sparse Logistic Regression.
 
@@ -58,7 +58,7 @@ Experience
 
 * __Machine Learning Algorithm Design Intern, BD Biosciences__ (June 2016 - August 2016)
   - Fast Clustering of Flow Cytometry data
-    - Scaled up the existing framework for clustering of high dimensional Flow Cytometry data upto \~16x. [poster](http://schrilax.github.io/files/BD_Fast_Adaptive_Mean_Shift.pdf)[ppt](http://schrilax.github.io/files/Parallel_FAMS.pdf)
+    - Scaled up the existing framework for clustering of high dimensional Flow Cytometry data upto \~16x. [Poster](http://schrilax.github.io/files/BD_Fast_Adaptive_Mean_Shift.pdf)[Presentation](http://schrilax.github.io/files/Parallel_FAMS.pdf)
 
 * __Teaching Assistant, University of Buffalo, The State University of New York__ (January 2016 - May 2016)
   - Teaching Assistant for CSE 574 Machine Learning.
@@ -80,11 +80,17 @@ Experience
 
 * __Research Assistant, The Research Foundation for SUNY__ (June 2011 - August 2012)
   - Localization Via Entropy Reduction (working with [Robert Platt](https://www.khoury.northeastern.edu/people/robert-platt/))
-    - Developed an active localization technique via sequential reduction of entropy using OpenRAVE/ROS. [[report](http://schrilax.github.io/files/Localization.pdf)][[demo](https://www.youtube.com/watch?v=Pqn-tMojdjk)]
+    - Developed an active localization technique via sequential reduction of entropy using OpenRAVE/ROS. [[Report](http://schrilax.github.io/files/Localization.pdf)][[Demo](https://www.youtube.com/watch?v=Pqn-tMojdjk)]
   - AIRS (working with [Rakesh Nagi](https://ise.illinois.edu/directory/profile/nagi))
     - Developed sequential and parallel versions of TRUncated Search Tree (TRUST) using HBase, Hadoop Sequence Files and RDF.
   - Name2Face (working with [Bina Ramamurthy](https://cse.buffalo.edu/~bina/))
     - Developed Name2Face, a cloud application consuming the Microsoft cloud services (blob, queue and table).
+
+* __Associate, Cognizant__ (June 2005 - July 2010)
+  - Developed ExProc, a tool for processing excel documents.
+  - Built SuperAgent 4.0, a tool for making reservations which interacts with the Novasol and Cuendet servers.
+  - Developed Universal Agent Tool along with my team, a tool which aimed at merging operations for various CRS.
+  - Contributed to a white paper Using Venn Diagrams to capture Business Requirements.
 
 Skills
 ======
@@ -118,3 +124,10 @@ Activities
 ======
 * Part of organizing committee for KDCloud [2014], BigSpatial [2014, 2015, 2016, 2017].
 * Student Member of IEEE, SIAM and ACM.
+
+Additional Coursework
+======
+* Implemented 3PRR Parallel Chain and PRRR Serial Chain Manipulators under Venkat Krovi.
+* Developed ElGooG – A search engine using ~100000 TREC documents as corpus (won the NTipS 2010 competition).
+* Machine Learning course offered by Stanford under Dr Andrew Ng.
+* Optimization/Mathematics courses offered by Coursera.
