@@ -5,9 +5,6 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume/
-  - /resume.html
-  - /cv/
-  - /cv.html
 ---
 
 {% include base_path %}
@@ -19,7 +16,7 @@ Education
 * Ph.D. in Computer Science and Engineering, University of Buffalo, The State University of New York, June 2018
   * Thesis: Scalable Nonlinear Spectral Dimensionality Reduction (NLSDR) methods for streaming data.
   * Advisors: Varun Chandola, Nils Napp & Jaroslaw Zola
-  * GPA: 4.0 out of 4.0
+  * GPA: 4.0 out of 4.0 
 * M.S. in Computer Science and Engineering, University of Buffalo, The State University of New York, June 2012
   * Masters Topic: A Cold Start Recommendation System Using Item Correlation and User Similarity
   * GPA: 4.0 out of 4.0
