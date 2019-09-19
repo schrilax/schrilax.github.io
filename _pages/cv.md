@@ -53,17 +53,17 @@ Experience
   - Incorporating complex constraints for sparse Logistic Regression (working with [Varun Chandola](https://cse.buffalo.edu/~chandola/))
     - Working towards solving the problem of including graphical and/or tree-based hierarchical constraints in sparse Logistic Regression.
 
-* Teaching Assistant, University of Buffalo, The State University of New York (September 2016 - December 2016)
+* __Teaching Assistant, University of Buffalo, The State University of New York__ (September 2016 - December 2016)
   - Teaching Assistant for CSE 574 Machine Learning.
 
-* Machine Learning Algorithm Design Intern, BD Biosciences (June 2016 - August 2016)
+* __Machine Learning Algorithm Design Intern, BD Biosciences__ (June 2016 - August 2016)
   - Fast Clustering of Flow Cytometry data
     - Scaled up the existing framework for clustering of high dimensional Flow Cytometry data upto \~16x.
 
-* Teaching Assistant, University of Buffalo, The State University of New York (January 2016 - May 2016)
+* __Teaching Assistant, University of Buffalo, The State University of New York__ (January 2016 - May 2016)
   - Teaching Assistant for CSE 574 Machine Learning.
 
-* Research Assistant, University of Buffalo, The State University of New York (June 2013 - December 2015)
+* __Research Assistant, University of Buffalo, The State University of New York__ (June 2013 - December 2015)
   - Nonlinear Spectral Dimensionality Reduction (working with [Varun Chandola](https://cse.buffalo.edu/~chandola/) / [Jaroslaw Zola](https://cse.buffalo.edu/~jzola/) / [Nils Napp](https://cse.buffalo.edu/~nnapp/))
     - Developing scalable Nonlinear Spectral Dimensionality Reduction methods in a streaming setting.
   - Social Network Modeling (working with [Varun Chandola](https://cse.buffalo.edu/~chandola/))
@@ -75,8 +75,16 @@ Experience
   - Volcanic Flow Prediction (working with [Abani Patra](https://engineering.tufts.edu/people/faculty/abani-patra) / [Varun Chandola](https://cse.buffalo.edu/~chandola/) / [Paul Bauman](https://www.linkedin.com/in/paul-bauman-84a7093a))
     - Developed a Gaussian process based model for prediction of flow using GPGPUs.
 
-* Teaching Assistant, University of Buffalo, The State University of New York (September 2012 - May 2013)
+* __Teaching Assistant, University of Buffalo, The State University of New York__ (September 2012 - May 2013)
   - Teaching Assistant for CSE 510 Introduction to Robotic Algorithms.
+
+* __Research Assistant, The Research Foundation for SUNY__ (June 2011 - August 2012)
+  - Localization Via Entropy Reduction (working with [Robert Platt](https://www.khoury.northeastern.edu/people/robert-platt/))
+    - Developed an active localization technique via sequential reduction of entropy using OpenRAVE/ROS.
+  - AIRS (working with [Rakesh Nagi](https://ise.illinois.edu/directory/profile/nagi))
+    - Developed sequential and parallel versions of TRUncated Search Tree (TRUST) using HBase, Hadoop Sequence Files and RDF.
+  - Name2Face (working with [Bina Ramamurthy](https://cse.buffalo.edu/~bina/))
+    - Developed Name2Face, a cloud application consuming the Microsoft cloud services (blob, queue and table).
 
 Skills
 ======
