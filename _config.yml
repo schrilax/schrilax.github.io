@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Suchismit"
 title_separator          : "-"
 name                     : &name "Suchismit Mahapatra"
-description              : &description "ML//DL Research"
+description              : &description "ML\/DL Research"
 url                      : https://schrilax.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : #"academicpages/academicpages.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Suchismit Mahapatra"
-  avatar           : "me.jpg"
+  avatar           : "pic.jpg"
   bio              : "ML Research"
   location         : "Palo Alto, CA"
   employer         :
