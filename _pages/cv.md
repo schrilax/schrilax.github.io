@@ -9,17 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-[Curriculum Vitaé [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](http://schrilax.github.io/files/Suchismit_CV.pdf))
+[Curriculum Vitaé [<i class="fa fa-file-pdf-o"></i>](http://schrilax.github.io/files/Suchismit_CV.pdf)) <i class="fa fa-file-pdf-o"></i>
 
 Education
 ======
 * Ph.D. in [Computer Science and Engineering](https://engineering.buffalo.edu/computer-science-engineering.html), [University of Buffalo, The State University of New York](http://www.buffalo.edu) , June 2018
   * Thesis: Scalable Nonlinear Spectral Dimensionality Reduction (NLSDR) methods for streaming data.
   * Advisors: Varun Chandola, Nils Napp & Jaroslaw Zola
-  * GPA: 4.0 out of 4.0 [Transcript [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](http://schrilax.github.io/files/ub-cse-unofficial-transcript.pdf)]
+  * GPA: 4.0 out of 4.0 [Transcript [<i class="fa fa-file-pdf-o"></i>](http://schrilax.github.io/files/ub-cse-unofficial-transcript.pdf)]
 * M.S. in [Computer Science and Engineering](https://engineering.buffalo.edu/computer-science-engineering.html), [University of Buffalo, The State University of New York](http://www.buffalo.edu), June 2012
   * Masters Topic: A Cold Start Recommendation System Using Item Correlation and User Similarity
-  * GPA: 4.0 out of 4.0 [Transcript [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>](http://schrilax.github.io/files/ub-cse-unofficial-transcript.pdf)]
+  * GPA: 4.0 out of 4.0 [Transcript [<i class="fa fa-file-pdf-o"></i>](http://schrilax.github.io/files/ub-cse-unofficial-transcript.pdf)]
   * Department rank: 1 out of 555
 * B.Tech. in Computer Science and Engineering, National Institute of Technology, Rourkela, May 2005
   * Cumulative Score: 77% (First class with honors)
