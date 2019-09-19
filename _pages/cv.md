@@ -58,7 +58,7 @@ Experience
 
 * __Machine Learning Algorithm Design Intern, BD Biosciences__ (June 2016 - August 2016)
   - Fast Clustering of Flow Cytometry data
-    - Scaled up the existing framework for clustering of high dimensional Flow Cytometry data upto \~16x. [[Poster](http://schrilax.github.io/files/BD_Fast_Adaptive_Mean_Shift.pdf)][[Presentation][(http://schrilax.github.io/files/Parallel_FAMS.pdf)]
+    - Scaled up the existing framework for clustering of high dimensional Flow Cytometry data upto \~16x. [[Poster](http://schrilax.github.io/files/BD_Fast_Adaptive_Mean_Shift.pdf)][[Presentation](http://schrilax.github.io/files/Parallel_FAMS.pdf)]
 
 * __Teaching Assistant, University of Buffalo, The State University of New York__ (January 2016 - May 2016)
   - Teaching Assistant for CSE 574 Machine Learning.
