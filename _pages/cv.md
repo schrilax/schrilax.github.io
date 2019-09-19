@@ -14,11 +14,11 @@ redirect_from:
 Education
 ======
 * Ph.D. in [Computer Science and Engineering](https://engineering.buffalo.edu/computer-science-engineering.html), [University of Buffalo, The State University of New York](http://www.buffalo.edu) , June 2018
-  - Thesis: Scalable Nonlinear Spectral Dimensionality Reduction (NLSDR) methods for streaming data.
+  - Thesis: Scalable Nonlinear Spectral Dimensionality Reduction (NLSDR) methods for streaming data. [[Thesis](http://schrilax.github.io/files/thesis_final.pdf)]
   - Advisors: Varun Chandola, Nils Napp & Jaroslaw Zola
   - GPA: 4.0 out of 4.0 [[Transcript](http://schrilax.github.io/files/ub-cse-unofficial-transcript.pdf)]
 * M.S. in [Computer Science and Engineering](https://engineering.buffalo.edu/computer-science-engineering.html), [University of Buffalo, The State University of New York](http://www.buffalo.edu), June 2012
-  - Masters Topic: A Cold Start Recommendation System Using Item Correlation and User Similarity
+  - Masters Topic: A Cold Start Recommendation System Using Item Correlation and User Similarity [[Report](http://schrilax.github.io/files/iRec.pdf)]
   - GPA: 4.0 out of 4.0 [[Transcript](http://schrilax.github.io/files/ub-cse-unofficial-transcript.pdf)]
   - Department rank: 1 out of 555
 * B.Tech. in [Computer Science and Engineering](https://www.nitrkl.ac.in/CS/Default.aspx), [National Institute of Technology, Rourkela](https://www.nitrkl.ac.in), May 2005
@@ -105,7 +105,7 @@ Talks
 Honors
 ======
 * Won a NSF Junior Researcher Award to attend CBMS Conference on Sparse Recovery 2017. (Las Cruces, NM - 2017)
-* Became a NVIDIA GPU Educator. (Santa Clara, CA - 2016)
+* Became a [NVIDIA GPU Educator](https://developer.nvidia.com/educators). (Santa Clara, CA - 2016)
 * Won a NSF Student Travel Award to attend IEEE Big Data 2015. (Santa Clara, CA - 2015)
 * Won a rare Research Assistant-ship covering my second year as a Masters student. (Buffalo, NY - 2013)
 * Won the Star Performer of the Month award in Cognizant. (Kolkata, India - 2008)
