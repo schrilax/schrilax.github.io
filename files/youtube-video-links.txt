@@ -1,0 +1,33 @@
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+3-PRR parallel chain manipulator
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1) Forward Kinematics -> http://www.youtube.com/watch?v=a7xhaL0nNgQ
+2) Inverse Kinematics -> http://www.youtube.com/watch?v=3Iui26pu7_Q
+3) Workspace -> http://www.youtube.com/watch?v=X1XuG5JBSes
+4) Circle/Ellipse tracing -> http://www.youtube.com/watch?v=YgYIR9T2lls
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+5) Open Loop Control -> http://www.youtube.com/watch?v=nNBnEevXJQs
+6) Task Space Closed Loop Control -> http://www.youtube.com/watch?v=BIOhLbwaimY
+7) Joint Space Closed Loop Control -> http://www.youtube.com/watch?v=u6Es0GRB6dI
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+8) Isotropy Index Measure of Manipulability -> http://www.youtube.com/watch?v=j6a_oTXjlT0
+9) Yoshikawa Measure of Manipulability -> http://www.youtube.com/watch?v=DrsB7A8xwBA
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+PRRR serial chain manipulator
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1) Forward Kinematics -> http://www.youtube.com/watch?v=yESlf2PsD6g
+2) Inverse Kinematics -> http://www.youtube.com/watch?v=Bls7HWrkxHA
+3) Workspace -> http://www.youtube.com/watch?v=f5f1TCPc5Gs
+4) Circle/Ellipse tracing -> http://www.youtube.com/watch?v=r2oCkZSAfy8
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+5) Open Loop Control -> http://www.youtube.com/watch?v=yIJCD7_EZvU
+6) Task Space Closed Loop Control -> http://www.youtube.com/watch?v=gfCA28yxF8k
+7) Joint Space Closed Loop Control -> http://www.youtube.com/watch?v=0BQs7XfaEeA
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+8) Isotropy Index Measure of Manipulability -> http://www.youtube.com/watch?v=tE7zzhBiqyo
+9) Yoshikawa Measure of Manipulability -> http://www.youtube.com/watch?v=CpM4n1pHX8w
+10) Manipulability Ellipsoids -> http://www.youtube.com/watch?v=q7aB8xQ6teQ
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
