@@ -3,6 +3,9 @@ permalink: /contact/
 title: "Contact"
 excerpt: "Contact me"
 author_profile: true
+redirect_from: 
+  - /contact/
+  - /contact.html
 ---
 My contact information is below. Please feel free to drop me a line. :)
 
