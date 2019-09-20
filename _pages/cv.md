@@ -49,7 +49,7 @@ Experience
 
 * __Research Assistant, The Research Foundation for SUNY__ (January 2017 - May 2017)
   - Representation learning via Deep learning/NLSDR (working with [Varun Chandola](https://cse.buffalo.edu/~chandola/) / [Nils Napp](https://cse.buffalo.edu/~nnapp/) / [Jaroslaw Zola](https://cse.buffalo.edu/~jzola/))
-    - Understanding complex nonlinear processes using Deep Learning/NLSDR methods. [[Demo 1](https://www.youtube.com/watch?v=fwT1zJ7VMFc)][[Demo 2](https://www.youtube.com/watch?v=ehN4I1TsBRc)]
+    - Understanding complex nonlinear processes using Deep Learning/NLSDR methods. [[Demo](https://www.youtube.com/watch?v=fwT1zJ7VMFc)][[Demo](https://www.youtube.com/watch?v=ehN4I1TsBRc)]
   - Incorporating complex constraints for sparse Logistic Regression (working with [Varun Chandola](https://cse.buffalo.edu/~chandola/))
     - Working towards solving the problem of including graphical and/or tree-based hierarchical constraints in sparse Logistic Regression.
 
@@ -127,7 +127,7 @@ Activities
 
 Additional Coursework
 ======
-* Implemented 3PRR Parallel Chain and PRRR Serial Chain Manipulators under Venkat Krovi. [[Presentation 1](http://schrilax.github.io/files/ElGooG.pdf)][[Presentation 2](http://schrilax.github.io/files/ElGooG.pdf)][[Demos](http://schrilax.github.io/files/ElGooG.pdf)]
+* Implemented 3PRR Parallel Chain and PRRR Serial Chain Manipulators under Venkat Krovi. [[Presentation](http://schrilax.github.io/files/ElGooG.pdf)][[Presentation](http://schrilax.github.io/files/ElGooG.pdf)][[Demos](http://schrilax.github.io/files/ElGooG.pdf)]
 * Developed ElGooG – A search engine using \~100000 TREC documents as corpus (won the NTipS 2010 competition). [[Report](http://schrilax.github.io/files/ElGooG.pdf)]
 * Machine Learning course offered by Stanford under Dr Andrew Ng. [[Report](http://schrilax.github.io/files/statement-of-accomplishment.pdf)]
 * Optimization/Mathematics courses offered by Coursera. [[Certicate](http://schrilax.github.io/files/Linear_Programming_2014.pdf)][[Certicate](http://schrilax.github.io/files/Complex_Analysis_2014.pdf)][[Certicate](http://schrilax.github.io/files/Coursera3JL97R9BMUPF.pdf)]
