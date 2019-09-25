@@ -48,7 +48,7 @@ Experience
     - Trying to learn a robust QP model across retailer domains using Adversarial techniques in DL. [[Poster](http://schrilax.github.io/files/Criteo_Domain_Adaptation.pdf)]
 
 * __Research Assistant, The Research Foundation for SUNY__ (January 2017 - May 2017)
-  - Representation learning via Deep learning/NLSDR (working with [Varun Chandola](https://cse.buffalo.edu/~chandola/) / [Nils Napp](https://cse.buffalo.edu/~nnapp/) / [Jaroslaw Zola](https://cse.buffalo.edu/~jzola/))
+  - Representation learning via DL/NLSDR (working with [Varun Chandola](https://cse.buffalo.edu/~chandola/) / [Nils Napp](https://cse.buffalo.edu/~nnapp/) / [Jaroslaw Zola](https://cse.buffalo.edu/~jzola/))
     - Understanding complex nonlinear processes using DL/NLSDR methods. [[Paper](http://ieeexplore.ieee.org/document/8257987/)][[Demo](https://www.youtube.com/watch?v=fwT1zJ7VMFc)][[Demo](https://www.youtube.com/watch?v=ehN4I1TsBRc)]
   - Incorporating complex constraints for sparse Logistic Regression (working with [Varun Chandola](https://cse.buffalo.edu/~chandola/))
     - Worked towards solving the sparse Logistic Regression problem with tree-based hierarchical constraints.
