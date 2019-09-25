@@ -57,8 +57,8 @@ Experience
   - Teaching Assistant for CSE 574 Machine Learning.
 
 * __Machine Learning Algorithm Design Intern, BD Biosciences__ (June 2016 - August 2016)
-  - Fast Clustering of Flow Cytometry data
-    - Scaled up the existing framework for clustering of high dimensional Flow Cytometry data upto \~16x. [[Poster](http://schrilax.github.io/files/BD_Fast_Adaptive_Mean_Shift.pdf)][[Presentation](http://schrilax.github.io/files/Parallel_FAMS.pdf)]
+  - Fast Clustering of Flow Cytometry (FC) data
+    - Scaled up BD's existing framework for clustering of high dimensional FC data upto \~16x. [[Poster](http://schrilax.github.io/files/BD_Fast_Adaptive_Mean_Shift.pdf)][[Presentation](http://schrilax.github.io/files/Parallel_FAMS.pdf)]
 
 * __Teaching Assistant, University of Buffalo, The State University of New York__ (January 2016 - May 2016)
   - Teaching Assistant for CSE 574 Machine Learning.
@@ -82,7 +82,7 @@ Experience
   - Localization Via Entropy Reduction (working with [Robert Platt](https://www.khoury.northeastern.edu/people/robert-platt/))
     - Developed an active localization technique via sequential reduction of entropy using ROS. [[Report](http://schrilax.github.io/files/Localization.pdf)][[Demo](https://www.youtube.com/watch?v=Pqn-tMojdjk)]
   - AIRS (working with [Rakesh Nagi](https://ise.illinois.edu/directory/profile/nagi))
-    - Developed sequential/parallel versions of TRUncated Search Tree (TRUST) using HBase and Hadoop Sequence Files.
+    - Developed sequential/parallel versions of TRUncated Search Tree (TRUST).
   - Name2Face (working with [Bina Ramamurthy](https://cse.buffalo.edu/~bina/))
     - Developed Name2Face, a cloud application consuming the Microsoft cloud services.
 
