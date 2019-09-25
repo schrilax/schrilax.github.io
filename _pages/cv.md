@@ -51,7 +51,7 @@ Experience
   - Representation learning via Deep learning/NLSDR (working with [Varun Chandola](https://cse.buffalo.edu/~chandola/) / [Nils Napp](https://cse.buffalo.edu/~nnapp/) / [Jaroslaw Zola](https://cse.buffalo.edu/~jzola/))
     - Understanding complex nonlinear processes using Deep Learning/NLSDR methods. [[Paper](http://ieeexplore.ieee.org/document/8257987/)][[Demo](https://www.youtube.com/watch?v=fwT1zJ7VMFc)][[Demo](https://www.youtube.com/watch?v=ehN4I1TsBRc)]
   - Incorporating complex constraints for sparse Logistic Regression (working with [Varun Chandola](https://cse.buffalo.edu/~chandola/))
-    - Working towards solving the problem of including graphical and/or tree-based hierarchical constraints in sparse Logistic Regression.
+    - Worked towards solving sparse Logistic Regression problem with graphical/tree-based hierarchical constraints.
 
 * __Teaching Assistant, University of Buffalo, The State University of New York__ (September 2016 - December 2016)
   - Teaching Assistant for CSE 574 Machine Learning.
