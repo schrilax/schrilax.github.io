@@ -44,8 +44,8 @@ Experience
     - Understanding how to efficiently deal with the Domain Adaptation problem via Optimal Transportation.
 
 * __Research Scientist Intern, Criteo__ (May 2017 - August 2017)
-  - Joint Cross-domain Query-Product (QP) modeling using Adversarial Transfer Learning (working with [Suju Rajan](https://www.linkedin.com/in/suju-rajan/))
-    - Trying to learn a robust QP model across retailer domains using Adversarial techniques in DL. [[Poster](http://schrilax.github.io/files/Criteo_Domain_Adaptation.pdf)]
+  - Cross-domain Query-Product (QP) modeling using Adversarial Transfer Learning (working with [Suju Rajan](https://www.linkedin.com/in/suju-rajan/))
+    - Trying to learn a robust QP model across retailer domains using Adversarial Transfer Learning. [[Poster](http://schrilax.github.io/files/Criteo_Domain_Adaptation.pdf)]
 
 * __Research Assistant, The Research Foundation for SUNY__ (January 2017 - May 2017)
   - Representation learning via DL/NLSDR (working with [Varun Chandola](https://cse.buffalo.edu/~chandola/) / [Nils Napp](https://cse.buffalo.edu/~nnapp/) / [Jaroslaw Zola](https://cse.buffalo.edu/~jzola/))
