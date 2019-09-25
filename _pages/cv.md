@@ -110,15 +110,16 @@ Talks
 
 Honors
 ======
-* Won a NSF Junior Researcher Award to attend CBMS Conference on Sparse Recovery 2017. (Las Cruces, NM - 2017)
-* Became a [NVIDIA GPU Educator](https://developer.nvidia.com/educators). (Santa Clara, CA - 2016)
-* Won a NSF Student Travel Award to attend IEEE Big Data 2015. (Santa Clara, CA - 2015)
-* Won a rare Research Assistant-ship covering my second year as a Masters student. (Buffalo, NY - 2013)
-* Won the Star Performer of the Month award in Cognizant. (Kolkata, India - 2008)
-* Won the Outstanding Newbie award in Cognizant. (Kolkata, India - 2007)
+* Was invited to and attended the [Foundations of Deep Learning](https://simons.berkeley.edu/programs/dl2019) program (Berkeley, CA - 2019)
+* Won a NSF Junior Researcher Award to attend CBMS Conference on Sparse Recovery 2017 (Las Cruces, NM - 2017)
+* Became a [NVIDIA GPU Educator](https://developer.nvidia.com/educators) (Santa Clara, CA - 2016)
+* Won a NSF Student Travel Award to attend IEEE Big Data 2015 (Santa Clara, CA - 2015)
+* Won a rare Research Assistant-ship covering my second year as a Masters student (Buffalo, NY - 2013)
+* Won the Star Performer of the Month award in Cognizant (Kolkata, India - 2008)
+* Won the Outstanding Newbie award in Cognizant (Kolkata, India - 2007)
 * Scored 99 percentile in Zonal, Discipline & National categories of National IT Aptitude Test (Rourkela, India - 2004)
-* Subsequently won a Bhavishya Jyoti Scholarship for above. (Rourkela, India - 2004)
-* Won the Young Genius award. (Cuttack, India - 1999)
+* Subsequently won a Bhavishya Jyoti Scholarship for above (Rourkela, India - 2004)
+* Won the Young Genius award (Cuttack, India - 1999)
 
 Activities
 ======
