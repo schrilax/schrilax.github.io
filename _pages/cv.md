@@ -58,14 +58,14 @@ Experience
 
 * __Machine Learning Algorithm Design Intern, BD Biosciences__ (Jun 2016 - Aug 2016)
   - Fast Clustering of Flow Cytometry (FC) data
-    - Scaled up BD's existing clustering framework for high dimensional FC data upto \~16x. [[Poster](http://schrilax.github.io/files/BD_Fast_Adaptive_Mean_Shift.pdf)][[Presentation](http://schrilax.github.io/files/Parallel_FAMS.pdf)]
+    - Scaling up BD's existing clustering framework for high dimensional FC data upto \~16x. [[Poster](http://schrilax.github.io/files/BD_Fast_Adaptive_Mean_Shift.pdf)][[Presentation](http://schrilax.github.io/files/Parallel_FAMS.pdf)]
 
 * __Teaching Assistant, University of Buffalo, The State University of New York__ (Jan 2016 - May 2016)
   - Teaching Assistant for CSE 574 Machine Learning.
 
 * __Research Assistant, University of Buffalo, The State University of New York__ (Jun 2013 - Dec 2015)
   - Nonlinear Spectral Dimensionality Reduction (working with [Varun Chandola](https://cse.buffalo.edu/~chandola/) / [Jaroslaw Zola](https://cse.buffalo.edu/~jzola/) / [Nils Napp](https://cse.buffalo.edu/~nnapp/))
-    - Developing scalable Nonlinear Spectral Dimensionality Reduction methods in a streaming setting. [[Paper](https://epubs.siam.org/doi/10.1137/1.9781611974973.84)]
+    - Developing scalable NLSDR methods in a streaming setting. [[Paper](https://epubs.siam.org/doi/10.1137/1.9781611974973.84)]
   - Social Network Modeling (working with [Varun Chandola](https://cse.buffalo.edu/~chandola/))
     - Developed the xKPGM model for social network modeling. [[Paper](http://ieeexplore.ieee.org/document/7363817/)]
   - Variance Reduction techniques in Distributed Optimization (working with [Haimonti Dutta](http://mgt.buffalo.edu/faculty/academic-departments/management-science-systems/faculty/haimonti-dutta.html) / [Varun Chandola](https://cse.buffalo.edu/~chandola/))
@@ -73,7 +73,7 @@ Experience
   - Understanding Rumor Propagation in Social Networks (working with [Shambhu Upadhyaya](https://cse.buffalo.edu/~shambhu/) / [Varun Chandola](https://cse.buffalo.edu/~chandola/))
     - Working towards modelling rumor propagation in social networks.
   - Volcanic Flow Prediction (working with [Abani Patra](https://engineering.tufts.edu/people/faculty/abani-patra) / [Varun Chandola](https://cse.buffalo.edu/~chandola/) / [Paul Bauman](https://www.linkedin.com/in/paul-bauman-84a7093a))
-    - Developed a Gaussian process based model for prediction of flow using GPGPUs.
+    - Developed a Gaussian Process based model for prediction of flow using GPGPUs.
 
 * __Teaching Assistant, University of Buffalo, The State University of New York__ (Sep 2012 - May 2013)
   - Teaching Assistant for CSE 510 Introduction to Robotic Algorithms.
