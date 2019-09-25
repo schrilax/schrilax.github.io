@@ -14,7 +14,7 @@ redirect_from:
 Education
 ======
 * Ph.D. in [Computer Science and Engineering](https://engineering.buffalo.edu/computer-science-engineering.html), [University of Buffalo, The State University of New York](http://www.buffalo.edu), June 2018
-  - Thesis: Scalable Nonlinear Spectral Dimensionality Reduction (NLSDR) methods for streaming data. [[Thesis](http://schrilax.github.io/files/thesis_final.pdf)]
+  - Thesis: Scalable Nonlinear Spectral Dimensionality Reduction (NLSDR) methods for streaming data. [[Thesis](http://schrilax.github.io/files/thesis_final.pdf)][[Slides](http://schrilax.github.io/files/thesis_defense.pdf)]
   - Advisors: Varun Chandola, Nils Napp & Jaroslaw Zola
   - GPA: 4.0 out of 4.0 [[Transcript](http://schrilax.github.io/files/ub-cse-unofficial-transcript.pdf)]
 * M.S. in [Computer Science and Engineering](https://engineering.buffalo.edu/computer-science-engineering.html), [University of Buffalo, The State University of New York](http://www.buffalo.edu), June 2012
@@ -49,7 +49,7 @@ Experience
 
 * __Research Assistant, The Research Foundation for SUNY__ (Jan 2017 - May 2017)
   - Representation learning via DL/NLSDR (working with [Varun Chandola](https://cse.buffalo.edu/~chandola/) / [Nils Napp](https://cse.buffalo.edu/~nnapp/) / [Jaroslaw Zola](https://cse.buffalo.edu/~jzola/))
-    - Understanding complex nonlinear processes using DL/NLSDR methods. [[Paper](http://ieeexplore.ieee.org/document/8257987/)][[Demo](https://www.youtube.com/watch?v=fwT1zJ7VMFc)][[Demo](https://www.youtube.com/watch?v=ehN4I1TsBRc)]
+    - Understanding complex nonlinear processes using DL/NLSDR methods. [[Paper](http://ieeexplore.ieee.org/document/8257987/)][[Demo 1](https://www.youtube.com/watch?v=fwT1zJ7VMFc)][[Demo 2](https://www.youtube.com/watch?v=ehN4I1TsBRc)]
   - Incorporating complex constraints for sparse Logistic Regression (working with [Varun Chandola](https://cse.buffalo.edu/~chandola/))
     - Worked towards solving the sparse Logistic Regression problem with tree-based hierarchical constraints.
 
@@ -58,7 +58,7 @@ Experience
 
 * __Machine Learning Algorithm Design Intern, BD Biosciences__ (Jun 2016 - Aug 2016)
   - Fast Clustering of Flow Cytometry (FC) data
-    - Scaling up BD's clustering framework for high dimensional FC data upto \~16x. [[Poster](http://schrilax.github.io/files/BD_Fast_Adaptive_Mean_Shift.pdf)][[Presentation](http://schrilax.github.io/files/Parallel_FAMS.pdf)]
+    - Scaling up BD's clustering framework for high dimensional FC data upto \~16x. [[Poster](http://schrilax.github.io/files/BD_Fast_Adaptive_Mean_Shift.pdf)][[Slides](http://schrilax.github.io/files/Parallel_FAMS.pdf)]
 
 * __Teaching Assistant, University of Buffalo, The State University of New York__ (Jan 2016 - May 2016)
   - Teaching Assistant for CSE 574 Machine Learning.
@@ -127,7 +127,7 @@ Activities
 
 Additional Coursework
 ======
-* Implemented 3PRR Parallel Chain and PRRR Serial Chain Manipulators under Venkat Krovi. [[Presentation](http://schrilax.github.io/files/3-PRR-parallel-chain-manipulator.pdf)][[Presentation](http://schrilax.github.io/files/PRRR-serial-chain-manipulator.pdf)][[Demos](http://schrilax.github.io/files/youtube-video-links.txt)]
+* Implemented 3PRR Parallel Chain and PRRR Serial Chain Manipulators under Venkat Krovi. [[Slides 1](http://schrilax.github.io/files/3-PRR-parallel-chain-manipulator.pdf)][[Slides 2](http://schrilax.github.io/files/PRRR-serial-chain-manipulator.pdf)][[Demos](http://schrilax.github.io/files/youtube-video-links.txt)]
 * Developed ElGooG – A search engine using \~100000 TREC documents as corpus (won the NTipS 2010 competition). [[Report](http://schrilax.github.io/files/ElGooG.pdf)]
 * Machine Learning course offered by Stanford under Dr Andrew Ng. [[Report](http://schrilax.github.io/files/statement-of-accomplishment.pdf)]
-* Optimization/Mathematics courses offered by Coursera. [[Certificate](http://schrilax.github.io/files/Linear_Programming_2014.pdf)][[Certificate](http://schrilax.github.io/files/Complex_Analysis_2014.pdf)][[Certificate](http://schrilax.github.io/files/Coursera3JL97R9BMUPF.pdf)]
+* Optimization/Mathematics courses offered by Coursera. [[Certificate 1](http://schrilax.github.io/files/Linear_Programming_2014.pdf)][[Certificate 2](http://schrilax.github.io/files/Complex_Analysis_2014.pdf)][[Certificate 3](http://schrilax.github.io/files/Coursera3JL97R9BMUPF.pdf)]
