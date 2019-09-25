@@ -27,43 +27,43 @@ Education
 
 Experience
 ======
-* __Research Scientist, Criteo__ (July 2018 - Present)
+* __Research Scientist, Criteo__ (Jul 2018 - Present)
   - Improve Click-through and Sales prediction
     - Understanding how to improve Click-through and Sales prediction using nonlinear ML techniques.
   - Theoretical aspects on Deep Learning (DL) (working with [Noureddine El Karoui](https://statistics.berkeley.edu/people/noureddine-el-karoui))
     - Working towards understanding kernel and manifold specific aspects of theoretical deep learning.
 
-* __Research Assistant, The Research Foundation for SUNY__ (January 2018 - May 2018)
+* __Research Assistant, The Research Foundation for SUNY__ (Jan 2018 - May 2018)
   - Parallelized Hierarchical Clustering (working with [Haimonti Dutta](http://mgt.buffalo.edu/faculty/academic-departments/management-science-systems/faculty/haimonti-dutta.html))
     - Worked towards developing a novel parallel hierarchical clustering algorithm using activization strategies.
   - Kernel Manifold Learning (working with [Varun Chandola](https://cse.buffalo.edu/~chandola/))
     - Worked towards developing Manifold Learning techniques motivated from Gaussian Processes. [[Paper](https://arxiv.org/abs/1804.08833)]
 
-* __Research Scientist Intern, Criteo__ (September 2017 - December 2017)
+* __Research Scientist Intern, Criteo__ (Sep 2017 - Dec 2017)
   - Efficient Domain Adaptation (working with [Suju Rajan](https://www.linkedin.com/in/suju-rajan/))
     - Understanding how to efficiently deal with the Domain Adaptation problem via Optimal Transportation.
 
-* __Research Scientist Intern, Criteo__ (May 2017 - August 2017)
+* __Research Scientist Intern, Criteo__ (May 2017 - Aug 2017)
   - Cross-domain Query-Product (QP) modeling using Adversarial Transfer Learning (working with [Suju Rajan](https://www.linkedin.com/in/suju-rajan/))
     - Trying to learn a robust QP model across retailer domains using Adversarial Transfer Learning. [[Poster](http://schrilax.github.io/files/Criteo_Domain_Adaptation.pdf)]
 
-* __Research Assistant, The Research Foundation for SUNY__ (January 2017 - May 2017)
+* __Research Assistant, The Research Foundation for SUNY__ (Jan 2017 - May 2017)
   - Representation learning via DL/NLSDR (working with [Varun Chandola](https://cse.buffalo.edu/~chandola/) / [Nils Napp](https://cse.buffalo.edu/~nnapp/) / [Jaroslaw Zola](https://cse.buffalo.edu/~jzola/))
     - Understanding complex nonlinear processes using DL/NLSDR methods. [[Paper](http://ieeexplore.ieee.org/document/8257987/)][[Demo](https://www.youtube.com/watch?v=fwT1zJ7VMFc)][[Demo](https://www.youtube.com/watch?v=ehN4I1TsBRc)]
   - Incorporating complex constraints for sparse Logistic Regression (working with [Varun Chandola](https://cse.buffalo.edu/~chandola/))
     - Worked towards solving the sparse Logistic Regression problem with tree-based hierarchical constraints.
 
-* __Teaching Assistant, University of Buffalo, The State University of New York__ (September 2016 - December 2016)
+* __Teaching Assistant, University of Buffalo, The State University of New York__ (Sep 2016 - Dec 2016)
   - Teaching Assistant for CSE 574 Machine Learning.
 
-* __Machine Learning Algorithm Design Intern, BD Biosciences__ (June 2016 - August 2016)
+* __Machine Learning Algorithm Design Intern, BD Biosciences__ (Jun 2016 - Aug 2016)
   - Fast Clustering of Flow Cytometry (FC) data
     - Scaled up BD's existing clustering framework for high dimensional FC data upto \~16x. [[Poster](http://schrilax.github.io/files/BD_Fast_Adaptive_Mean_Shift.pdf)][[Presentation](http://schrilax.github.io/files/Parallel_FAMS.pdf)]
 
-* __Teaching Assistant, University of Buffalo, The State University of New York__ (January 2016 - May 2016)
+* __Teaching Assistant, University of Buffalo, The State University of New York__ (Jan 2016 - May 2016)
   - Teaching Assistant for CSE 574 Machine Learning.
 
-* __Research Assistant, University of Buffalo, The State University of New York__ (June 2013 - December 2015)
+* __Research Assistant, University of Buffalo, The State University of New York__ (Jun 2013 - Dec 2015)
   - Nonlinear Spectral Dimensionality Reduction (working with [Varun Chandola](https://cse.buffalo.edu/~chandola/) / [Jaroslaw Zola](https://cse.buffalo.edu/~jzola/) / [Nils Napp](https://cse.buffalo.edu/~nnapp/))
     - Developing scalable Nonlinear Spectral Dimensionality Reduction methods in a streaming setting. [[Paper](https://epubs.siam.org/doi/10.1137/1.9781611974973.84)]
   - Social Network Modeling (working with [Varun Chandola](https://cse.buffalo.edu/~chandola/))
@@ -75,10 +75,10 @@ Experience
   - Volcanic Flow Prediction (working with [Abani Patra](https://engineering.tufts.edu/people/faculty/abani-patra) / [Varun Chandola](https://cse.buffalo.edu/~chandola/) / [Paul Bauman](https://www.linkedin.com/in/paul-bauman-84a7093a))
     - Developed a Gaussian process based model for prediction of flow using GPGPUs.
 
-* __Teaching Assistant, University of Buffalo, The State University of New York__ (September 2012 - May 2013)
+* __Teaching Assistant, University of Buffalo, The State University of New York__ (Sep 2012 - May 2013)
   - Teaching Assistant for CSE 510 Introduction to Robotic Algorithms.
 
-* __Research Assistant, The Research Foundation for SUNY__ (June 2011 - August 2012)
+* __Research Assistant, The Research Foundation for SUNY__ (Jun 2011 - Aug 2012)
   - Localization Via Entropy Reduction (working with [Robert Platt](https://www.khoury.northeastern.edu/people/robert-platt/))
     - Developed an active localization technique via sequential reduction of entropy using ROS. [[Report](http://schrilax.github.io/files/Localization.pdf)][[Demo](https://www.youtube.com/watch?v=Pqn-tMojdjk)]
   - AIRS (working with [Rakesh Nagi](https://ise.illinois.edu/directory/profile/nagi))
@@ -86,7 +86,7 @@ Experience
   - Name2Face (working with [Bina Ramamurthy](https://cse.buffalo.edu/~bina/))
     - Developed Name2Face, a cloud application consuming the Microsoft cloud services.
 
-* __Associate, Cognizant__ (June 2005 - July 2010)
+* __Associate, Cognizant__ (Jun 2005 - Jul 2010)
   - Developed ExProc, a tool for processing excel documents.
   - Built SuperAgent 4.0, a tool for making reservations which interacts with the Novasol and Cuendet servers.
   - Developed Universal Agent Tool along with my team, a tool which aimed at merging operations for various CRS.
