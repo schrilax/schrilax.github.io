@@ -127,7 +127,7 @@ Activities
 
 Additional Coursework
 ======
-* Implemented 3PRR Parallel Chain and PRRR Serial Chain Manipulators under Venkat Krovi. [[Presentation](http://schrilax.github.io/files/ElGooG.pdf)][[Presentation](http://schrilax.github.io/files/ElGooG.pdf)][[Demos](http://schrilax.github.io/files/ElGooG.pdf)]
+* Implemented 3PRR Parallel Chain and PRRR Serial Chain Manipulators under Venkat Krovi. [[Presentation](http://schrilax.github.io/files/3-PRR-parallel-chain-manipulator.pdf)][[Presentation](http://schrilax.github.io/files/PRRR-serial-chain-manipulator.pdf)][[Demos](http://schrilax.github.io/files/youtube-video-links.txt)]
 * Developed ElGooG – A search engine using \~100000 TREC documents as corpus (won the NTipS 2010 competition). [[Report](http://schrilax.github.io/files/ElGooG.pdf)]
 * Machine Learning course offered by Stanford under Dr Andrew Ng. [[Report](http://schrilax.github.io/files/statement-of-accomplishment.pdf)]
 * Optimization/Mathematics courses offered by Coursera. [[Certificate](http://schrilax.github.io/files/Linear_Programming_2014.pdf)][[Certificate](http://schrilax.github.io/files/Complex_Analysis_2014.pdf)][[Certificate](http://schrilax.github.io/files/Coursera3JL97R9BMUPF.pdf)]
