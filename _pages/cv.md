@@ -116,7 +116,7 @@ Honors
 * Won a rare Research Assistant-ship covering my second year as a Masters student. (Buffalo, NY - 2013)
 * Won the Star Performer of the Month award in Cognizant. (Kolkata, India - 2008)
 * Won the Outstanding Newbie award in Cognizant. (Kolkata, India - 2007)
-* Scored 99 percentile in Zonal, Discipline and National categories of National IT Aptitude Test. (Rourkela, India - 2004)
+* Scored 99 percentile in Zonal, Discipline & National categories of National IT Aptitude Test (Rourkela, India - 2004)
 * Subsequently won a Bhavishya Jyoti Scholarship for above. (Rourkela, India - 2004)
 * Won the Young Genius award. (Cuttack, India - 1999)
 
