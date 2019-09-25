@@ -69,7 +69,7 @@ Experience
   - Social Network Modeling (working with [Varun Chandola](https://cse.buffalo.edu/~chandola/))
     - Developed the xKPGM model for social network modeling. [[Paper](http://ieeexplore.ieee.org/document/7363817/)]
   - Variance Reduction techniques in Distributed Optimization (working with [Haimonti Dutta](http://mgt.buffalo.edu/faculty/academic-departments/management-science-systems/faculty/haimonti-dutta.html) / [Varun Chandola](https://cse.buffalo.edu/~chandola/))
-    - Working towards developing novel variance reduction techniques for the empirical risk minimization problem.
+    - Working towards developing novel variance reduction techniques for the ERM problem.
   - Understanding Rumor Propagation in Social Networks (working with [Shambhu Upadhyaya](https://cse.buffalo.edu/~shambhu/) / [Varun Chandola](https://cse.buffalo.edu/~chandola/))
     - Working towards modelling rumor propagation in social networks.
   - Volcanic Flow Prediction (working with [Abani Patra](https://engineering.tufts.edu/people/faculty/abani-patra) / [Varun Chandola](https://cse.buffalo.edu/~chandola/) / [Paul Bauman](https://www.linkedin.com/in/paul-bauman-84a7093a))
@@ -82,9 +82,9 @@ Experience
   - Localization Via Entropy Reduction (working with [Robert Platt](https://www.khoury.northeastern.edu/people/robert-platt/))
     - Developed an active localization technique via sequential reduction of entropy using OpenRAVE/ROS. [[Report](http://schrilax.github.io/files/Localization.pdf)][[Demo](https://www.youtube.com/watch?v=Pqn-tMojdjk)]
   - AIRS (working with [Rakesh Nagi](https://ise.illinois.edu/directory/profile/nagi))
-    - Developed sequential and parallel versions of TRUncated Search Tree (TRUST) using HBase, Hadoop Sequence Files and RDF.
+    - Developed sequential/parallel versions of TRUncated Search Tree (TRUST) using HBase and Hadoop Sequence Files.
   - Name2Face (working with [Bina Ramamurthy](https://cse.buffalo.edu/~bina/))
-    - Developed Name2Face, a cloud application consuming the Microsoft cloud services (blob, queue and table).
+    - Developed Name2Face, a cloud application consuming the Microsoft cloud services.
 
 * __Associate, Cognizant__ (June 2005 - July 2010)
   - Developed ExProc, a tool for processing excel documents.
