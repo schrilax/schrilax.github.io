@@ -15,15 +15,15 @@ Education
 ======
 * Ph.D. in [Computer Science and Engineering](https://engineering.buffalo.edu/computer-science-engineering.html), [University of Buffalo, The State University of New York](http://www.buffalo.edu), June 2018
   - Topic: __Scalable Nonlinear Spectral Dimensionality Reduction methods for streaming data__ [[Thesis](http://schrilax.github.io/files/thesis_final.pdf)][[Slides](http://schrilax.github.io/files/thesis_defense.pdf)]
-  - Advisors: Varun Chandola, Nils Napp & Jaroslaw Zola
+  - Advisors: [Varun Chandola](https://cse.buffalo.edu/~chandola/), [Nils Napp](https://cse.buffalo.edu/~nnapp/) & [Jaroslaw Zola](https://cse.buffalo.edu/~jzola/)
   - GPA: __4.0 out of 4.0__ [[Transcript](http://schrilax.github.io/files/ub-cse-unofficial-transcript.pdf)]
 * M.S. in [Computer Science and Engineering](https://engineering.buffalo.edu/computer-science-engineering.html), [University of Buffalo, The State University of New York](http://www.buffalo.edu), June 2012
   - Topic: __A Cold Start Recommendation System Using Item Correlation and User Similarity__ [[Report](http://schrilax.github.io/files/iRec.pdf)]
   - GPA: __4.0 out of 4.0__ [[Transcript](http://schrilax.github.io/files/ub-cse-unofficial-transcript.pdf)]
-  - Department rank: 1 out of 555
+  - Department rank: __1 out of 555__
 * B.Tech. in [Computer Science and Engineering](https://www.nitrkl.ac.in/CS/Default.aspx), [National Institute of Technology, Rourkela](https://www.nitrkl.ac.in), May 2005
   - Cumulative Score: __77% (First class with honors)__ [[Transcript](http://schrilax.github.io/files/nit_bachelors_transcript.pdf)]
-  - Joint Entrance Exam Rank 22 out of 400,000
+  - Joint Entrance Exam rank: __22 out of 400,000__
 
 Experience
 ======
