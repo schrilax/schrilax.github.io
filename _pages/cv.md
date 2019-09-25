@@ -49,7 +49,7 @@ Experience
 
 * __Research Assistant, The Research Foundation for SUNY__ (January 2017 - May 2017)
   - Representation learning via Deep learning/NLSDR (working with [Varun Chandola](https://cse.buffalo.edu/~chandola/) / [Nils Napp](https://cse.buffalo.edu/~nnapp/) / [Jaroslaw Zola](https://cse.buffalo.edu/~jzola/))
-    - Understanding complex nonlinear processes using Deep Learning/NLSDR methods. [[Demo](https://www.youtube.com/watch?v=fwT1zJ7VMFc)][[Demo](https://www.youtube.com/watch?v=ehN4I1TsBRc)]
+    - Understanding complex nonlinear processes using Deep Learning/NLSDR methods. [[Paper](http://ieeexplore.ieee.org/document/8257987/)][[Demo](https://www.youtube.com/watch?v=fwT1zJ7VMFc)][[Demo](https://www.youtube.com/watch?v=ehN4I1TsBRc)]
   - Incorporating complex constraints for sparse Logistic Regression (working with [Varun Chandola](https://cse.buffalo.edu/~chandola/))
     - Working towards solving the problem of including graphical and/or tree-based hierarchical constraints in sparse Logistic Regression.
 
@@ -65,9 +65,9 @@ Experience
 
 * __Research Assistant, University of Buffalo, The State University of New York__ (June 2013 - December 2015)
   - Nonlinear Spectral Dimensionality Reduction (working with [Varun Chandola](https://cse.buffalo.edu/~chandola/) / [Jaroslaw Zola](https://cse.buffalo.edu/~jzola/) / [Nils Napp](https://cse.buffalo.edu/~nnapp/))
-    - Developing scalable Nonlinear Spectral Dimensionality Reduction methods in a streaming setting.
+    - Developing scalable Nonlinear Spectral Dimensionality Reduction methods in a streaming setting. [[Paper](https://epubs.siam.org/doi/10.1137/1.9781611974973.84)]
   - Social Network Modeling (working with [Varun Chandola](https://cse.buffalo.edu/~chandola/))
-    - Developed the xKPGM model for social network modeling.
+    - Developed the xKPGM model for social network modeling. [[Paper](http://ieeexplore.ieee.org/document/7363817/)]
   - Variance Reduction techniques in Distributed Optimization (working with [Haimonti Dutta](http://mgt.buffalo.edu/faculty/academic-departments/management-science-systems/faculty/haimonti-dutta.html) / [Varun Chandola](https://cse.buffalo.edu/~chandola/))
     - Working towards developing novel variance reduction techniques for the empirical risk minimization problem.
   - Understanding Rumor Propagation in Social Networks (working with [Shambhu Upadhyaya](https://cse.buffalo.edu/~shambhu/) / [Varun Chandola](https://cse.buffalo.edu/~chandola/))
