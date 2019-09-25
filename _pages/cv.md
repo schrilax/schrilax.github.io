@@ -35,9 +35,9 @@ Experience
 
 * __Research Assistant, The Research Foundation for SUNY__ (January 2018 - May 2018)
   - Parallelized Hierarchical Clustering (working with [Haimonti Dutta](http://mgt.buffalo.edu/faculty/academic-departments/management-science-systems/faculty/haimonti-dutta.html))
-    - Working towards developing a novel parallel random-partition based hierarchical clustering algorithm using activization strategies.
+    - Worked towards developing a novel parallel random-partition based hierarchical clustering algorithm using activization strategies.
   - Kernel Manifold Learning (working with [Varun Chandola](https://cse.buffalo.edu/~chandola/))
-    - Working towards developing Manifold Learning techniques motivated from Gaussian Processes. [[Paper](https://arxiv.org/abs/1804.08833)]
+    - Worked towards developing Manifold Learning techniques motivated from Gaussian Processes. [[Paper](https://arxiv.org/abs/1804.08833)]
 
 * __Research Scientist Intern, Criteo__ (September 2017 - December 2017)
   - Efficient Domain Adaptation (working with [Suju Rajan](https://www.linkedin.com/in/suju-rajan/))
@@ -80,7 +80,7 @@ Experience
 
 * __Research Assistant, The Research Foundation for SUNY__ (June 2011 - August 2012)
   - Localization Via Entropy Reduction (working with [Robert Platt](https://www.khoury.northeastern.edu/people/robert-platt/))
-    - Developed an active localization technique via sequential reduction of entropy using OpenRAVE/ROS. [[Report](http://schrilax.github.io/files/Localization.pdf)][[Demo](https://www.youtube.com/watch?v=Pqn-tMojdjk)]
+    - Developed an active localization technique via sequential reduction of entropy using ROS. [[Report](http://schrilax.github.io/files/Localization.pdf)][[Demo](https://www.youtube.com/watch?v=Pqn-tMojdjk)]
   - AIRS (working with [Rakesh Nagi](https://ise.illinois.edu/directory/profile/nagi))
     - Developed sequential/parallel versions of TRUncated Search Tree (TRUST) using HBase and Hadoop Sequence Files.
   - Name2Face (working with [Bina Ramamurthy](https://cse.buffalo.edu/~bina/))
