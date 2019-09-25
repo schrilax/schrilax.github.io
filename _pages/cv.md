@@ -51,14 +51,14 @@ Experience
   - Representation learning via Deep learning/NLSDR (working with [Varun Chandola](https://cse.buffalo.edu/~chandola/) / [Nils Napp](https://cse.buffalo.edu/~nnapp/) / [Jaroslaw Zola](https://cse.buffalo.edu/~jzola/))
     - Understanding complex nonlinear processes using Deep Learning/NLSDR methods. [[Paper](http://ieeexplore.ieee.org/document/8257987/)][[Demo](https://www.youtube.com/watch?v=fwT1zJ7VMFc)][[Demo](https://www.youtube.com/watch?v=ehN4I1TsBRc)]
   - Incorporating complex constraints for sparse Logistic Regression (working with [Varun Chandola](https://cse.buffalo.edu/~chandola/))
-    - Worked towards solving sparse Logistic Regression problem with graphical/tree-based hierarchical constraints.
+    - Worked towards solving the sparse Logistic Regression problem with graphical/tree-based hierarchical constraints.
 
 * __Teaching Assistant, University of Buffalo, The State University of New York__ (September 2016 - December 2016)
   - Teaching Assistant for CSE 574 Machine Learning.
 
 * __Machine Learning Algorithm Design Intern, BD Biosciences__ (June 2016 - August 2016)
   - Fast Clustering of Flow Cytometry (FC) data
-    - Scaled up BD's existing framework for clustering of high dimensional FC data upto \~16x. [[Poster](http://schrilax.github.io/files/BD_Fast_Adaptive_Mean_Shift.pdf)][[Presentation](http://schrilax.github.io/files/Parallel_FAMS.pdf)]
+    - Scaled up BD's existing clustering framework for high dimensional FC data upto \~16x. [[Poster](http://schrilax.github.io/files/BD_Fast_Adaptive_Mean_Shift.pdf)][[Presentation](http://schrilax.github.io/files/Parallel_FAMS.pdf)]
 
 * __Teaching Assistant, University of Buffalo, The State University of New York__ (January 2016 - May 2016)
   - Teaching Assistant for CSE 574 Machine Learning.
