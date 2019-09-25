@@ -30,12 +30,12 @@ Experience
 * __Research Scientist, Criteo__ (July 2018 - Present)
   - Improve Click-through and Sales prediction
     - Understanding how to improve Click-through and Sales prediction using nonlinear ML techniques.
-  - Theoretical aspects on Deep Learning (working with [Noureddine El Karoui](https://statistics.berkeley.edu/people/noureddine-el-karoui))
+  - Theoretical aspects on Deep Learning (DL) (working with [Noureddine El Karoui](https://statistics.berkeley.edu/people/noureddine-el-karoui))
     - Working towards understanding kernel and manifold specific aspects of theoretical deep learning.
 
 * __Research Assistant, The Research Foundation for SUNY__ (January 2018 - May 2018)
   - Parallelized Hierarchical Clustering (working with [Haimonti Dutta](http://mgt.buffalo.edu/faculty/academic-departments/management-science-systems/faculty/haimonti-dutta.html))
-    - Worked towards developing a novel parallel random-partition based hierarchical clustering algorithm using activization strategies.
+    - Worked towards developing a novel parallel hierarchical clustering algorithm using activization strategies.
   - Kernel Manifold Learning (working with [Varun Chandola](https://cse.buffalo.edu/~chandola/))
     - Worked towards developing Manifold Learning techniques motivated from Gaussian Processes. [[Paper](https://arxiv.org/abs/1804.08833)]
 
@@ -44,12 +44,12 @@ Experience
     - Understanding how to efficiently deal with the Domain Adaptation problem via Optimal Transportation.
 
 * __Research Scientist Intern, Criteo__ (May 2017 - August 2017)
-  - Joint Cross-domain Query-Product modeling using Adversarial Transfer Learning (working with [Suju Rajan](https://www.linkedin.com/in/suju-rajan/))
-    - Trying to learn a robust Query-Product model across retailer domains using Adversarial techniques in Deep Transfer Learning. [[Poster](http://schrilax.github.io/files/Criteo_Domain_Adaptation.pdf)]
+  - Joint Cross-domain Query-Product (QP) modeling using Adversarial Transfer Learning (working with [Suju Rajan](https://www.linkedin.com/in/suju-rajan/))
+    - Trying to learn a robust QP model across retailer domains using Adversarial techniques in DL. [[Poster](http://schrilax.github.io/files/Criteo_Domain_Adaptation.pdf)]
 
 * __Research Assistant, The Research Foundation for SUNY__ (January 2017 - May 2017)
   - Representation learning via Deep learning/NLSDR (working with [Varun Chandola](https://cse.buffalo.edu/~chandola/) / [Nils Napp](https://cse.buffalo.edu/~nnapp/) / [Jaroslaw Zola](https://cse.buffalo.edu/~jzola/))
-    - Understanding complex nonlinear processes using Deep Learning/NLSDR methods. [[Paper](http://ieeexplore.ieee.org/document/8257987/)][[Demo](https://www.youtube.com/watch?v=fwT1zJ7VMFc)][[Demo](https://www.youtube.com/watch?v=ehN4I1TsBRc)]
+    - Understanding complex nonlinear processes using DL/NLSDR methods. [[Paper](http://ieeexplore.ieee.org/document/8257987/)][[Demo](https://www.youtube.com/watch?v=fwT1zJ7VMFc)][[Demo](https://www.youtube.com/watch?v=ehN4I1TsBRc)]
   - Incorporating complex constraints for sparse Logistic Regression (working with [Varun Chandola](https://cse.buffalo.edu/~chandola/))
     - Worked towards solving the sparse Logistic Regression problem with tree-based hierarchical constraints.
 
