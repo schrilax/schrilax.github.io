@@ -41,7 +41,7 @@ Experience
 
 * __Research Scientist Intern, Criteo__ (September 2017 - December 2017)
   - Efficient Domain Adaptation (working with [Suju Rajan](https://www.linkedin.com/in/suju-rajan/))
-    - Understanding how to efficiently deal with the Domain Adaptation problem from an Optimal Transportation perspective.
+    - Understanding how to efficiently deal with the Domain Adaptation problem via Optimal Transportation.
 
 * __Research Scientist Intern, Criteo__ (May 2017 - August 2017)
   - Joint Cross-domain Query-Product modeling using Adversarial Transfer Learning (working with [Suju Rajan](https://www.linkedin.com/in/suju-rajan/))
