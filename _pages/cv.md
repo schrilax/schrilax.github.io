@@ -84,7 +84,7 @@ Experience
   - AIRS (working with [Rakesh Nagi](https://ise.illinois.edu/directory/profile/nagi))
     - Developed sequential/parallel versions of [TRUncated Search Tree](https://www.sciencedirect.com/science/article/abs/pii/S1566253509000955) algorithm.
   - Name2Face (working with [Bina Ramamurthy](https://cse.buffalo.edu/~bina/))
-    - Developed Name2Face, a cloud application consuming the Microsoft cloud services.
+    - Developed Name2Face, a cloud application consuming Microsoft cloud services.
 
 * __Associate, Cognizant__ (Jun 2005 - Jul 2010)
   - Developed ExProc, a tool for processing excel documents.
