@@ -65,7 +65,7 @@ Experience
 
 * __Research Assistant, University of Buffalo, The State University of New York__ (Jun 2013 - Dec 2015)
   - Nonlinear Spectral Dimensionality Reduction (working with [Varun Chandola](https://cse.buffalo.edu/~chandola/) / [Jaroslaw Zola](https://cse.buffalo.edu/~jzola/) / [Nils Napp](https://cse.buffalo.edu/~nnapp/))
-    - Developing scalable NLSDR methods in a streaming setting. [[Paper](https://epubs.siam.org/doi/10.1137/1.9781611974973.84)]
+    - Developed scalable NLSDR methods in a streaming setting. [[Paper](https://epubs.siam.org/doi/10.1137/1.9781611974973.84)]
   - Social Network Modeling (working with [Varun Chandola](https://cse.buffalo.edu/~chandola/))
     - Developed the xKPGM model for social network modeling. [[Paper](http://ieeexplore.ieee.org/document/7363817/)]
   - Variance Reduction techniques in Distributed Optimization (working with [Haimonti Dutta](http://mgt.buffalo.edu/faculty/academic-departments/management-science-systems/faculty/haimonti-dutta.html) / [Varun Chandola](https://cse.buffalo.edu/~chandola/))
@@ -79,10 +79,10 @@ Experience
   - Teaching Assistant for CSE 510 Introduction to Robotic Algorithms.
 
 * __Research Assistant, The Research Foundation for SUNY__ (Jun 2011 - Aug 2012)
-  - Localization Via Entropy Reduction (working with [Robert Platt](https://www.khoury.northeastern.edu/people/robert-platt/))
+  - Localization via Entropy Reduction (working with [Robert Platt](https://www.khoury.northeastern.edu/people/robert-platt/))
     - Developed an active localization technique via sequential reduction of entropy using ROS. [[Report](http://schrilax.github.io/files/Localization.pdf)][[Demo](https://www.youtube.com/watch?v=Pqn-tMojdjk)]
   - AIRS (working with [Rakesh Nagi](https://ise.illinois.edu/directory/profile/nagi))
-    - Developed sequential/parallel versions of TRUncated Search Tree (TRUST).
+    - Developed sequential/parallel versions of [TRUncated Search Tree](https://www.sciencedirect.com/science/article/abs/pii/S1566253509000955) algorithm.
   - Name2Face (working with [Bina Ramamurthy](https://cse.buffalo.edu/~bina/))
     - Developed Name2Face, a cloud application consuming the Microsoft cloud services.
 
