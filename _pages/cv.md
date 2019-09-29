@@ -86,6 +86,12 @@ Experience
   - Name2Face (working with [Bina Ramamurthy](https://cse.buffalo.edu/~bina/))
     - Developed Name2Face, a cloud application consuming Microsoft cloud services.
 
+* __Research Assistant, University of Buffalo, The State University of New York__ (Nov 2010 - May 2011)
+  - Persistent URLs (PURLs) (worked with [Alan Ruttenberg](http://www.buffalo.edu/content/www/bioinformatics/resources/faculty/profile.html?ubit=alanrutt))
+    - Enhanced the PURLs implementation to include more intelligence.
+  - Protege 4.1 plugin development (worked with [Alan Ruttenberg](http://www.buffalo.edu/content/www/bioinformatics/resources/faculty/profile.html?ubit=alanrutt))
+    - Development of plugins for Protege 4.1 for processing Ontologies.
+
 * __Associate, Cognizant__ (Jun 2005 - Jul 2010)
   - Developed ExProc, a tool for processing excel documents.
   - Built SuperAgent 4.0, a tool for making reservations which interacts with the Novasol and Cuendet servers.
