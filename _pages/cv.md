@@ -28,7 +28,7 @@ Education
 
 Experience
 ======
-* __Research Scientist, Criteo__ (Jul 2018 - Present)
+* __Research Scientist, Criteo Research__ (Jul 2018 - Present)
   - Improve Click-through and Sales prediction
     - Understanding how to improve Click-through and Sales prediction using nonlinear ML techniques.
   - Theoretical aspects on Deep Learning (DL) (working with [Noureddine El Karoui](https://statistics.berkeley.edu/people/noureddine-el-karoui))
@@ -40,11 +40,11 @@ Experience
   - Kernel Manifold Learning (working with [Varun Chandola](https://cse.buffalo.edu/~chandola/))
     - Worked towards developing Manifold Learning techniques motivated from Gaussian Processes. [[Paper](https://arxiv.org/abs/1804.08833)]
 
-* __Research Scientist Intern, Criteo__ (Sep 2017 - Dec 2017)
+* __Research Scientist Intern, Criteo Research__ (Sep 2017 - Dec 2017)
   - Efficient Domain Adaptation (working with [Suju Rajan](https://www.linkedin.com/in/suju-rajan/))
     - Understanding how to efficiently deal with the Domain Adaptation problem via Optimal Transportation.
 
-* __Research Scientist Intern, Criteo__ (May 2017 - Aug 2017)
+* __Research Scientist Intern, Criteo Research__ (May 2017 - Aug 2017)
   - Cross-domain Query-Product (QP) modeling using Adversarial Transfer Learning (working with [Suju Rajan](https://www.linkedin.com/in/suju-rajan/))
     - Trying to learn a robust QP model across retailer domains using Adversarial Transfer Learning. [[Poster](http://schrilax.github.io/files/Criteo_Domain_Adaptation.pdf)]
 
