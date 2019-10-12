@@ -7,7 +7,7 @@ venue: "ML Boot Camp, Q2 2019"
 date: 2019-04-11
 location: "Palo Alto Research Center"
 ---
-This course was given as part of the ML Boot Camp for Q2, 2019 aims to introduce the audience to Generative Models. The core intuition of latent spaces and generative modeling are introduced. The subsequent assignment based on interpolation in latent spaces allows them to practice their understanding on the subject. 
+This course was given as part of the ML Boot Camp for Q2, 2019 aims to introduce the audience to Generative Models. The core intuition of latent spaces and manifolds and generative modeling are introduced. The subsequent assignment based on interpolation in latent spaces allows them to practice their understanding on the subject. 
 
 ### Slides ###
 - [Generative and Discriminative Models](https://schrilax.github.io/files/slides_GD.pdf)
