@@ -2,9 +2,9 @@
 title: "Classification and Decision Trees"
 collection: teaching
 type: "ML Boot Camp"
-permalink: /teaching/2018-11-01-class-CDT
+permalink: /teaching/2018-Q4-teaching-CDT
 venue: "Criteo Research"
-date: 2018-12-01
+date: 2018-11-01
 location: "Palo Alto Research Center"
 ---
 
