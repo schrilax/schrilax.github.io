@@ -4,7 +4,7 @@ collection: teaching
 type: "class"
 permalink: /teaching/2018-Q4-teaching-CDT
 venue: "ML Boot Camp, Q4 2018"
-date: 2018-11-01
+date: 2018-10-03
 location: "Palo Alto Research Center"
 ---
 This course was given as part of the ML Boot Camp for Q4, 2018 and aims to introduce the audience to Classification. Additionally it allows the audience to work through different classification algorithms to understand the difference between them as well as get a feel for the implicit bias each algorithm has. The subsequent assignment allows them to practice their understanding on the subject. 

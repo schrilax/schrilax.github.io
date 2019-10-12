@@ -1,10 +1,10 @@
 ---
-title: "Generative Models, Q2 2019"
+title: "Generative Models"
 collection: teaching
-type: "ML Boot Camp"
+type: "class"
 permalink: /teaching/2019-Q2-teaching-GM
-venue: "Criteo Research"
-date: 2019-04-01
+venue: "ML Boot Camp, Q2 2019"
+date: 2019-04-11
 location: "Palo Alto Research Center"
 ---
 This course given as part of the ML Boot Camp for Q2, 2019 aims to introduce the audience to Generative Models. The core intuition of latent spaces and generative modeling are introduced. The subsequent assignment based on interpolation in latent spaces allows them to practice their understanding on the subject. 
