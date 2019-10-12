@@ -28,7 +28,7 @@ For the assignment, you will interpolate in between the latent spaces for MNIST 
 ### Dataset ###
 The dataset you will be using is the MNIST dataset ([MNIST](http://yann.lecun.com/exdb/mnist/index.html)). The MNIST dataset consists of images of handwritten digits for the numbers 0-9. It has **60000** training instances and **10000** test instances. The dataset (both training and test data sets) are available in the 'data' sub-folder of this repository. See below to see how random samples from the MNIST dataset look like.
 
-<img src="https://qph.fs.quoracdn.net/main-qimg-d01751bdf7dab3d9a5949f226a35b7ba" alt="MNIST" width="1800"/>
+<img src="https://schrilax.github.io/files/mnist.png" alt="MNIST" width="400"/>
 
 ### Installation ###
 The assignment needs to be completed using Python (Tensorflow and other libraries). The installation of Python on Mac is pretty simple and straightforward.
