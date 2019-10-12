@@ -13,8 +13,7 @@ This course was given as part of the ML Boot Camp for Q2, 2019 aims to introduce
 - [Generative and Discriminative Models](https://schrilax.github.io/files/slides_GD.pdf)
 - [AutoEncoders](https://schrilax.github.io/files/slides_AE.pdf)
 
-### Demos ###
-- [MNIST in latent space](https://schrilax.github.io/files/mnist_2d.png)
+<img src="https://schrilax.github.io/files/mnist_2d.png" alt="MNIST in latent space" width="500"/>
 
 ### Assignment for the Machine Learning (ML) Bootcamp for Q2 2019 on “Generative Models” ###
 In this assignment, you will -
