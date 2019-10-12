@@ -13,7 +13,7 @@ This course was given as part of the ML Boot Camp for Q4, 2019 aims to introduce
 - [Generative and Discriminative Models](https://schrilax.github.io/files/slides_GD.pdf)
 - [AutoEncoders](https://schrilax.github.io/files/slides_AE.pdf)
 
-<img src="https://schrilax.github.io/files/mnist_2d.png" alt="MNIST in latent space" width="500"/>
+<img src="https://schrilax.github.io/files/mnist_2d.png" alt="MNIST in latent space" width="1000"/>
 
 ### Assignment for the Machine Learning (ML) Bootcamp for Q4 2019 on “Generative Models” ###
 In this assignment, you will -
@@ -28,7 +28,7 @@ For the assignment, you will interpolate in between the latent spaces for MNIST 
 ### Dataset ###
 The dataset you will be using is the MNIST dataset ([MNIST](http://yann.lecun.com/exdb/mnist/index.html)). The MNIST dataset consists of images of handwritten digits for the numbers 0-9. It has **60000** training instances and **10000** test instances. The dataset (both training and test data sets) are available in the 'data' sub-folder of this repository. See below to see how random samples from the MNIST dataset look like.
 
-<img src="https://qph.fs.quoracdn.net/main-qimg-d01751bdf7dab3d9a5949f226a35b7ba" alt="MNIST" width="2200"/>
+<img src="https://qph.fs.quoracdn.net/main-qimg-d01751bdf7dab3d9a5949f226a35b7ba" alt="MNIST" width="1800"/>
 
 ### Installation ###
 The assignment needs to be completed using Python (Tensorflow and other libraries). The installation of Python on Mac is pretty simple and straightforward.
@@ -100,7 +100,7 @@ The task has three parts as follows :-
 
 * In the second part, you will interpolate in latent spaces i.e. using the provided code to interpolate between the mean latent representation of different digits. See below for an example. Can you guess the two digits between which we are interpolating in latent space ? Please choose **three** different combinations of interpolations to be done using either setting 2 or 3. Please feel free to choose whatever digits you want to interpolate between. **To do this part, please take a look at example 1 in 'tf_ae_mnist.py' and example 2 in 'plot_lde.py'**.
 
-<img src="https://schrilax.github.io/files/img_0.0.png" width="100"/><img src="https://schrilax.github.io/files/img_0.1.png" width="100"/><img src="https://schrilax.github.io/files/img_0.2.png" width="100"/><img src="https://schrilax.github.io/files/img_0.3.png" width="100"/><img src="https://schrilax.github.io/files/img_0.4.png" width="100"/><img src="https://schrilax.github.io/files/img_0.5.png" width="100"/><img src="https://schrilax.github.io/files/img_0.6.png" width="100"/><img src="https://schrilax.github.io/files/img_0.7.png" width="100"/><img src="https://schrilax.github.io/files/img_0.8.png" width="100"/><img src="https://schrilax.github.io/files/img_0.9.png" width="100"/><img src="https://schrilax.github.io/files/img_1.0.png" width="100"/>
+<img src="https://schrilax.github.io/files/img_0.0.png" width="80"/><img src="https://schrilax.github.io/files/img_0.1.png" width="80"/><img src="https://schrilax.github.io/files/img_0.2.png" width="80"/><img src="https://schrilax.github.io/files/img_0.3.png" width="80"/><img src="https://schrilax.github.io/files/img_0.4.png" width="80"/><img src="https://schrilax.github.io/files/img_0.5.png" width="80"/><img src="https://schrilax.github.io/files/img_0.6.png" width="80"/><img src="https://schrilax.github.io/files/img_0.7.png" width="80"/><img src="https://schrilax.github.io/files/img_0.8.png" width="80"/><img src="https://schrilax.github.io/files/img_0.9.png" width="80"/><img src="https://schrilax.github.io/files/img_1.0.png" width="80"/>
 
 * In the third part, you will plot the 2-D embedding for the test dataset of MNIST (similar to what you saw in class). **To do this part, please refer to example 3 in 'plt_2d.py'**.
 
@@ -273,7 +273,7 @@ for frac_idx in range(11):
     np.savetxt('recreation_' + str(f) + '.csv', recreation, delimiter=',') #EDIT ME - as needed to save MNIST recreation from latent code/embedding
 ```
 
-Here is the code in the file **'./code/plot_lde.py'**
+Here is the code in the file **'plot_lde.py'**
 
 ```python
 # Example 2 - code to plot MNIST recreation
@@ -294,7 +294,7 @@ plt.axis('off') # hide axis
 plt.savefig('img_' + str(f) + '.png', bbox_inches='tight') # EDIT ME as needed, save MNIST recreation result
 ```
 
-Here is the code in the file **'./code/plt_2d.py'**
+Here is the code in the file **'plt_2d.py'**
 
 ```python
  # Example 3 - code to plot MNIST test dataset in 2-D
