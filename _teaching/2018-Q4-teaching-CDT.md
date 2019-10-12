@@ -29,16 +29,16 @@ location: "Palo Alto Research Center"
 - [SVM based classification](https://schrilax.github.io/files/demo_svm_based_classification.png)
 - [Adaboost based classification](https://schrilax.github.io/files/demo_adaboost_based_classification.png)
 
-### Assignment for the Machine Learning (ML) Bootcamp for Q4 2018 on “classification and decision trees” ###
+### Assignment for the Machine Learning (ML) Bootcamp for Q4 2018 on “Classification and Decision Trees” ###
 
 The best way to learn ML is to of course implement every algorithm from scratch. However I do not think we have the time and scope for the same, so I decided let us do the second best thing. Use a library for your assignment which has already implemented the algorithms and hence you can easily explore each of them and get a feel of what each algorithm tries to achieve.
 
 ### Dataset ###
 The dataset I want you to use is the Fashion MNIST dataset ([Fashion MNIST](https://www.kaggle.com/zalando-research/fashionmnist)). The reason for choosing this dataset is to make the assignment interesting. The **prediction accuracies for the original MNIST dataset can be as high as 98% using even a simple 1-layer deep neural network** (Ping me to know how in case you are interested!). The dataset (both training and test data) can be found in the dataset sub-folder of this repository. See below to see how random samples from the Fashion MNIST dataset look like.
 
-<img src="https://4.bp.blogspot.com/-OQZGt_5WqDo/Wa_Dfa4U15I/AAAAAAAAAUI/veRmAmUUKFA19dVw6XCOV2YLO6n-y_omwCLcBGAs/s1600/out.jpg" alt="Fashion MNIST" width="700"/>
+<img src="https://4.bp.blogspot.com/-OQZGt_5WqDo/Wa_Dfa4U15I/AAAAAAAAAUI/veRmAmUUKFA19dVw6XCOV2YLO6n-y_omwCLcBGAs/s1600/out.jpg" alt="Fashion MNIST" width="400"/>
 
-### Algorithms to focus/explore on ##
+### Algorithms to focus/explore on ###
 - Nearest Neighborhood (NN) classification (k-Nearest Neighbors)
 - Logistic Regression (LR)
 - Decision Trees (DT)
@@ -49,7 +49,7 @@ The dataset I want you to use is the Fashion MNIST dataset ([Fashion MNIST](http
 
 __Adaboost requires weak learners/hypothesis on which it optimizes further. The weak learners you are supposed to use are simple Decision Trees.__
 
-### Coding ##
+### Coding ###
 I want you to use Python for coding this assignment. The installation of Python on Mac is pretty simple and straightforward. Along with Python, you would require Numpy, Scipy and Matplotlib libraries (Think you can follow this simple installation procedure => ([Installation](https://solarianprogrammer.com/2016/10/04/install-python-numpy-scipy-matplotlib-macos/))). Apart from this, you would require ([Scikit-learn](http://scikit-learn.org/stable/install.html)). Scikit-learn is a ML library which is widely used and has pretty much all the ML algorithms implemented for end-users to use. Follow this for installing ([Scikit-learn installation](http://scikit-learn.org/stable/install.html)).
 
 Please take a look at this ([sample code](http://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html#sphx-glr-auto-examples-classification-plot-classifier-comparison-py)) to understand how to invoke different classifiers on the data.
