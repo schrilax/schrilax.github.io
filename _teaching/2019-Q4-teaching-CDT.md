@@ -7,7 +7,7 @@ venue: "Criteo Research"
 date: 2019-10-01
 location: "Palo Alto Research Center"
 ---
-This course given as part of the ML Boot Camp for Q4, 2019 aims to introduce the audience to Classification. Additionally it allows them to work through different classification algorithms to understand the difference between them as well as get a feel for the implicit bias each algorithm possesses. The subsequent assignment allows them to practice their understanding on the subject. 
+This course was given as part of the ML Boot Camp for Q4, 2019 and aims to introduce the audience to Classification. Additionally it allows the audience to work through different classification algorithms to understand the difference between them as well as get a feel for the implicit bias each algorithm has. The subsequent assignment allows them to practice their understanding on the subject. 
 
 ### Slides ###
 - [Classification](https://schrilax.github.io/files/1_classification.pptx)
@@ -33,7 +33,7 @@ This course given as part of the ML Boot Camp for Q4, 2019 aims to introduce the
 The best way to learn ML is to of course implement every algorithm from scratch. However I do not think we have the time and scope for the same, so I decided let us do the second best thing. Use a library for your assignment which has already implemented the algorithms and hence you can easily explore each of them and get a feel of what each algorithm tries to achieve.
 
 ### Dataset ###
-The dataset I want you to use is the Fashion MNIST dataset ([Fashion MNIST](https://www.kaggle.com/zalando-research/fashionmnist)). The reason for choosing this dataset is to make the assignment interesting. The **prediction accuracies for the original MNIST dataset can be as high as 98% using even a simple 1-layer deep neural network** (Ping me to know how in case you are interested!). The dataset (both training and test data) can be found in the dataset sub-folder of this repository. See below to see how random samples from the Fashion MNIST dataset look like.
+The dataset you will be using is the Fashion MNIST dataset ([Fashion MNIST](https://www.kaggle.com/zalando-research/fashionmnist)). The reason for choosing this dataset is to make the assignment interesting. The **prediction accuracies for the original MNIST dataset can be as high as 98% using even a simple 1-layer deep neural network** (Ping me to know how in case you are interested!). The dataset (both training and test data) can be found in the dataset sub-folder of this repository. See below to see how random samples from the Fashion MNIST dataset look like.
 
 <img src="https://4.bp.blogspot.com/-OQZGt_5WqDo/Wa_Dfa4U15I/AAAAAAAAAUI/veRmAmUUKFA19dVw6XCOV2YLO6n-y_omwCLcBGAs/s1600/out.jpg" alt="Fashion MNIST" width="400"/>
 
@@ -41,15 +41,13 @@ The dataset I want you to use is the Fashion MNIST dataset ([Fashion MNIST](http
 - Nearest Neighborhood (NN) classification (k-Nearest Neighbors)
 - Logistic Regression (LR)
 - Decision Trees (DT)
-- Random Forests (RF) (which are an ensemble/collection of Decision Trees)
-- Support Vector Machines (SVM) (Linear as well as Non-linear (using Radial Basis functions) versions)
+- Random Forests (RF) (which are an ensemble of Decision Trees)
+- Support Vector Machines (SVM) (linear as well as non-linear (using Radial Basis Functions))
 - Multi-layer Perceptron (MLP)
-- Adaboost (using DT classifiers as weak learners) __Optional task. Please explore if interested__ (:moneybag:)
-
-__Adaboost requires weak learners/hypothesis on which it optimizes further. The weak learners you are supposed to use are simple Decision Trees.__
+- Adaboost (using DT classifiers as weak learners)
 
 ### Coding ###
-I want you to use Python for coding this assignment. The installation of Python on Mac is pretty simple and straightforward. Along with Python, you would require Numpy, Scipy and Matplotlib libraries (Think you can follow this simple installation procedure => ([Installation](https://solarianprogrammer.com/2016/10/04/install-python-numpy-scipy-matplotlib-macos/))). Apart from this, you would require ([Scikit-learn](http://scikit-learn.org/stable/install.html)). Scikit-learn is a ML library which is widely used and has pretty much all the ML algorithms implemented for end-users to use. Follow this for installing ([Scikit-learn installation](http://scikit-learn.org/stable/install.html)).
+We will use Python for coding the assignment. The installation of Python on Mac is pretty simple and straightforward. Along with Python, you would require Numpy, Scipy and Matplotlib libraries (Please follow this simple installation => ([Installation](https://solarianprogrammer.com/2016/10/04/install-python-numpy-scipy-matplotlib-macos/))). Apart from this, you would require ([Scikit-learn](http://scikit-learn.org/stable/install.html)). Scikit-learn is a ML library which is widely used and has pretty much all the ML algorithms implemented for end-users to use. Please follow this for installing ([Scikit-learn installation](http://scikit-learn.org/stable/install.html)).
 
 Please take a look at this ([sample code](http://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html#sphx-glr-auto-examples-classification-plot-classifier-comparison-py)) to understand how to invoke different classifiers on the data.
 
@@ -64,18 +62,16 @@ Explore the different classifiers listed above. Perform hyperparameter tuning fo
 - For ([MLP](http://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html#sklearn.neural_network.MLPClassifier)), explore the effect of varying __activation__ (controls non-linear activation used) and __alpha__ parameter (controls L2 penalty) and its effect on accuracy on the Test data prediction
 - For ([Adaboost](http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html)), explore the effect of varying __n_estimators__ (controls # of weak learners) and __learning_rate__ parameter (controls learning rate) and its effect on accuracy on the Test data prediction
 
-**The last part of the assignment for Adaboost is optional and is for extra credit. Please use a DT classifier (with the __max_depth__ parameter fixed at __4__) for the weak learners/hypothesis.**
-I want you to explore at least **4-5** hyperparameter combinations for each of the classifiers (For LR, RF classifiers, please explore at least **8-10** hyperparameter combinations since there are two hyperparameters to vary together) above by varying the appropriate hyperparameter of the algorithm concerned.
+Please explore at least **4-5** hyperparameter combinations for each of the classifiers (For LR, RF classifiers, please explore at least **8-10** hyperparameter combinations since there are two hyperparameters to vary together) above by varying the appropriate hyperparameter of the algorithm concerned.
 
 Please note that ideally if someone were doing hyperparameter estimation of different models, then **he/she would essentially employ grid search on the hyperparameters to determine the optimal set**. The number of searches can be in the range of **15-20 for each single hyperparameter and similarly for a hyperparameter pair etc**. I have reduced the requirement for this assignment so that it is easier for you but ideally I would like you to be as close as you can to the ideal scenario for the number of tries. I want you to **report the optimal hyperparameters for each model you found** as well as **which is the best model you think based to your experiments**. Any sort of **(no such thing as silly!!)** observations/findings you have will also help you develop an intuition for ML. **So please report them as well in your write-up.**
 
 ### Submission ###
-Please submit a document which lists the different accuracy values you determined for each of the hyperparameter combinations you tried. Please also include your observations and any intuitions you had regarding why the effects of hyperparameter changes the result. The purpose of the extra credit part is to help you. :gift:
+Please submit a document which lists the different accuracy values you determined for each of the hyperparameter combinations you tried. Please also include your observations and any intuitions you had regarding why the effects of hyperparameter changes the result.
 
 __Please use hyperparameters in a reasonable range so that you can actually see its effect. Using very high or very low values might give you weird/unrepresentative to the truth results.__
 
 ### Tips and Tricks ###
-* Do not load the entire dataset at a single go (using __genfromtxt()__ command) since the data is huge. Rather try to read it one line at a time using the __readline()__ command by using __open()__ first.
 * Try to normalize the data by dividing each of the (**784 = 28-by-28**) intensity values by **256** (which is the maximum pixel intensity). Normalizing the data usually results in better performance.
 * Try to use **Jupyter notebooks** such that you would require to load the data only once in an earlier code block and can call different algorithms in later code blocks. Alternately you can write a script which can load the data first and **subsequently vary your hyperparameters using** a **for loop construct**. Feel free to use either.
 * For the part of the assignment for SVM classifiers, it is a known fact that __SVM classifiers typically do not scale well to large datasets__ i.e. time complexity to fit the SVM() classifier is proportional to __square of the number of instances__. There is nothing to worry if you see the code executing for a long time. The solution for this as mentioned ([here](http://scikit-learn.org/stable/modules/svm.html#complexity)) is to __increase the kernel cache size__ i.e. call SVM() via setting the __cache_size__ parameter to larger values as much as possible, for example __SVM(C=1, cache_size=2000)__ or __SVM(gamma=0.001, cache_size=2000)__ etc. Using __cache_size=2000__, I could finish my SVM training in __~42.5 minutes__, whereas using __cache_size=4000__, I could finish my SVM training in __~41.65 minutes__. Thus you can observe a law of diminishing returns and thus I suggest using some value close to 2000 for __cache_size__. Also note that __feature scaling__ also __helps significantly__ thus I strongly advise you all to please do the __data normalization step__ mentioned above.
