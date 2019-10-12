@@ -52,15 +52,15 @@ We will use Python for coding the assignment. The installation of Python on Mac 
 Please take a look at this ([sample code](http://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html#sphx-glr-auto-examples-classification-plot-classifier-comparison-py)) to understand how to invoke different classifiers on the data.
 
 ### Task ###
-Explore the different classifiers listed above. Perform hyperparameter tuning for the different classifiers as follows -
-- For ([NN](http://scikit-learn.org/stable/modules/neighbors.html#nearest-neighbors-classification)), explore the effect of varying __n_neighbors__ parameter (controls number of nearest neighbors) and its effect on accuracy on the Test data prediction
-- For ([LR](http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)), explore the effect of varying __penalty__ and __C__ parameters (controls regularization constants for L1/L2) and its effect on accuracy on the Test data prediction
-- For ([DT](http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html#sklearn.tree.DecisionTreeClassifier)), explore the effect of varying __max_depth__ (controls depth of the tree) and its effect on accuracy on the Test data prediction
-- For ([RF](http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)), explore the effect of varying __n_estimators__ (controls # of trees in forest) and __max_depth__ (controls depth of each tree) and its effect on accuracy on the Test data prediction
-- For ([SVM linear case](http://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html#sklearn.svm.SVC)), explore the effect of varying __C__ (controls penalty) and its effect on accuracy on the Test data prediction
-- For ([SVM non-linear case](http://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html#sklearn.svm.SVC)), explore the effect of varying __gamma__ (controls kernel multiplier) and its effect on accuracy on the Test data prediction
-- For ([MLP](http://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html#sklearn.neural_network.MLPClassifier)), explore the effect of varying __activation__ (controls non-linear activation used) and __alpha__ parameter (controls L2 penalty) and its effect on accuracy on the Test data prediction
-- For ([Adaboost](http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html)), explore the effect of varying __n_estimators__ (controls # of weak learners) and __learning_rate__ parameter (controls learning rate) and its effect on accuracy on the Test data prediction
+Explore the different classifiers listed above. Perform hyperparameter tuning for the different classifiers and observe its effect on test set accuracy -
+- For ([NN](http://scikit-learn.org/stable/modules/neighbors.html#nearest-neighbors-classification)), explore the effect of of varying the number of nearest neighbors
+- For ([LR](http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)), explore the effect of varying inverse regularization coefficient parameter
+- For ([DT](http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html#sklearn.tree.DecisionTreeClassifier)), explore the effect of varying the max depth of the tree
+- For ([RF](http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)), explore the effect of varying the number of trees in the forest as well as the maximum depth of each tree
+- For ([SVM linear case](http://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html#sklearn.svm.SVC)), explore the effect of varying the penalty parameter
+- For ([SVM non-linear case](http://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html#sklearn.svm.SVC)), explore the effect of varying the kernel multiplier parameter
+- For ([MLP](http://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html#sklearn.neural_network.MLPClassifier)), explore the effect of varying the non-linear activation used as well as the L2 regularization coefficient parameter
+- For ([Adaboost](http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html)), explore the effect of varying the number of weak learners used as well as the learning rate parameter
 
 Please explore at least **4-5** hyperparameter combinations for each of the classifiers (For LR, RF classifiers, please explore at least **8-10** hyperparameter combinations since there are two hyperparameters to vary together) above by varying the appropriate hyperparameter of the algorithm concerned.
 
