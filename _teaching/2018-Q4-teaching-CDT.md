@@ -49,8 +49,6 @@ The dataset you will be using is the Fashion MNIST dataset ([Fashion MNIST](http
 ### Coding ###
 We will use Python for coding the assignment. The installation of Python on Mac is pretty simple and straightforward. Along with Python, you would require Numpy, Scipy and Matplotlib libraries. Please follow this simple [tutorial for installation](https://solarianprogrammer.com/2016/10/04/install-python-numpy-scipy-matplotlib-macos/). Apart from this, you would require [Scikit-learn](http://scikit-learn.org/stable/install.html). [Scikit-learn](http://scikit-learn.org/stable/install.html) is a ML library which is widely used and has pretty much all the ML algorithms implemented for end-users to use. Please follow [tutorial](http://scikit-learn.org/stable/install.html) for installing [Scikit-learn](http://scikit-learn.org/stable/install.html).
 
-Please take a look at this ([sample code](http://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html#sphx-glr-auto-examples-classification-plot-classifier-comparison-py)) to understand how to invoke different classifiers on the data.
-
 ### Task ###
 Explore the different classifiers listed above. Perform hyperparameter tuning for the different classifiers and observe its effect on test set accuracy -
 - For ([NN](http://scikit-learn.org/stable/modules/neighbors.html#nearest-neighbors-classification)), explore the effect of of varying the number of nearest neighbors
@@ -63,8 +61,6 @@ Explore the different classifiers listed above. Perform hyperparameter tuning fo
 - For ([Adaboost](http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html)), explore the effect of varying the number of weak learners used as well as the learning rate parameter
 
 Please explore at least **4-5** hyperparameter combinations for each of the classifiers (For LR, RF classifiers, please explore at least **8-10** hyperparameter combinations since there are two hyperparameters to vary together) above by varying the appropriate hyperparameter of the algorithm concerned.
-
-Please note that ideally if someone were doing hyperparameter estimation of different models, then **he/she would essentially employ grid search on the hyperparameters to determine the optimal set**. The number of searches can be in the range of **15-20 for each single hyperparameter and similarly for a hyperparameter pair etc**. I have reduced the requirement for this assignment so that it is easier for you but ideally I would like you to be as close as you can to the ideal scenario for the number of tries. I want you to **report the optimal hyperparameters for each model you found** as well as **which is the best model you think based to your experiments**. Any sort of **(no such thing as silly!!)** observations/findings you have will also help you develop an intuition for ML. **So please report them as well in your write-up.**
 
 ### Submission ###
 Please submit a document which lists the different accuracy values you determined for each of the hyperparameter combinations you tried. Please also include your observations and any intuitions you had regarding why the effects of hyperparameter changes the result.
