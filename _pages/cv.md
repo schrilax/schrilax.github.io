@@ -116,6 +116,12 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Honors
 ======
 * Was invited to and attended the prestigious [Foundations of Deep Learning](https://simons.berkeley.edu/programs/dl2019) program (Berkeley, CA - 2019)
