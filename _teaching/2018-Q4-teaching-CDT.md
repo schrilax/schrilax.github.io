@@ -1,5 +1,5 @@
 ---
-title: "Classification and Decision Trees, Q4 2018"
+title: "Classification and Decision Trees"
 collection: teaching
 type: "class"
 permalink: /teaching/2018-Q4-teaching-CDT

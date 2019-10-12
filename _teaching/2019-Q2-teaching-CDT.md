@@ -1,5 +1,5 @@
 ---
-title: "Classification and Decision Trees, Q2 2019"
+title: "Classification and Decision Trees"
 collection: teaching
 type: "class"
 permalink: /teaching/2019-Q2-teaching-CDT
