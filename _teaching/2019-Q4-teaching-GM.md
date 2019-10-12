@@ -1,9 +1,9 @@
 ---
 title: "Generative Models, Q4 2019"
 collection: teaching
-type: "ML Boot Camp"
+type: "class"
 permalink: /teaching/2019-Q4-teaching-GM
-venue: "Criteo Research"
+venue: "ML Boot Camp, Q4 2019"
 date: 2019-10-10
 location: "Palo Alto Research Center"
 ---
