@@ -97,7 +97,7 @@ The task has three parts as follows :-
 
 * In the first part, you will be studying the relationship between reconstruction error and the latent dimensionality of the embedding. To do this, you will run each of the different configurations and subsequently **save** and **plot** the **reconstruction error** for the three above network configurations. **The provided code already does this**. For example, this is how the recreation error curve looks like for some neural network setting.
 
-<img src="https://schrilax.github.io/files/recreation_err.png" width="700"/>
+<img src="https://schrilax.github.io/files/recreation_err.png" width="1000"/>
 
 * In the second part, you will interpolate in latent spaces i.e. using the provided code to interpolate between the mean latent representation of different digits. See below for an example. Can you guess the two digits between which we are interpolating in latent space ? Please choose **three** different combinations of interpolations to be done using either setting 2 or 3. Please feel free to choose whatever digits you want to interpolate between. **To do this part, please take a look at example 1 in 'tf_ae_mnist.py' and example 2 in 'plot_lde.py'**.
 
