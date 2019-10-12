@@ -7,7 +7,7 @@ venue: "Criteo Research"
 date: 2019-10-10
 location: "Palo Alto Research Center"
 ---
-This course given as part of the ML Boot Camp for Q4, 2019 aims to introduce the audience to Generative Models. The core intuition of latent spaces and generative modeling are introduced. The subsequent assignment based on interpolation in latent spaces allows them to practice their understanding on the subject. 
+This course was given as part of the ML Boot Camp for Q4, 2019 aims to introduce the audience to Generative Models. The core intuition of latent spaces and generative modeling are introduced. The subsequent assignment based on interpolation in latent spaces allows them to practice their understanding on the subject. 
 
 ### Slides ###
 - [Generative and Discriminative Models](https://schrilax.github.io/files/slides_GD.pdf)
@@ -17,20 +17,19 @@ This course given as part of the ML Boot Camp for Q4, 2019 aims to introduce the
 - [MNIST in latent space](https://schrilax.github.io/files/mnist_2d.png)
 
 ### Assignment for the Machine Learning (ML) Bootcamp for Q4 2019 on “Generative Models” ###
-In this assignment, I want everyone to be able to -
+In this assignment, you will -
 
-- Actually understand how generative models work i.e. how do they generate etc.
+- Understand how generative models work i.e. how do they generate etc.
 - Appreciate the importance for non-linear dimension reduction (NLDR) for everyday ML tasks. 
 
-To do this, we will be working with a standard NLDR technique i.e. Autoencoder. We have already seen the limitations of linear dimension reduction (LDR) i.e. PCA during the lecture. Just so that you can focus completely on learning and understanding Autoencoders, **I will provide you with all the code you will need** (check the 'code' sub-folder of this repository and also see below) (barring minute variable changes), which is why it took a little more time to share the assignment. I also provide detailed explanations for what every line of the code does so that you can play around with it.
+To do this, we will be working with a standard NLDR technique i.e. the Autoencoder. We have already seen the limitations of linear dimension reduction (LDR) i.e. PCA during the lecture. Just so that you can focus completely on learning and understanding Autoencoders, **I will provide you with all the code you will need** (check the 'code' sub-folder of this repository and also see below). Every line of the code has detailed explanations so that you can play around with it.
 
-For the assignment, I want everyone to be able to interpolate in latent spaces of MNIST digits. Firstly, because it is really cool to do. Secondly, as you will get an intuition for latent spaces and manifolds.
+For the assignment, you will interpolate in between the latent spaces for MNIST digits. Firstly, because it is really cool to do so. Secondly, as you will get an intuition for latent spaces and manifolds.
 
 ### Dataset ###
-The dataset I want you to use is the MNIST dataset ([MNIST](http://yann.lecun.com/exdb/mnist/index.html)). The MNIST dataset consists of images of handwritten digits for the numbers 0-9. It has **60000** training instances and **10000** test instances.
-The dataset (both training and test data sets) are available in the 'data' sub-folder of this repository. See below to see how random samples from the MNIST dataset look like.
+The dataset you will be using is the MNIST dataset ([MNIST](http://yann.lecun.com/exdb/mnist/index.html)). The MNIST dataset consists of images of handwritten digits for the numbers 0-9. It has **60000** training instances and **10000** test instances. The dataset (both training and test data sets) are available in the 'data' sub-folder of this repository. See below to see how random samples from the MNIST dataset look like.
 
-<img src="https://qph.fs.quoracdn.net/main-qimg-d01751bdf7dab3d9a5949f226a35b7ba" alt="MNIST" width="400"/>
+<img src="https://qph.fs.quoracdn.net/main-qimg-d01751bdf7dab3d9a5949f226a35b7ba" alt="MNIST" width="700"/>
 
 ### Installation ###
 The assignment needs to be completed using Python (Tensorflow and other libraries). The installation of Python on Mac is pretty simple and straightforward.
@@ -70,7 +69,7 @@ python -c 'import tensorflow as tf; print(tf.__version__)'
 For this assignment, we will be using neural networks and train Autoencoder models of different configurations for MNIST data. The training will be done using ([Batch Stochastic Gradient Descent](https://en.wikipedia.org/wiki/Stochastic_gradient_descent)). 
 There are three different neural network settings I want everyone to use which are as follows. 
 
-**setting 1** - (To use this setting, please replace lines 95-97 in **'./code/tf_ae_mnist.py'** with the below snippet)
+**setting 1** - (To use this setting, please replace lines 95-97 in **'tf_ae_mnist.py'** with the below snippet)
 
 ```python
 D1 = 128
@@ -78,7 +77,7 @@ D2 = 64
 D3 = 2
 ```
 
-**setting 2** - (To use this setting, please replace lines 95-97 in **'./code/tf_ae_mnist.py'** with the below snippet)
+**setting 2** - (To use this setting, please replace lines 95-97 in **'tf_ae_mnist.py'** with the below snippet)
 
 ```python
 D1 = 512
@@ -86,7 +85,7 @@ D2 = 128
 D3 = 16
 ```
 
-**setting 3** - (To use this setting, please replace lines 95-97 in **'./code/tf_ae_mnist.py'** with the below snippet)
+**setting 3** - (To use this setting, please replace lines 95-97 in **'tf_ae_mnist.py'** with the below snippet)
 
 ```python
 D1 = 1024
@@ -96,21 +95,21 @@ D3 = 64
 
 The task has three parts as follows :-
 
-* In the first part, I want everyone to study the relationship between reconstruction error and the latent dimensionality of the embedding. To do this, I want everyone to run each of the different configurations and subsequently **save** and **plot** the **reconstruction error** for the three above network configurations. **The provided code already does this**. For example, this is how my recreation error curve looks like for some neural network setting.
+* In the first part, you will be studying the relationship between reconstruction error and the latent dimensionality of the embedding. To do this, you will run each of the different configurations and subsequently **save** and **plot** the **reconstruction error** for the three above network configurations. **The provided code already does this**. For example, this is how the recreation error curve looks like for some neural network setting.
 
 <img src="https://schrilax.github.io/files/recreation_err.png" width="700"/>
 
-* In the second part, I want everyone to interpolate in latent spaces i.e. using the provided code to interpolate between the mean latent representation of different digits. See below for an example. Can you guess the two digits between which I am interpolating in latent space ? I want **three** different combinations of interpolations to be done using either setting 2 or 3. Please feel free to choose whatever digits you want to interpolate between. **To do this part, please take a look at example 1 in './code/tf_ae_mnist.py' and example 2 in './code/plot_lde.py'**.
+* In the second part, you will interpolate in latent spaces i.e. using the provided code to interpolate between the mean latent representation of different digits. See below for an example. Can you guess the two digits between which we are interpolating in latent space ? Please choose **three** different combinations of interpolations to be done using either setting 2 or 3. Please feel free to choose whatever digits you want to interpolate between. **To do this part, please take a look at example 1 in 'tf_ae_mnist.py' and example 2 in 'plot_lde.py'**.
 
 <img src="https://schrilax.github.io/files/img_0.0.png" width="100"/><img src="https://schrilax.github.io/files/img_0.1.png" width="100"/><img src="https://schrilax.github.io/files/img_0.2.png" width="100"/><img src="https://schrilax.github.io/files/img_0.3.png" width="100"/><img src="https://schrilax.github.io/files/img_0.4.png" width="100"/><img src="https://schrilax.github.io/files/img_0.5.png" width="100"/><img src="https://schrilax.github.io/files/img_0.6.png" width="100"/><img src="https://schrilax.github.io/files/img_0.7.png" width="100"/><img src="https://schrilax.github.io/files/img_0.8.png" width="100"/><img src="https://schrilax.github.io/files/img_0.9.png" width="100"/><img src="https://schrilax.github.io/files/img_1.0.png" width="100"/>
 
-* In the third part, I want everyone to plot the 2-D embedding for the test dataset of MNIST (similar to what you saw in class). **To do this part, please refer to example 3 in './code/plt_2d.py'**.
+* In the third part, you will plot the 2-D embedding for the test dataset of MNIST (similar to what you saw in class). **To do this part, please refer to example 3 in 'plt_2d.py'**.
 
 ### Submission ###
 Please submit a report/document which has all three parts included in it. Please also include your observations and any intuitions you have regarding the results you obtained.
 
 ### Code ###
-Here is the code in the main file **'./code/tf_ae_mnist.py'**
+Here is the code in the main file **'tf_ae_mnist.py'**
 
 ```python
 from __future__ import absolute_import
