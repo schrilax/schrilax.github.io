@@ -51,14 +51,14 @@ We will use Python for coding the assignment. The installation of Python on Mac 
 
 ### Task ###
 Explore the different classifiers listed above. Perform hyperparameter tuning for the different classifiers and observe its effect on test set accuracy -
-- For ([NN](http://scikit-learn.org/stable/modules/neighbors.html#nearest-neighbors-classification)), explore the effect of of varying the number of nearest neighbors
-- For ([LR](http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)), explore the effect of varying inverse regularization coefficient parameter
-- For ([DT](http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html#sklearn.tree.DecisionTreeClassifier)), explore the effect of varying the max depth of the tree
-- For ([RF](http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)), explore the effect of varying the number of trees in the forest as well as the maximum depth of each tree
-- For ([SVM linear case](http://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html#sklearn.svm.SVC)), explore the effect of varying the penalty parameter
-- For ([SVM non-linear case](http://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html#sklearn.svm.SVC)), explore the effect of varying the kernel multiplier parameter
-- For ([MLP](http://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html#sklearn.neural_network.MLPClassifier)), explore the effect of varying the non-linear activation used as well as the L2 regularization coefficient parameter
-- For ([Adaboost](http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html)), explore the effect of varying the number of weak learners used as well as the learning rate parameter
+- For [NN](http://scikit-learn.org/stable/modules/neighbors.html#nearest-neighbors-classification), explore the effect of of varying the number of nearest neighbors
+- For [LR](http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html), explore the effect of varying inverse regularization coefficient parameter
+- For [DT](http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html#sklearn.tree.DecisionTreeClassifier), explore the effect of varying the max depth of the tree
+- For [RF](http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html), explore the effect of varying the number of trees in the forest as well as the maximum depth of each tree
+- For [SVM linear case](http://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html#sklearn.svm.SVC), explore the effect of varying the penalty parameter
+- For [SVM non-linear case](http://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html#sklearn.svm.SVC), explore the effect of varying the kernel multiplier parameter
+- For [MLP](http://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html#sklearn.neural_network.MLPClassifier), explore the effect of varying the non-linear activation used as well as the L2 regularization coefficient parameter
+- For [Adaboost](http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html), explore the effect of varying the number of weak learners used as well as the learning rate parameter
 
 Please explore at least **4-5** hyperparameter combinations for each of the classifiers (For LR, RF classifiers, please explore at least **8-10** hyperparameter combinations since there are two hyperparameters to vary together) above by varying the appropriate hyperparameter of the algorithm concerned.
 
