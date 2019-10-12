@@ -1,5 +1,5 @@
 ---
-title: "Generative Models, Q4 2019"
+title: "Generative Models"
 collection: teaching
 type: "class"
 permalink: /teaching/2019-Q4-teaching-GM
