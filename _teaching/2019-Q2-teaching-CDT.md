@@ -7,6 +7,7 @@ venue: "Criteo Research"
 date: 2019-04-01
 location: "Palo Alto Research Center"
 ---
+This course given as part of the ML Boot Camp for Q2, 2019 aims to introduce the audience to Classification. Additionally it allows them to work through different classification algorithms to understand the difference between them as well as get a feel for the implicit bias each algorithm possesses. The subsequent assignment allows them to practice their understanding on the subject. 
 
 ### Slides ###
 - [Classification](https://schrilax.github.io/files/1_classification.pptx)
