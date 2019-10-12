@@ -1,5 +1,5 @@
 ---
-title: "Classification and Decision Trees"
+title: "Classification and Decision Trees, Q4 2018"
 collection: teaching
 type: "ML Boot Camp"
 permalink: /teaching/2018-Q4-teaching-CDT
@@ -15,7 +15,6 @@ location: "Palo Alto Research Center"
 - [Evaluation Metrics](https://schrilax.github.io/files/3_evaluation_metrics.pptx)
 
 ### Adaboost explained ###
-----
 - [Error computation](https://schrilax.github.io/files/derivations_adaboost_adaboost_explanation_1.jpg)
 - [Alpha computation](https://schrilax.github.io/files/derivations_adaboost_adaboost_explanation_2.jpg)
 - [Sample weight updation](https://schrilax.github.io/files/derivations_adaboost_adaboost_explanation_3.jpg)
@@ -30,7 +29,6 @@ location: "Palo Alto Research Center"
 - [Adaboost based classification](https://schrilax.github.io/files/demo_adaboost_based_classification.png)
 
 ### Assignment for the Machine Learning (ML) Bootcamp for Q4 2018 on “Classification and Decision Trees” ###
-
 The best way to learn ML is to of course implement every algorithm from scratch. However I do not think we have the time and scope for the same, so I decided let us do the second best thing. Use a library for your assignment which has already implemented the algorithms and hence you can easily explore each of them and get a feel of what each algorithm tries to achieve.
 
 ### Dataset ###

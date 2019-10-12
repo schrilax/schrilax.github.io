@@ -1,10 +1,10 @@
 ---
-title: "Classification and Decision Trees, Q2 2019"
+title: "Classification and Decision Trees, Q4 2019"
 collection: teaching
 type: "ML Boot Camp"
-permalink: /teaching/2019-Q2-teaching-CDT
+permalink: /teaching/2019-Q4-teaching-CDT
 venue: "Criteo Research"
-date: 2019-04-01
+date: 2019-10-01
 location: "Palo Alto Research Center"
 ---
 
@@ -28,7 +28,7 @@ location: "Palo Alto Research Center"
 - [SVM based classification](https://schrilax.github.io/files/demo_svm_based_classification.png)
 - [Adaboost based classification](https://schrilax.github.io/files/demo_adaboost_based_classification.png)
 
-### Assignment for the Machine Learning (ML) Bootcamp for Q2 2019 on “Classification and Decision Trees” ###
+### Assignment for the Machine Learning (ML) Bootcamp for Q4 2019 on “Classification and Decision Trees” ###
 The best way to learn ML is to of course implement every algorithm from scratch. However I do not think we have the time and scope for the same, so I decided let us do the second best thing. Use a library for your assignment which has already implemented the algorithms and hence you can easily explore each of them and get a feel of what each algorithm tries to achieve.
 
 ### Dataset ###
