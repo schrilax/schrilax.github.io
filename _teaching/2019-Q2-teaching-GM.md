@@ -13,7 +13,7 @@ This course was given as part of the ML Boot Camp for Q2, 2019 aims to introduce
 - [Generative and Discriminative Models](https://schrilax.github.io/files/slides_GD.pdf)
 - [AutoEncoders](https://schrilax.github.io/files/slides_AE.pdf)
 
-<img src="https://schrilax.github.io/files/mnist_2d.png" alt="MNIST in latent space" width="1000"/>
+<img src="https://schrilax.github.io/files/mnist_2d.png" alt="MNIST in latent space" width="1200"/>
 
 ### Assignment for the Machine Learning (ML) Bootcamp for Q2 2019 on “Generative Models” ###
 In this assignment, you will -
@@ -28,7 +28,7 @@ For the assignment, you will interpolate in between the latent spaces for MNIST 
 ### Dataset ###
 The dataset you will be using is the MNIST dataset ([MNIST](http://yann.lecun.com/exdb/mnist/index.html)). The MNIST dataset consists of images of handwritten digits for the numbers 0-9. It has **60000** training instances and **10000** test instances. The dataset (both training and test data sets) are available in the 'data' sub-folder of this repository. See below to see how random samples from the MNIST dataset look like.
 
-<img src="https://schrilax.github.io/files/mnist.png" alt="MNIST" width="400"/>
+<img src="https://schrilax.github.io/files/mnist.png" alt="MNIST" width="800"/>
 
 ### Installation ###
 The assignment needs to be completed using Python (Tensorflow and other libraries). The installation of Python on Mac is pretty simple and straightforward.
