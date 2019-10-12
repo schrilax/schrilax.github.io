@@ -24,7 +24,7 @@ In this assignment, I want everyone to be able to -
 
 To do this, we will be working with a standard NLDR technique i.e. Autoencoder. We have already seen the limitations of linear dimension reduction (LDR) i.e. PCA during the lecture. Just so that you can focus completely on learning and understanding Autoencoders, **I will provide you with all the code you will need** (check the 'code' sub-folder of this repository and also see below) (barring minute variable changes), which is why it took a little more time to share the assignment. I also provide detailed explanations for what every line of the code does so that you can play around with it.
 
-For the assignment, I want everyone to be able to interpolate in latent spaces of MNIST digits. Firstly, because it is really cool to do :smile_cat:. Secondly, as you will get an intuition for latent spaces and manifolds.
+For the assignment, I want everyone to be able to interpolate in latent spaces of MNIST digits. Firstly, because it is really cool to do. Secondly, as you will get an intuition for latent spaces and manifolds.
 
 ### Dataset ###
 The dataset I want you to use is the MNIST dataset ([MNIST](http://yann.lecun.com/exdb/mnist/index.html)). The MNIST dataset consists of images of handwritten digits for the numbers 0-9. It has **60000** training instances and **10000** test instances.
@@ -100,7 +100,7 @@ The task has three parts as follows :-
 
 <img src="https://schrilax.github.io/files/recreation_err.png" width="700"/>
 
-* In the second part, I want everyone to interpolate in latent spaces i.e. using the provided code to interpolate between the mean latent representation of different digits. See below for an example. Can you guess :see_no_evil: the two digits between which I am interpolating in latent space ? I want **three** different combinations of interpolations to be done using either setting 2 or 3. Please feel free to choose whatever digits you want to interpolate between. :innocent: **To do this part, please take a look at example 1 in './code/tf_ae_mnist.py' and example 2 in './code/plot_lde.py'**.
+* In the second part, I want everyone to interpolate in latent spaces i.e. using the provided code to interpolate between the mean latent representation of different digits. See below for an example. Can you guess the two digits between which I am interpolating in latent space ? I want **three** different combinations of interpolations to be done using either setting 2 or 3. Please feel free to choose whatever digits you want to interpolate between. **To do this part, please take a look at example 1 in './code/tf_ae_mnist.py' and example 2 in './code/plot_lde.py'**.
 
 <img src="https://schrilax.github.io/files/img_0.0.png" width="100"/><img src="https://schrilax.github.io/files/img_0.1.png" width="100"/><img src="https://schrilax.github.io/files/img_0.2.png" width="100"/><img src="https://schrilax.github.io/files/img_0.3.png" width="100"/><img src="https://schrilax.github.io/files/img_0.4.png" width="100"/><img src="https://schrilax.github.io/files/img_0.5.png" width="100"/><img src="https://schrilax.github.io/files/img_0.6.png" width="100"/><img src="https://schrilax.github.io/files/img_0.7.png" width="100"/><img src="https://schrilax.github.io/files/img_0.8.png" width="100"/><img src="https://schrilax.github.io/files/img_0.9.png" width="100"/><img src="https://schrilax.github.io/files/img_1.0.png" width="100"/>
 
