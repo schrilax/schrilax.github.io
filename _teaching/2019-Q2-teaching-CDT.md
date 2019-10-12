@@ -35,7 +35,7 @@ The best way to learn ML is to of course implement every algorithm from scratch.
 ### Dataset ###
 The dataset you will be using is the Fashion MNIST dataset ([Fashion MNIST](https://www.kaggle.com/zalando-research/fashionmnist)). The reason for choosing this dataset is to make the assignment interesting. The **prediction accuracies for the original MNIST dataset can be as high as 98% using even a simple 1-layer deep neural network** (Ping me to know how in case you are interested!). The dataset (both training and test data) can be found in the dataset sub-folder of this repository. See below to see how random samples from the Fashion MNIST dataset look like.
 
-<img src="https://4.bp.blogspot.com/-OQZGt_5WqDo/Wa_Dfa4U15I/AAAAAAAAAUI/veRmAmUUKFA19dVw6XCOV2YLO6n-y_omwCLcBGAs/s1600/out.jpg" alt="Fashion MNIST" width="800"/>
+<img src="https://4.bp.blogspot.com/-OQZGt_5WqDo/Wa_Dfa4U15I/AAAAAAAAAUI/veRmAmUUKFA19dVw6XCOV2YLO6n-y_omwCLcBGAs/s1600/out.jpg" alt="Fashion MNIST" width="600"/>
 
 ### Algorithms to focus/explore on ###
 - Nearest Neighborhood (NN) classification (k-Nearest Neighbors)

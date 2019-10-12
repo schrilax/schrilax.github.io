@@ -26,9 +26,9 @@ To do this, we will be working with a standard NLDR technique i.e. the Autoencod
 For the assignment, you will interpolate in between the latent spaces for MNIST digits. Firstly, because it is really cool to do so. Secondly, as you will get an intuition for latent spaces and manifolds.
 
 ### Dataset ###
-The dataset you will be using is the MNIST dataset ([MNIST](http://yann.lecun.com/exdb/mnist/index.html)). The MNIST dataset consists of images of handwritten digits for the numbers 0-9. It has **60000** training instances and **10000** test instances. The dataset (both training and test data sets) are available in the 'data' sub-folder of this repository. See below to see how random samples from the MNIST dataset look like.
+The dataset you will be using is the [MNIST](http://yann.lecun.com/exdb/mnist/index.html) dataset. The [MNIST](http://yann.lecun.com/exdb/mnist/index.html) dataset consists of images of handwritten digits for the numbers 0-9. It has **60000** training instances and **10000** test instances. The dataset (both training and test data sets) are available in the 'data' sub-folder of this repository. See below to see how random samples from the [MNIST](http://yann.lecun.com/exdb/mnist/index.html) dataset look like.
 
-<img src="https://schrilax.github.io/files/mnist.png" alt="MNIST" width="800"/>
+<img src="https://schrilax.github.io/files/mnist.png" alt="MNIST" width="600"/>
 
 ### Installation ###
 The assignment needs to be completed using Python (Tensorflow and other libraries). The installation of Python on Mac is pretty simple and straightforward.
@@ -65,10 +65,9 @@ python -c 'import tensorflow as tf; print(tf.__version__)'
 ```
 
 ### Task ###
-For this assignment, we will be using neural networks and train Autoencoder models of different configurations for MNIST data. The training will be done using ([Batch Stochastic Gradient Descent](https://en.wikipedia.org/wiki/Stochastic_gradient_descent)). 
-There are three different neural network settings I want everyone to use which are as follows. 
+For this assignment, we will be using neural networks and train Autoencoder models of different configurations for MNIST data. The training will be done using [Batch Stochastic Gradient Descent](https://en.wikipedia.org/wiki/Stochastic_gradient_descent). There are three different neural network settings you will explore which are as follows. 
 
-**setting 1** - (To use this setting, please replace lines 95-97 in **'tf_ae_mnist.py'** with the below snippet)
+**setting 1** - (To use this, please replace lines 95-97 in **'tf_ae_mnist.py'** with the below snippet)
 
 ```python
 D1 = 128
@@ -76,7 +75,7 @@ D2 = 64
 D3 = 2
 ```
 
-**setting 2** - (To use this setting, please replace lines 95-97 in **'tf_ae_mnist.py'** with the below snippet)
+**setting 2** - (To use this, please replace lines 95-97 in **'tf_ae_mnist.py'** with the below snippet)
 
 ```python
 D1 = 512
@@ -84,7 +83,7 @@ D2 = 128
 D3 = 16
 ```
 
-**setting 3** - (To use this setting, please replace lines 95-97 in **'tf_ae_mnist.py'** with the below snippet)
+**setting 3** - (To use this, please replace lines 95-97 in **'tf_ae_mnist.py'** with the below snippet)
 
 ```python
 D1 = 1024
@@ -96,11 +95,11 @@ The task has three parts as follows :-
 
 * In the first part, you will be studying the relationship between reconstruction error and the latent dimensionality of the embedding. To do this, you will run each of the different configurations and subsequently **save** and **plot** the **reconstruction error** for the three above network configurations. **The provided code already does this**. For example, this is how the recreation error curve looks like for some neural network setting.
 
-<img src="https://schrilax.github.io/files/recreation_err.png" width="1500"/>
+<img src="https://schrilax.github.io/files/recreation_err.png" width="1200"/>
 
 * In the second part, you will interpolate in latent spaces i.e. using the provided code to interpolate between the mean latent representation of different digits. See below for an example. Can you guess the two digits between which we are interpolating in latent space ? Please choose **three** different combinations of interpolations to be done using either setting 2 or 3. Please feel free to choose whatever digits you want to interpolate between. **To do this part, please take a look at example 1 in 'tf_ae_mnist.py' and example 2 in 'plot_lde.py'**.
 
-<img src="https://schrilax.github.io/files/img_0.0.png" width="80"/><img src="https://schrilax.github.io/files/img_0.1.png" width="80"/><img src="https://schrilax.github.io/files/img_0.2.png" width="80"/><img src="https://schrilax.github.io/files/img_0.3.png" width="80"/><img src="https://schrilax.github.io/files/img_0.4.png" width="80"/><img src="https://schrilax.github.io/files/img_0.5.png" width="80"/><img src="https://schrilax.github.io/files/img_0.6.png" width="80"/><img src="https://schrilax.github.io/files/img_0.7.png" width="80"/><img src="https://schrilax.github.io/files/img_0.8.png" width="80"/><img src="https://schrilax.github.io/files/img_0.9.png" width="80"/><img src="https://schrilax.github.io/files/img_1.0.png" width="80"/>
+<img src="https://schrilax.github.io/files/img_0.0.png" width="60"/><img src="https://schrilax.github.io/files/img_0.1.png" width="60"/><img src="https://schrilax.github.io/files/img_0.2.png" width="60"/><img src="https://schrilax.github.io/files/img_0.3.png" width="60"/><img src="https://schrilax.github.io/files/img_0.4.png" width="60"/><img src="https://schrilax.github.io/files/img_0.5.png" width="60"/><img src="https://schrilax.github.io/files/img_0.6.png" width="60"/><img src="https://schrilax.github.io/files/img_0.7.png" width="60"/><img src="https://schrilax.github.io/files/img_0.8.png" width="60"/><img src="https://schrilax.github.io/files/img_0.9.png" width="60"/><img src="https://schrilax.github.io/files/img_1.0.png" width="60"/>
 
 * In the third part, you will plot the 2-D embedding for the test dataset of MNIST (similar to what you saw in class). **To do this part, please refer to example 3 in './code/plt_2d.py'**.
 
