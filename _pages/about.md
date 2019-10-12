@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Research Scientist with Criteo Research. Broadly, my work encompasses applying different Machine Learning, Deep Learning and Nonlinear Optimization techniques to solve related problems. Please feel free to contact me at suchismi@buffalo.edu.
+I am currently a Research Scientist with Criteo Research. Broadly, my work encompasses applying different Machine Learning, Deep Learning and Nonlinear Optimization techniques to solve related problems. Please feel free to contact me at suchismi@buffalo.edu :)
 
 Previously
 ----
