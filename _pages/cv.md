@@ -72,7 +72,7 @@ Experience
   - Variance Reduction techniques in Distributed Optimization (working with [Haimonti Dutta](http://mgt.buffalo.edu/faculty/academic-departments/management-science-systems/faculty/haimonti-dutta.html) / [Varun Chandola](https://cse.buffalo.edu/~chandola/))
     - Working towards developing novel variance reduction techniques for the ERM problem.
   - Understanding Rumor Propagation in Social Networks (working with [Shambhu Upadhyaya](https://cse.buffalo.edu/~shambhu/) / [Varun Chandola](https://cse.buffalo.edu/~chandola/))
-    - Working towards modelling rumor propagation in social networks.
+    - Working towards modeling rumor propagation in social networks.
   - Volcanic Flow Prediction (working with [Abani Patra](https://engineering.tufts.edu/people/faculty/abani-patra) / [Varun Chandola](https://cse.buffalo.edu/~chandola/) / [Paul Bauman](https://www.linkedin.com/in/paul-bauman-84a7093a))
     - Developed a Gaussian Process based model for prediction of flow using GPGPUs.
 
