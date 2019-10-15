@@ -1,9 +1,9 @@
 ---
-title: "Classification and Decision Trees"
+title: "Classification and Decision Trees, Q4 2018"
 collection: teaching
 type: "class"
 permalink: /teaching/2018-Q4-teaching-CDT
-venue: "ML Boot Camp, Q4 2018"
+venue: "ML Boot Camp, Criteo Research"
 date: 2018-10-03
 location: "Palo Alto Research Center"
 ---
