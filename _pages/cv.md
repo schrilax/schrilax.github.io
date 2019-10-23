@@ -91,7 +91,7 @@ Experience
   - Persistent URLs (PURLs) (worked with [Alan Ruttenberg](http://www.buffalo.edu/content/www/bioinformatics/resources/faculty/profile.html?ubit=alanrutt))
     - Enhanced the PURLs implementation to include more intelligence.
   - Protege 4.1 plugin development (worked with [Alan Ruttenberg](http://www.buffalo.edu/content/www/bioinformatics/resources/faculty/profile.html?ubit=alanrutt))
-    - Developed plugins for Protege 4.1 for processing Ontologies.
+    - Built plugins for Protege 4.1 for processing Ontologies.
 
 * __Associate, Cognizant__ (Jun 2005 - Jul 2010)
   - Developed ExProc, a tool for processing excel documents.
