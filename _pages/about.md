@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Research Scientist with Criteo Research. Broadly my work encompasses applying different Machine Learning, Deep Learning and Nonlinear Optimization techniques to solve related problems. More recently I have begun exploring the space of designing deep neural nets (more specifically, LSTMs, RNNs and CNNs) for text/imaging applications. Please feel free to contact me at suchismi [at] buffalo.edu :)
+I am currently a Research Scientist with Criteo Research. Broadly my work encompasses applying different Machine Learning, Deep Learning and Nonlinear Optimization techniques to solve related problems. I have recently begun exploring the space of designing deep neural nets (specifically, LSTMs, RNNs and CNNs) for text/imaging applications. Please feel free to contact me at suchismi [at] buffalo.edu :)
 
 Previously
 ----
