@@ -101,7 +101,7 @@ Experience
 
 Skills
 ======
-* Python, C/C++, TensorFlow, Scala, Hive, CUDA
+* Python, C/C++, TensorFlow, Apache MapReduce, Scala, Hive, CUDA
 
 Publications
 ======
