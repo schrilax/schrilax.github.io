@@ -42,7 +42,7 @@ Honors
 
 Skills
 ======
-* Python &#124; C/C++ &#124; TensorFlow &#124; Apache MapReduce &#124; Scala &#124; Hive &#124; CUDA
+Python &#124; C/C++ &#124; TensorFlow &#124; Apache MapReduce &#124; Scala &#124; Hive &#124; CUDA
 
 Experience
 ======
