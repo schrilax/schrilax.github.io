@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-[[Curriculum Vitaé](http://schrilax.github.io/files/Suchismit_CV.pdf)]
+[[Curriculum Vitaé](http://schrilax.github.io/files/Suchismit_CV.pdf)][[Thesis Overview](http://schrilax.github.io/files/thesis_overview.pdf)]
 
 Education
 ======
 * __Ph.D.__ in [Computer Science and Engineering](https://engineering.buffalo.edu/computer-science-engineering.html), [University of Buffalo, The State University of New York](http://www.buffalo.edu), June 2018
-  - Topic: __Scalable Nonlinear Spectral Dimensionality Reduction methods for streaming data__ [[Thesis](http://schrilax.github.io/files/thesis_final.pdf)][[Slides](http://schrilax.github.io/files/thesis_defense.pdf)][[2](http://schrilax.github.io/files/thesis_overview.pdf)]
+  - Topic: __Scalable Nonlinear Spectral Dimensionality Reduction methods for streaming data__ [[Thesis](http://schrilax.github.io/files/thesis_final.pdf)][[Slides](http://schrilax.github.io/files/thesis_defense.pdf)]
   - Advisors: [Varun Chandola](https://cse.buffalo.edu/~chandola/), [Nils Napp](https://cse.buffalo.edu/~nnapp/) & [Jaroslaw Zola](https://cse.buffalo.edu/~jzola/)
   - GPA: __4.0 out of 4.0__ [[Transcript](http://schrilax.github.io/files/ub-cse-unofficial-transcript.pdf)]
 * __M.S.__ in [Computer Science and Engineering](https://engineering.buffalo.edu/computer-science-engineering.html), [University of Buffalo, The State University of New York](http://www.buffalo.edu), June 2012
