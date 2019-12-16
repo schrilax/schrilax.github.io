@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[[Curriculum Vitaé](http://schrilax.github.io/files/Suchismit_CV.pdf)][[Thesis Overview](http://schrilax.github.io/files/thesis_overview.pdf)]
+[[Curriculum Vitaé](http://schrilax.github.io/files/Suchismit_CV.pdf)][[Research Overview](http://schrilax.github.io/files/research_overview.pdf)]
 
 Education
 ======
