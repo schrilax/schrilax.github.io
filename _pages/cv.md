@@ -26,8 +26,8 @@ Education
   - GPA: __4.0 out of 4.0__ [[Transcript](http://schrilax.github.io/files/ub-cse-unofficial-transcript.pdf)] / Department rank: __1 out of 555__
 * __B.Tech.__ in [Computer Science and Engineering](https://www.nitrkl.ac.in/CS/Default.aspx), [National Institute of Technology, Rourkela](https://www.nitrkl.ac.in), May 2005
   - Specialization: Discrete Mathematics and Algorithms
-  - Cumulative Score: __77% (First class with honors)__ [[Transcript](http://schrilax.github.io/files/nit_bachelors_transcript.pdf)]
-  - Joint Entrance Exam rank: __22 out of 400,000__
+  - Advisor: [Bibhudatta Sahoo](https://www.nitrkl.ac.in/FProfile.aspx?bdsahu)
+  - Cumulative Score: __77% (First class with honors)__ [[Transcript](http://schrilax.github.io/files/nit_bachelors_transcript.pdf)] / Joint Entrance Exam rank: __22 out of 400,000__
 
 Honors
 ======
