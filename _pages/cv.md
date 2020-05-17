@@ -49,6 +49,12 @@ Python &#124; C/C++ &#124; TensorFlow &#124; Keras &#124; Apache MapReduce &#124
 
 Experience
 ======
+* __Scientist I, Amobee Research__ (Mar 2020 - Present)
+  - Win Price Estimation model development
+    - Working towards developing a model for Win Price Estimation based on win rate distribution of bids taking into account different campaign level considerations.
+  - Margin model retirement
+    - Trying to understanding the utility of the margin model which is part of the scoring framework and potentially retire it.
+
 * __Research Scientist, Criteo Research__ (Jul 2018 - Present)
   - Improve Click-through and Sales prediction
     - Enhanced our existing production Click-through and Sales prediction pipeline using nonlinear ML techniques. Improved stability of our new models significantly from +50% to +5%. A/B test using new models resulted in +3-6% uplift in long-term RexT on all platforms.
