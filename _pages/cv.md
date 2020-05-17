@@ -55,7 +55,7 @@ Experience
   - Margin model retirement
     - Trying to understanding the utility of the margin model which is part of the scoring framework and potentially retire it.
 
-* __Research Scientist, Criteo Research__ (Jul 2018 - Present)
+* __Research Scientist, Criteo Research__ (Jul 2018 - Dec 2019)
   - Improve Click-through and Sales prediction
     - Enhanced our existing production Click-through and Sales prediction pipeline using nonlinear ML techniques. Improved stability of our new models significantly from +50% to +5%. A/B test using new models resulted in +3-6% uplift in long-term RexT on all platforms.
   - Theoretical aspects on Deep Learning (DL) (working with [Noureddine El Karoui](https://statistics.berkeley.edu/people/noureddine-el-karoui))
