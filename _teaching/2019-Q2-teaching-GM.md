@@ -64,6 +64,22 @@ python -c 'import tensorflow as tf; print(tf.__version__)'
 
 ```
 
+Here is the file requirements.txt
+```
+# Basic packages needed for the assignment on "Generative Models"
+
+numpy
+scipy
+jupyter
+matplotlib
+scikit-learn
+
+################################################################
+# We are going to use the CPU version of Tensorflow for the assignment
+
+tensorflow      # CPU Version of TensorFlow.
+```
+
 ### Task ###
 For this assignment, we will be using neural networks and train Autoencoder models of different configurations for MNIST data. The training will be done using [Batch Stochastic Gradient Descent](https://en.wikipedia.org/wiki/Stochastic_gradient_descent). There are three different neural network settings you will explore which are as follows. 
 
