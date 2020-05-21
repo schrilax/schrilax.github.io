@@ -64,7 +64,7 @@ python -c 'import tensorflow as tf; print(tf.__version__)'
 
 ```
 
-Here is the file requirements.txt
+Here are the contents of the file requirements.txt.
 ```
 # Basic packages needed for the assignment on "Generative Models"
 
