@@ -60,8 +60,8 @@ Experience
     - Enhanced our existing production Click-through and Sales prediction pipeline using nonlinear ML techniques. Improved stability of our new models significantly from +50% to +5%. A/B test using new models resulted in +3-6% uplift in long-term RexT on all platforms.
   - Theoretical aspects on Deep Learning (DL) (working with [Noureddine El Karoui](https://statistics.berkeley.edu/people/noureddine-el-karoui))
     - Working towards understanding kernel and manifold specific aspects of theoretical deep learning.
-  - Ameliorating the posterior-collapse issue in Seq2Seq learning
-    - Demonstrated the efficacy of quantization based approached towards resolving the posterior-collapse issue. [[Paper](https://arxiv.org/abs/2004.10603)]
+  - Solving the posterior-collapse issue in Seq2Seq learning
+    - Developed quantization based approaches towards resolving the posterior-collapse issue. [[Paper](https://arxiv.org/abs/2004.10603)]
 
 * __Research Assistant, The Research Foundation for SUNY__ (Jan 2018 - May 2018)
   - Parallelized Hierarchical Clustering (worked with [Haimonti Dutta](http://mgt.buffalo.edu/faculty/academic-departments/management-science-systems/faculty/haimonti-dutta.html))
