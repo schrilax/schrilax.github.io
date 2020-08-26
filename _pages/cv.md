@@ -33,7 +33,7 @@ Honors
 ======
 * Became a reviewer for [ICML 2020](https://icml.cc/Conferences/2020) (Palo Alto, CA - 2019)
 * Was invited to and attended the prestigious [Foundations of Deep Learning](https://simons.berkeley.edu/programs/dl2019) program (Berkeley, CA - 2019)
-* Won a NSF Junior Researcher Award to attend CBMS Conference on Sparse Recovery (Las Cruces, NM - 2017)
+* Won a NSF Junior Researcher Award to attend [CBMS Conference on Sparse Recovery](https://sofia.nmsu.edu/~jlakey/cbms2017.html) (Las Cruces, NM - 2017)
 * Became a [NVIDIA GPU Educator](https://developer.nvidia.com/educators) (Santa Clara, CA - 2016)
 * Won a NSF Student Travel Award to attend [IEEE Big Data 2015](https://cci.drexel.edu/bigdata/bigdata2015/) (Santa Clara, CA - 2015)
 * Won a rare Research Assistant-ship covering my second year as a Masters student (Buffalo, NY - 2013)
