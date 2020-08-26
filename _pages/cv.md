@@ -45,15 +45,13 @@ Honors
 
 Skills
 ======
-Python &#124; C/C++ &#124; TensorFlow &#124; Keras &#124; Apache MapReduce &#124; Scala &#124; CUDA &#124; Hive  
+Python &#124; C/C++ &#124; TensorFlow &#124; PyTorch &#124; Apache MapReduce &#124; Scala &#124; CUDA &#124; Hive
 
 Experience
 ======
 * __Scientist I, Amobee Research__ (Mar 2020 - Present)
-  - Win Price Estimation model development
-    - Working towards developing a model for Win Price Estimation based on win rate distribution of bids taking into account different campaign level considerations.
-  - Margin model retirement
-    - Trying to understanding the utility of the margin model which is part of the scoring framework and potentially retire it.
+  - Win Price (WP) estimation
+    - Developed multiple Factorization Machine based approaches for estimating WP taking into account different campaign level considerations.
 
 * __Research Scientist, Criteo Research__ (Jul 2018 - Dec 2019)
   - Improve Click-through and Sales prediction
