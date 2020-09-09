@@ -31,6 +31,8 @@ Education
 
 Honors
 ======
+* Became a reviewer for [ICLR 2021](https://iclr.cc/Conferences/2021) (Sunnyvale, CA - 2020)
+* Was invited to and attended the prestigious [Theory of Reinforcement Learning](https://simons.berkeley.edu/programs/rl20) program (Sunnyvale, CA - 2020)
 * Became a reviewer for [ICML 2020](https://icml.cc/Conferences/2020) (Palo Alto, CA - 2019)
 * Was invited to and attended the prestigious [Foundations of Deep Learning](https://simons.berkeley.edu/programs/dl2019) program (Berkeley, CA - 2019)
 * Won a NSF Junior Researcher Award to attend [CBMS Conference on Sparse Recovery](https://sofia.nmsu.edu/~jlakey/cbms2017.html) (Las Cruces, NM - 2017)
@@ -45,7 +47,7 @@ Honors
 
 Skills
 ======
-Python &#124; C/C++ &#124; TensorFlow &#124; PyTorch &#124; Apache MapReduce &#124; Scala &#124; CUDA &#124; Hive
+Python &#124; PyTorch &#124; TensorFlow &#124; C/C++ &#124; Apache MapReduce &#124; Scala &#124; CUDA &#124; Hive
 
 Experience
 ======
