@@ -52,8 +52,8 @@ Python &#124; PyTorch &#124; TensorFlow &#124; C/C++ &#124; Apache MapReduce &#1
 Experience
 ======
 * __Scientist I, Amobee Research__ (Mar 2020 - Present)
-  - Win Price (WP) estimation
-    - Developed multiple Factorization Machine based approaches for estimating WP taking into account different campaign level considerations.
+  - Develop novel bidding strategy using Win Price (WP) estimation
+    - Developed Factorization Machine and Gradient Boosting based approaches for estimating WP taking into account different campaign level considerations and incorporated it as part of bidding strategy.
 
 * __Research Scientist, Criteo Research__ (Jul 2018 - Dec 2019)
   - Improve Click-through and Sales prediction
