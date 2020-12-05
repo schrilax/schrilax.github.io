@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Scientist with Amobee Research. Prior to this, I was a Research Scientist with Criteo Research. Broadly my work encompasses applying different Machine Learning, Deep Learning and Nonlinear Optimization techniques to solve related problems. I have 7+ years of research and 5 years of developer experience during which I have been exposed and worked on solving a variety of problems. Please feel free to contact me at suchismi [at] buffalo.edu :)
+I am currently a Research Scientist with Amobee Research. Prior to this, I was a Research Scientist with Criteo Research. Broadly my work encompasses applying different Machine Learning, Deep Learning and Nonlinear Optimization techniques to solve related problems. I have 7+ years of research and 5 years of developer experience during which I have been exposed and worked on solving a variety of problems. Please feel free to contact me at suchismi [at] buffalo.edu :)
 
 Previously
 ----
