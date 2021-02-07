@@ -31,6 +31,7 @@ Education
 
 Honors
 ======
+* Became a reviewer for [ICML 2021](https://icml.cc/Conferences/2021) and [ACL 2021](https://2021.aclweb.org/) (Sunnyvale, CA - 2021)
 * Became a reviewer for [ICLR 2021](https://iclr.cc/Conferences/2021) (Sunnyvale, CA - 2020)
 * Was invited to and attended the prestigious [Theory of Reinforcement Learning](https://simons.berkeley.edu/programs/rl20) program (Sunnyvale, CA - 2020)
 * Became a reviewer for [ICML 2020](https://icml.cc/Conferences/2020) (Palo Alto, CA - 2019)
@@ -52,8 +53,10 @@ Python &#124; PyTorch &#124; TensorFlow &#124; C/C++ &#124; Apache MapReduce &#1
 Experience
 ======
 * __Scientist I, Amobee Research__ (Mar 2020 - Present)
-  - Develop novel bidding strategy using Win Price (WP) estimation
-    - Developed Factorization Machine and Gradient Boosting based approaches for estimating WP taking into account different campaign level considerations and incorporated it as part of bidding strategy.
+  - Developed a novel bidding strategy based on Win Price (WP) estimation
+    - Developed and productionized a novel bidding strategy using nonlinear ML based approaches for estimating WP.
+  - Built a Factorization Machine (FM) based ML pipeline
+    - Led efforts to build a FM based ML pipeline for usage in production.
 
 * __Research Scientist, Criteo Research__ (Jul 2018 - Dec 2019)
   - Improve Click-through and Sales prediction
