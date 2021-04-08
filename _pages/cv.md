@@ -31,7 +31,7 @@ Education
 
 Honors
 ======
-* Became a reviewer for [ICML 2021](https://icml.cc/Conferences/2021) and [ACL 2021](https://2021.aclweb.org/) (Sunnyvale, CA - 2021)
+* Became a reviewer for [ICML 2021](https://icml.cc/Conferences/2021), [ACL 2021](https://2021.aclweb.org/) and [NeurIPS 2021](https://nips.cc/Conferences/2021) (Sunnyvale, CA - 2021)
 * Became a reviewer for [ICLR 2021](https://iclr.cc/Conferences/2021) (Sunnyvale, CA - 2020)
 * Was invited to and attended the prestigious [Theory of Reinforcement Learning](https://simons.berkeley.edu/programs/rl20) program (Sunnyvale, CA - 2020)
 * Became a reviewer for [ICML 2020](https://icml.cc/Conferences/2020) (Palo Alto, CA - 2019)
