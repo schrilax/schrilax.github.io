@@ -31,8 +31,8 @@ Education
 
 Honors
 ======
-* Became a reviewer for [ICML 2021](https://icml.cc/Conferences/2021), [ACL 2021](https://2021.aclweb.org/) and [NeurIPS 2021](https://nips.cc/Conferences/2021) (Sunnyvale, CA - 2021)
-* Became a reviewer for [ICLR 2021](https://iclr.cc/Conferences/2021) (Sunnyvale, CA - 2020)
+* Became a reviewer for [EMNLP 2021](https://2021.emnlp.org/), [ACL 2021](https://2021.aclweb.org/) and [NeurIPS 2021](https://nips.cc/Conferences/2021) (Sunnyvale, CA - 2021)
+* Became a reviewer for [ICML 2021](https://icml.cc/Conferences/2021) and [ICLR 2021](https://iclr.cc/Conferences/2021) (Sunnyvale, CA - 2020)
 * Was invited to and attended the prestigious [Theory of Reinforcement Learning](https://simons.berkeley.edu/programs/rl20) program (Sunnyvale, CA - 2020)
 * Became a reviewer for [ICML 2020](https://icml.cc/Conferences/2020) (Palo Alto, CA - 2019)
 * Was invited to and attended the prestigious [Foundations of Deep Learning](https://simons.berkeley.edu/programs/dl2019) program (Berkeley, CA - 2019)
@@ -136,7 +136,15 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+Additional Certifications/Projects
+======
+* NLP certification from [NVIDIA Deep Learning Institute](https://courses.nvidia.com/certificates/568fdcab70ac49d9ad0562e6250b0e0e).
+* Machine Learning course offered by Stanford under [Andrew Ng](https://www.andrewng.org/). [[Report](http://schrilax.github.io/files/statement-of-accomplishment.pdf)]
+* Optimization/Mathematics/ML courses offered by Coursera. [[Certificate 1](http://schrilax.github.io/files/Linear_Programming_2014.pdf)][[Certificate 2](http://schrilax.github.io/files/Complex_Analysis_2014.pdf)][[Certificate 3](http://schrilax.github.io/files/Coursera3JL97R9BMUPF.pdf)]
+* Implemented 3PRR Parallel Chain/PRRR Serial Chain Manipulators under [Venkat Krovi](https://www.clemson.edu/cecas/departments/automotive-engineering/people/Venkat%20Krovi.html). [[Slides 1](http://schrilax.github.io/files/3-PRR-parallel-chain-manipulator.pdf)][[Slides 2](http://schrilax.github.io/files/PRRR-serial-chain-manipulator.pdf)][[Demos](http://schrilax.github.io/files/youtube-video-links.txt)]
+* Developed ElGooG – A search engine using \~100000 TREC documents as corpus (won the NTipS 2010 competition) under [Rohini Srihari](https://cedar.buffalo.edu/~rohini/). [[Report](http://schrilax.github.io/files/ElGooG.pdf)]
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
@@ -149,14 +157,8 @@ Teaching
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
-Activities
+<!-- Activities
 ======
 * Part of organizing committee for KDCloud [2014], BigSpatial [2014, 2015, 2016, 2017].
-* Student Member of IEEE, SIAM and ACM.
+* Student Member of IEEE, SIAM and ACM. -->
 
-Additional Coursework
-======
-* Implemented 3PRR Parallel Chain/PRRR Serial Chain Manipulators under [Venkat Krovi](https://www.clemson.edu/cecas/departments/automotive-engineering/people/Venkat%20Krovi.html). [[Slides 1](http://schrilax.github.io/files/3-PRR-parallel-chain-manipulator.pdf)][[Slides 2](http://schrilax.github.io/files/PRRR-serial-chain-manipulator.pdf)][[Demos](http://schrilax.github.io/files/youtube-video-links.txt)]
-* Developed ElGooG – A search engine using \~100000 TREC documents as corpus (won the NTipS 2010 competition) under [Rohini Srihari](https://cedar.buffalo.edu/~rohini/). [[Report](http://schrilax.github.io/files/ElGooG.pdf)]
-* Machine Learning course offered by Stanford under [Andrew Ng](https://www.andrewng.org/). [[Report](http://schrilax.github.io/files/statement-of-accomplishment.pdf)]
-* Optimization/Mathematics/ML courses offered by Coursera. [[Certificate 1](http://schrilax.github.io/files/Linear_Programming_2014.pdf)][[Certificate 2](http://schrilax.github.io/files/Complex_Analysis_2014.pdf)][[Certificate 3](http://schrilax.github.io/files/Coursera3JL97R9BMUPF.pdf)]
