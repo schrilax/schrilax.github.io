@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Research Scientist with Amobee Research. Prior to this, I was a Research Scientist with Criteo Research. Broadly my work encompasses applying different Machine Learning, Deep Learning and NLP techniques to solve related problems. My research focuses on designing & implementing novel algorithms which enable large-scale learning and include:
+I am currently a Research Scientist with Amobee Research. Prior to this, I was a Research Scientist with Criteo Research. Broadly my work encompasses applying different Machine Learning, Deep Learning and NLP techniques to solve related problems. My research focuses on designing & implementing novel algorithms which enable large-scale learning and includes:
 
 * Machine/Deep Learning
 * Natural Language Processing (NLP)
