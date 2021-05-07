@@ -55,8 +55,10 @@ Experience
 * __Scientist I, Amobee Research__ (Mar 2020 - Present)
   - Developed a novel bidding strategy based on Win Price (WP) estimation
     - Developed and productionized a novel bidding strategy using nonlinear ML based approaches for estimating WP.
-  - Built a Factorization Machine (FM) based ML pipeline for usage in production
-    - Led efforts to build a FM based ML pipeline using a novel sparse matrix formulation which can handle high modality features.
+  - Built a Factorization Machine (FM/FFM) based ML pipeline for usage in production
+    - Led efforts to build a FM/FFM based ML pipeline using a novel sparse matrix formulation that can handle high modality features.
+  - Incorporating user embeddings into existing ML/DL models to improve performance
+    - Trained BERT/GAN based generative models to construct user embeddings for usage by our existing models.
 
 * __Research Scientist, Criteo Research__ (Jul 2018 - Dec 2019)
   - Improve Click-through and Sales prediction
