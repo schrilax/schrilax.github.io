@@ -108,7 +108,7 @@ Experience
   - Understanding Rumor Propagation in Social Networks (worked with [Shambhu Upadhyaya](https://cse.buffalo.edu/~shambhu/) / [Varun Chandola](https://cse.buffalo.edu/~chandola/))
     - Worked towards modeling rumor propagation in social networks.
   - Volcanic Flow Prediction (worked with [Abani Patra](https://engineering.tufts.edu/people/faculty/abani-patra) / [Varun Chandola](https://cse.buffalo.edu/~chandola/) / [Paul Bauman](https://www.linkedin.com/in/paul-bauman-84a7093a))
-    - Developed a novel Gaussian Process based model for prediction of flow using GPGPUs.
+    - Developed a novel Gaussian Process based model for prediction of volcanic flow using GPUs.
 
 * __Teaching Assistant, University of Buffalo, The State University of New York__ (Sep 2012 - May 2013)
   - Teaching Assistant for CSE 510 Introduction to Robotic Algorithms.
