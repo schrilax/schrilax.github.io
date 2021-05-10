@@ -66,7 +66,7 @@ Experience
   - Theoretical aspects on Deep Learning (DL) (working with [Noureddine El Karoui](https://statistics.berkeley.edu/people/noureddine-el-karoui))
     - Working towards understanding kernel and manifold specific aspects of theoretical deep learning.
   - Resolving the posterior-collapse issue in Seq2Seq learning
-    - Developed quantization based approaches towards resolving the posterior-collapse issue. [[Paper](https://arxiv.org/abs/2004.10603)]
+    - Developed a quantization based approach towards resolving the posterior-collapse issue. [[Paper](https://arxiv.org/abs/2004.10603)]
 
 * __Research Assistant, The Research Foundation for SUNY__ (Jan 2018 - May 2018)
   - Parallelized Hierarchical Clustering (worked with [Haimonti Dutta](http://mgt.buffalo.edu/faculty/academic-departments/management-science-systems/faculty/haimonti-dutta.html))
@@ -80,7 +80,7 @@ Experience
 
 * __Research Scientist Intern, Criteo Research__ (May 2017 - Aug 2017)
   - Cross-domain Query-Product (QP) modeling using Adversarial Transfer Learning (worked with [Suju Rajan](https://www.linkedin.com/in/suju-rajan/))
-    - Tried to learn a robust QP model across retailer domains using Adversarial Transfer Learning. [[Poster](http://schrilax.github.io/files/Criteo_Domain_Adaptation.pdf)]
+    - Developed a robust QP model across retailer domains using Adversarial Transfer Learning. [[Poster](http://schrilax.github.io/files/Criteo_Domain_Adaptation.pdf)]
 
 * __Research Assistant, The Research Foundation for SUNY__ (Jan 2017 - May 2017)
   - Representation learning via DL/NLSDR (worked with [Varun Chandola](https://cse.buffalo.edu/~chandola/) / [Nils Napp](https://cse.buffalo.edu/~nnapp/) / [Jaroslaw Zola](https://cse.buffalo.edu/~jzola/))
