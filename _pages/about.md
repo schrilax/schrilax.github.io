@@ -15,7 +15,7 @@ I am currently a Research Scientist with Amobee Research. Prior to this, I was a
 * Deep Graph/Geometric Learning
 * Nonlinear/Distributed Optimization
 
-I have 7+ years of research and 5 years of developer experience during which I have been exposed and worked on solving a variety of problems. Please feel free to contact me at suchismi [at] buffalo.edu :)
+I have 8+ years of research and 5 years of developer experience during which I have been exposed and worked on solving a variety of problems. Please feel free to contact me at suchismi [at] buffalo.edu :)
 
 Previously
 ----
