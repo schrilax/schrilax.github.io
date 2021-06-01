@@ -3,7 +3,7 @@ title: "Discretized Bottleneck in VAE: Posterior-Collapse-Free Sequence-to-Seque
 collection: publications
 permalink: /publication/2020-04-22-discretized-vae
 date: 2020-04-22
-venue: 'Conference (under submission)'
+venue: 'Preprint available on arXiv'
 paperurl: 'https://arxiv.org/abs/2004.10603'
 citation: 'Discretized Bottleneck in VAE: Posterior-Collapse-Free Sequence-to-Sequence Learning
 Y Zhao, P Yu, S Mahapatra, Q Su, C Chen - arXiv preprint arXiv:2004.10603, 2020.'

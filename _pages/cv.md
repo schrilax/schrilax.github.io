@@ -48,7 +48,7 @@ Honors
 
 Skills
 ======
-Python &#124; PyTorch &#124; TensorFlow &#124; C/C++ &#124; Apache MapReduce &#124; Scala &#124; CUDA &#124; Hive
+Python &#124; PyTorch &#124; TensorFlow &#124; Keras &#124; C/C++ &#124; Apache MapReduce &#124; Scala &#124; CUDA &#124; Hive
 
 Experience
 ======
@@ -136,6 +136,7 @@ Experience
 Additional Certifications/Projects
 ======
 * NLP certification from [NVIDIA Deep Learning Institute](https://www.nvidia.com/en-us/training/). [[Certificate](https://courses.nvidia.com/certificates/568fdcab70ac49d9ad0562e6250b0e0e)]
+* Full Stack Deep Learning certification. [[Certificate](https://verified.cv/en/verify/21717718575653)]
 * Machine Learning course offered by Stanford under [Andrew Ng](https://www.andrewng.org/). [[Report](http://schrilax.github.io/files/statement-of-accomplishment.pdf)]
 * Optimization/Mathematics/ML courses offered by Coursera. [[Certificate 1](http://schrilax.github.io/files/Linear_Programming_2014.pdf)][[Certificate 2](http://schrilax.github.io/files/Complex_Analysis_2014.pdf)][[Certificate 3](http://schrilax.github.io/files/Coursera3JL97R9BMUPF.pdf)]
 * Implemented 3PRR Parallel Chain/PRRR Serial Chain Manipulators under [Venkat Krovi](https://www.clemson.edu/cecas/departments/automotive-engineering/people/Venkat%20Krovi.html). [[Slides 1](http://schrilax.github.io/files/3-PRR-parallel-chain-manipulator.pdf)][[Slides 2](http://schrilax.github.io/files/PRRR-serial-chain-manipulator.pdf)][[Demos](http://schrilax.github.io/files/youtube-video-links.txt)]
