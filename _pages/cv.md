@@ -74,13 +74,9 @@ Experience
   - Kernel Manifold Learning (worked with [Varun Chandola](https://cse.buffalo.edu/~chandola/))
     - Developed novel Manifold Learning techniques motivated from Gaussian Processes. [[Paper](https://arxiv.org/abs/1804.08833)]
 
-* __Research Scientist Intern, Criteo Research__ (Sep 2017 - Dec 2017)
-  - Efficient Domain Adaptation (worked with [Suju Rajan](https://www.linkedin.com/in/suju-rajan/))
-    - Understanding how to efficiently deal with the Domain Adaptation problem via Optimal Transportation.
-
-* __Research Scientist Intern, Criteo Research__ (May 2017 - Aug 2017)
-  - Cross-domain Query-Product (QP) modeling using Adversarial Transfer Learning (worked with [Suju Rajan](https://www.linkedin.com/in/suju-rajan/))
-    - Developed a robust QP model across retailer domains using Adversarial Transfer Learning. [[Poster](http://schrilax.github.io/files/Criteo_Domain_Adaptation.pdf)]
+* __Research Scientist Intern, Criteo Research__ (May 2017 - Dec 2017)
+  - Cross-domain Query-Product (QP) modeling(worked with [Suju Rajan](https://www.linkedin.com/in/suju-rajan/))
+    - Developed a robust QP model across retailer domains via Domain Adaptation and Optimal Transport based approaches. [[Poster](http://schrilax.github.io/files/Criteo_Domain_Adaptation.pdf)]
 
 * __Research Assistant, The Research Foundation for SUNY__ (Jan 2017 - May 2017)
   - Representation learning via DL/NLSDR (worked with [Varun Chandola](https://cse.buffalo.edu/~chandola/) / [Nils Napp](https://cse.buffalo.edu/~nnapp/) / [Jaroslaw Zola](https://cse.buffalo.edu/~jzola/))
