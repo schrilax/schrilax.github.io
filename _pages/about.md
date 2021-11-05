@@ -22,3 +22,7 @@ Previously
 I was a PhD student with the [Machine Learning & Data Science Research (MLDS) group](http://www.cse.buffalo.edu/ubds/) at the [State University of New York at Buffalo](http://www.buffalo.edu), working under [Varun Chandola](http://www.cse.buffalo.edu/~chandola). I have completed my Masters at [UB](http://www.buffalo.edu) as well with a perfect GPA and subsequently decided to pursue a PhD degree.
 
 Predominantly my area of research is in large scale Machine Learning and Data Mining. More specifically my research focuses on designing, analyzing and implementing novel Machine Learning algorithms that take advantage of modern hardware to enable learning and mining of massive graphs and data sets.
+
+```html
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=iWVPHtVtXbRjx69IAOrwDTR72cJz41zwiePZDa3SIxc&cl=ffffff&w=a"></script>
+```
