@@ -23,5 +23,6 @@ I was a PhD student with the [Machine Learning & Data Science Research (MLDS) gr
 
 Predominantly my area of research is in large scale Machine Learning and Data Mining. More specifically my research focuses on designing, analyzing and implementing novel Machine Learning algorithms that take advantage of modern hardware to enable learning and mining of massive graphs and data sets.
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=6b3838&w=a&t=n&d=iWVPHtVtXbRjx69IAOrwDTR72cJz41zwiePZDa3SIxc'></script>
+<!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=6b3838&w=a&t=n&d=iWVPHtVtXbRjx69IAOrwDTR72cJz41zwiePZDa3SIxc'></script> -->
 
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=0e1633&w=a&t=n&d=iWVPHtVtXbRjx69IAOrwDTR72cJz41zwiePZDa3SIxc&co=0b4975&cmo=3acc3a&cmn=ff5353&ct=cdd4d9"></script>
