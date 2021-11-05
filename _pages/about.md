@@ -25,4 +25,6 @@ Predominantly my area of research is in large scale Machine Learning and Data Mi
 
 <!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=6b3838&w=a&t=n&d=iWVPHtVtXbRjx69IAOrwDTR72cJz41zwiePZDa3SIxc'></script> -->
 
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=0e1633&w=a&t=n&d=iWVPHtVtXbRjx69IAOrwDTR72cJz41zwiePZDa3SIxc&co=0b4975&cmo=3acc3a&cmn=ff5353&ct=cdd4d9"></script>
+<!-- <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=0e1633&w=a&t=n&d=iWVPHtVtXbRjx69IAOrwDTR72cJz41zwiePZDa3SIxc&co=0b4975&cmo=3acc3a&cmn=ff5353&ct=cdd4d9"></script> -->
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=0e1633&w=a&t=n&d=iWVPHtVtXbRjx69IAOrwDTR72cJz41zwiePZDa3SIxc&co=0b4975&cmo=3acc3a&cmn=ffa500&ct=cdd4d9'></script>
