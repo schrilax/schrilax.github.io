@@ -17,7 +17,7 @@ redirect_from:
 Education
 ======
 * __SCPD__ certification in [Artificial Intelligence](https://online.stanford.edu/programs/artificial-intelligence-professional-program), [Stanford University](https://www.stanford.edu/), February 2022
-  - Grade: __S__ [[Transcript](https://schrilax.github.io/files/scpd_transcript.pdf)][[Certification](https://schrilax.github.io/files/stanford_ai_certification.pdf)]
+  - Grade: __S__ [[Transcript](https://schrilax.github.io/files/scpd_transcript.pdf)] &#124; [[Certification](https://schrilax.github.io/files/stanford_ai_certification.pdf)]
 * __Ph.D.__ in [Computer Science](https://engineering.buffalo.edu/computer-science-engineering.html), [University of Buffalo, The State University of New York](http://www.buffalo.edu), June 2018
   - Topic: __Scalable Nonlinear Spectral Dimensionality Reduction methods for streaming data__ [[Thesis](http://schrilax.github.io/files/thesis_final.pdf)][[Slides](http://schrilax.github.io/files/thesis_defense.pdf)]
   - Advisors: [Varun Chandola](https://cse.buffalo.edu/~chandola/), [Nils Napp](https://cse.buffalo.edu/~nnapp/) & [Jaroslaw Zola](https://cse.buffalo.edu/~jzola/)
