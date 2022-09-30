@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Senior AI Scientist/Engineer with Linkedin. Prior to this, I was a Research Scientist with Amobee Research and Criteo Research respectively. Broadly my work encompasses applying different ML/DL and NLP techniques to solve related problems. My research focuses on designing & implementing novel algorithms which enable large-scale learning and includes:
+I am currently a Senior AI Scientist/Engineer with Linkedin. Prior to this, I was a Research Scientist with [Amobee Research](https://www.amobee.com/) and [Criteo Research](https://ailab.criteo.com/) respectively. Broadly my work encompasses applying different ML/DL, GNN and NLP techniques to solve related problems. My research focuses on designing & implementing novel algorithms which enable large-scale learning and includes:
 
 * Machine/Deep Learning
 * Natural Language Processing (NLP)
 * Deep Graph/Geometric Learning
 * Nonlinear/Distributed Optimization
 
-I have 8+ years of research and 5 years of developer experience during which I have been exposed and worked on solving a variety of problems. Please feel free to contact me at suchismi [at] buffalo.edu :)
+I have 10+ years of research and 5 years of developer experience during which I have been exposed and worked on solving a variety of problems. Please feel free to contact me at suchismi [at] buffalo.edu :)
 
 Previously
 ----

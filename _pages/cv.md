@@ -16,8 +16,6 @@ redirect_from:
 
 Education
 ======
-* __SCPD__ certification in [Artificial Intelligence](https://online.stanford.edu/programs/artificial-intelligence-professional-program), [Stanford University](https://www.stanford.edu/), February 2022
-  - Grade: __S__ [[Transcript](https://schrilax.github.io/files/scpd_transcript.pdf)] &#124; [[Certification](https://schrilax.github.io/files/stanford_ai_certification.pdf)]
 * __Ph.D.__ in [Computer Science](https://engineering.buffalo.edu/computer-science-engineering.html), [University of Buffalo, The State University of New York](http://www.buffalo.edu), June 2018
   - Topic: __Scalable Nonlinear Spectral Dimensionality Reduction methods for streaming data__ [[Thesis](http://schrilax.github.io/files/thesis_final.pdf)][[Slides](http://schrilax.github.io/files/thesis_defense.pdf)]
   - Advisors: [Varun Chandola](https://cse.buffalo.edu/~chandola/), [Nils Napp](https://cse.buffalo.edu/~nnapp/) & [Jaroslaw Zola](https://cse.buffalo.edu/~jzola/)
@@ -33,10 +31,15 @@ Education
 
 Honors
 ======
-* Became a reviewer for [ACL 2021](https://2021.aclweb.org/), [NeurIPS 2021](https://nips.cc/Conferences/2021) and [ICLR 2022](https://iclr.cc/Conferences/2022) (Sunnyvale, CA - 2021)
-* Became a reviewer for [EMNLP 2021](https://2021.emnlp.org/), [ICML 2021](https://icml.cc/Conferences/2021) and [ICLR 2021](https://iclr.cc/Conferences/2021) (Sunnyvale, CA - 2020)
+<!-- * Became a reviewer for [ACL 2021](https://2021.aclweb.org/), [NeurIPS 2021](https://nips.cc/Conferences/2021) and [ICLR 2022](https://iclr.cc/Conferences/2022) (Sunnyvale, CA - 2021)
+* Became a reviewer for [EMNLP 2021](https://2021.emnlp.org/), [ICML 2021](https://icml.cc/Conferences/2021) and [ICLR 2021](https://iclr.cc/Conferences/2021) (Sunnyvale, CA - 2020) -->
+* Completed [NLP](https://digitalcredential.stanford.edu/check/C093C93A777091BDA8619AF8873BC44427DB58EBF75F9006BF4F408D1ED166A2cHlMK0Z5bWZaZlVtMjJ3UHcybzA1T1UvVXczME15am5mbXVTTHdlckVSeDFZSEto) / [NLU](https://digitalcredential.stanford.edu/check/11C456EBE8667FBAA9FFCB019B51F9213CBE7C4D44C0813AFE173414D6C56F37MmxtNnFOaWJsdXRXQmxjSGpUZEJOQnhuMkc5anRSeGlySjM0eFBGWWpDbGh1TFZE) and [RL](https://digitalcredential.stanford.edu/check/4FC671D6DA4B8C9D7D28F9EEAAC8E2287BDE78F89E7718BAACBE896D9D2A818EL2s2bTBPQk9OR09MZGVFYnd3L3BOeCtUNm1FMmtwMU9UeE03dGNKbk5ORVg2dmgz) courses as part of [AI certification](https://bit.ly/3RdYo48) from [Stanford University](https://www.stanford.edu/) (Sunnyvale, CA - 2022)
+* Was invited to and attended the prestigious 2022 [CIFAR DLRL Summer School](https://dlrl.ca/) and [OxML 2022](https://www.oxfordml.school/) (Sunnyvale, CA - 2022)
+* Completed [NLP](https://courses.nvidia.com/certificates/568fdcab70ac49d9ad0562e6250b0e0e) certification from [NVIDIA Deep Learning Institute](https://www.nvidia.com/en-us/training/) and [Full Stack DL](https://verified.cv/en/verify/21717718575653) certification (Sunnyvale, CA - 2021)
+* Reviewer for [ICLR](https://iclr.cc/}) (2021 - present), [ACL](https://2021.aclweb.org/) (2021 - present) and [NeurIPS](https://nips.cc/) (2021 - present) (Sunnyvale, CA - 2021)
 * Was invited to and attended the prestigious [Theory of Reinforcement Learning](https://simons.berkeley.edu/programs/rl20) program (Sunnyvale, CA - 2020)
-* Became a reviewer for [ICML 2020](https://icml.cc/Conferences/2020) (Palo Alto, CA - 2019)
+* Reviewer for [ICML](https://icml.cc) (2020 - present), [ACL](https://2021.aclweb.org/) (2020 - present) and [EMNLP 2021](https://2021.emnlp.org/) (Sunnyvale, CA - 2020)
+<!-- * Became a reviewer for [ICML 2020](https://icml.cc/Conferences/2020) (Palo Alto, CA - 2019) -->
 * Was invited to and attended the prestigious [Foundations of Deep Learning](https://simons.berkeley.edu/programs/dl2019) program (Berkeley, CA - 2019)
 * Won a NSF Junior Researcher Award to attend [CBMS Conference on Sparse Recovery](https://sofia.nmsu.edu/~jlakey/cbms2017.html) (Las Cruces, NM - 2017)
 * Became a [NVIDIA GPU Educator](https://developer.nvidia.com/educators) (Santa Clara, CA - 2016)
@@ -54,7 +57,11 @@ Python &#124; PyTorch &#124; TensorFlow &#124; Keras &#124; C/C++ &#124; Apache 
 
 Experience
 ======
-* __Scientist I, Amobee Research__ (Mar 2020 - Present)
+* __Senior AI Scientist/Engineer, LinkedIn__ (Jul 2021 - Present)
+  - Firstline AI/Knowledge Graph (KG)
+    - Tech Lead for Firstline AI/KG teams (10+ engineers), applying different ML/DL, GNN and NLP techniques to solve related problems..
+
+* __Scientist I, Amobee Research__ (Mar 2020 - Jul 2021)
   - Developed a novel bidding strategy based on Win Price (WP) estimation
     - Developed and productionized a novel bidding strategy using nonlinear ML based approaches for estimating WP.
   - Built a Factorization Machine (FM/FFM) based ML pipeline for usage in production
@@ -131,10 +138,8 @@ Experience
   - Developed Universal Agent Tool along with my team, a tool which aimed at merging operations for various CRS.
   - Contributed to a white paper Using Venn Diagrams to capture Business Requirements.
 
-Additional Certifications/Projects
+Additional
 ======
-* NLP certification from [NVIDIA Deep Learning Institute](https://www.nvidia.com/en-us/training/). [[Certificate](https://courses.nvidia.com/certificates/568fdcab70ac49d9ad0562e6250b0e0e)]
-* Full Stack Deep Learning certification. [[Certificate](https://verified.cv/en/verify/21717718575653)]
 * Machine Learning course offered by Stanford under [Andrew Ng](https://www.andrewng.org/). [[Report](http://schrilax.github.io/files/statement-of-accomplishment.pdf)]
 * Optimization/Mathematics/ML courses offered by Coursera. [[Certificate 1](http://schrilax.github.io/files/Linear_Programming_2014.pdf)][[Certificate 2](http://schrilax.github.io/files/Complex_Analysis_2014.pdf)][[Certificate 3](http://schrilax.github.io/files/Coursera3JL97R9BMUPF.pdf)]
 * Implemented 3PRR Parallel Chain/PRRR Serial Chain Manipulators under [Venkat Krovi](https://www.clemson.edu/cecas/departments/automotive-engineering/people/Venkat%20Krovi.html). [[Slides 1](http://schrilax.github.io/files/3-PRR-parallel-chain-manipulator.pdf)][[Slides 2](http://schrilax.github.io/files/PRRR-serial-chain-manipulator.pdf)][[Demos](http://schrilax.github.io/files/youtube-video-links.txt)]
