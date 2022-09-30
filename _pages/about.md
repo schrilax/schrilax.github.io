@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Senior AI Scientist/Engineer with Linkedin. Prior to this, I was a Research Scientist with [Amobee Research](https://www.amobee.com/) and [Criteo Research](https://ailab.criteo.com/) respectively. Broadly my work encompasses applying different ML/DL, GNN and NLP techniques to solve related problems. My research focuses on designing & implementing novel algorithms which enable large-scale learning and includes:
+I am currently a Senior AI Scientist/Engineer with Linkedin. Prior to this, I was a Research Scientist with [Amobee](https://www.amobee.com/) and [Criteo](https://ailab.criteo.com/) respectively. Broadly my work encompasses applying different ML/DL, GNN and NLP techniques to solve related problems. My research focuses on designing & implementing novel algorithms which enable large-scale learning and includes:
 
 * Machine/Deep Learning
 * Natural Language Processing (NLP)
