@@ -59,9 +59,9 @@ Experience
 ======
 * __Senior AI Scientist/Engineer, LinkedIn__ (Jul 2021 - Present)
   - Firstline AI/Knowledge Graph (KG)
-    - Tech Lead for Firstline AI/KG teams (10+ engineers), applying different ML/DL, GNN and NLP techniques to solve related problems..
+    - Tech Lead for Firstline AI/KG teams (10+ engineers), applying different ML/DL, GNN and NLP techniques to solve related problems.
 
-* __Scientist I, Amobee Research__ (Mar 2020 - Jul 2021)
+* __Scientist I, Amobee__ (Mar 2020 - Jul 2021)
   - Developed a novel bidding strategy based on Win Price (WP) estimation
     - Developed and productionized a novel bidding strategy using nonlinear ML based approaches for estimating WP.
   - Built a Factorization Machine (FM/FFM) based ML pipeline for usage in production
@@ -69,7 +69,7 @@ Experience
   - Incorporating user embeddings into existing ML/DL models to improve performance
     - Trained BERT/GAN based generative models to construct user embeddings for usage by our existing models.
 
-* __Research Scientist, Criteo Research__ (Jul 2018 - Dec 2019)
+* __Research Scientist, Criteo AI Lab__ (Jul 2018 - Dec 2019)
   - Improve Click-through and Sales prediction
     - Enhanced our existing production Click-through and Sales prediction pipeline using nonlinear ML techniques. Improved stability of our new models significantly from +50% to +5%. A/B test using new models resulted in +3-6% uplift in long-term RexT on all platforms.
   - Theoretical aspects of Deep Learning (DL) (working with [Noureddine El Karoui](https://statistics.berkeley.edu/people/noureddine-el-karoui))
