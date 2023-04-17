@@ -16,7 +16,7 @@ I am currently a Senior AI Scientist/Engineer with Linkedin. Prior to this, I wa
 * Reinforcement Learning
 <!-- * Nonlinear/Distributed Optimization -->
 
-I have 10+ years of research and 5 years of developer experience during which I have been exposed and worked on solving a variety of problems. Please feel free to contact me at suchismi [at] buffalo.edu :)
+I have 10+ years of research and 7+ years of developer experience during which I have been exposed and worked on solving a variety of problems. Please feel free to contact me at suchismi [at] buffalo.edu :)
 
 Previously
 ----
