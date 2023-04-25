@@ -84,7 +84,7 @@ author:
   avatar           : "pic.jpg"
   bio              : "ML/DL Research"
   location         : "Sunnyvale, CA"
-  employer         : "LinkedIn"
+  employer         : ""
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=SfzRqb4AAAAJ"
   email            : suchismi@buffalo.edu
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "suchismit"
-  orcid            : "https://orcid.org/0000-0002-1851-4195"
+  orcid            : #"https://orcid.org/0000-0002-1851-4195"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
