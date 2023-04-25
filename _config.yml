@@ -84,7 +84,7 @@ author:
   avatar           : "pic.jpg"
   bio              : "ML/DL Research"
   location         : "Sunnyvale, CA"
-  employer         : ""
+  employer         : #""
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=SfzRqb4AAAAJ"
   email            : suchismi@buffalo.edu
