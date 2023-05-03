@@ -67,7 +67,7 @@ Experience
   - Standardization/Oribi/Groups
     - POC for Education, Degree and Field of Study (FoS) sub-domains in Standardization team.
     - Tech Lead for SIG/Oribi teams (10+ engineers), applying different ML/DL, GNN and NLP techniques to solve related problems.
-    - Led firefighting efforts to quickly resolve P0 issues affecting ~370K+ and 183K members which resulted in $5M+ revenue gain.
+    - Led firefighting efforts to quickly resolve P0 issues affecting 725K+ and 183K members which resulted in $5M+ revenue gain.
     - Improved average coverage of education taxonomy from 74% to 77.2%, which measures to be +5%.
     - Developed relevance-based models for Groups team which significantly improves group post contributions (+19.23%) and consumption (+22.18%).
 
