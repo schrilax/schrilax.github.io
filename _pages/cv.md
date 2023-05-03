@@ -61,11 +61,13 @@ Experience
   - Label generation using LLMs and prompt engineering
     - Built prompt generation pipelines which can read input data and automatically create prompts to be fed to LLMs for label generation.
     - Developed a novel prompt engineering technique which can handle sequential data.
-  - Standardization/Special Interest Group (SIG)/Oribi/Groups
+  - Special Interest Group (SIG)
+    - Built a novel unsupervised GNN framework which learns holistic member embeddings via incorporation of edge based features as part of the graph convolution, which when used as seed both accelerated model training speed and improved performance for clients.
+    - Developed a novel strategy for using offline RL methods to build Task-oriented dialogue agents. [[Slides](http://schrilax.github.io/files/LinkedIn_Offline_RL_dialogue_agents.pdf)]
+  - Standardization/Oribi/Groups
     - POC for Education, Degree and Field of Study (FoS) sub-domains in Standardization team.
     - Tech Lead for SIG/Oribi teams (10+ engineers), applying different ML/DL, GNN and NLP techniques to solve related problems.
     - Led firefighting efforts to quickly resolve P0 issues affecting ~370K+ and 183K members which resulted in $5M+ revenue gain.
-    - Developed a novel strategy for using offline RL methods to build Task-oriented dialogue agents. [[Slides](http://schrilax.github.io/files/LinkedIn_Offline_RL_dialogue_agents.pdf)]
     - Improved average coverage of education taxonomy from 74% to 77.2%, which measures to be +5%.
     - Developed relevance-based models for Groups team which significantly improves group post contributions (+19.23%) and consumption (+22.18%).
 
