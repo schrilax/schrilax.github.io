@@ -69,7 +69,7 @@ Experience
     - Tech Lead for SIG/Oribi teams (10+ engineers), wherein work with product managers to convert business/product requirements into practical/scalable technical solutions, applying different ML/DL, GNN and NLP techniques to solve related problems.
     - Led firefighting efforts to quickly resolve P0 issues affecting 725K+ and 183K members which resulted in $5M+ revenue gain.
     - Improved average coverage of education taxonomy from 74% to 77.2%, which measures to be +5%.
-    - Built relevance-based models for Groups significantly improving group post contributions (+19.23\%) and consumption (+22.18\%).
+    - Built relevance-based models for Groups significantly improving group post contributions (+19.23%) and consumption (+22.18%).
 
 * __Scientist I, Amobee__ (Mar 2020 - Jul 2021)
   - Developed a novel bidding strategy based on Win Price (WP) estimation
