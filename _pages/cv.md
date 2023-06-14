@@ -61,6 +61,7 @@ Experience
   - Label generation using LLMs and prompt engineering
     - Built prompt generation pipelines which can read input data and automatically create prompts to be fed to LLMs for label generation.
     - Developed a novel prompt engineering technique which can handle sequential data.
+    - Worked towards pre-training and fine-tuning of in-house LLMs.
   - Special Interest Group (SIG)
     - Built a novel unsupervised GNN framework which learns holistic member embeddings via incorporating edge based features in the graph convolution, which when used as seed both accelerated model training speed and improved model performance for clients.
     - Developed a novel strategy for using offline RL methods to build Task-oriented dialogue agents. [[Slides](http://schrilax.github.io/files/LinkedIn_Offline_RL_dialogue_agents.pdf)]
