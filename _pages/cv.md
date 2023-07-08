@@ -18,13 +18,13 @@ Education
 ======
 * __Ph.D.__ in [Computer Science](https://engineering.buffalo.edu/computer-science-engineering.html), [University of Buffalo, The State University of New York](http://www.buffalo.edu), June 2018
   - Topic: __Scalable Nonlinear Spectral Dimensionality Reduction methods for streaming data__ [[Thesis](http://schrilax.github.io/files/thesis_final.pdf)][[Slides](http://schrilax.github.io/files/thesis_defense.pdf)]
-  - Advisors: [Varun Chandola](https://cse.buffalo.edu/~chandola/), [Nils Napp](https://www.csl.cornell.edu/~nnapp/) & [Jaroslaw Zola](https://cse.buffalo.edu/~jzola/)
+  - Advisors: [Varun Chandola](https://ubdsgroup.github.io/team/varun-chandola/), [Nils Napp](https://www.csl.cornell.edu/~nnapp/) & [Jaroslaw Zola](https://cse.buffalo.edu/~jzola/)
   - GPA: __4.0 out of 4.0__ [[Transcript](http://schrilax.github.io/files/ub-cse-unofficial-transcript.pdf)]
 * __M.S.__ in [Computer Science](https://engineering.buffalo.edu/computer-science-engineering.html), [University of Buffalo, The State University of New York](http://www.buffalo.edu), June 2012
   - Topic: __A Cold Start Recommendation System Using Item Correlation and User Similarity__ [[Report](http://schrilax.github.io/files/iRec.pdf)]
   - Advisor: [Rohini Srihari](https://www.acsu.buffalo.edu/~rohini/)
   - GPA: __4.0 out of 4.0__ [[Transcript](http://schrilax.github.io/files/ub-cse-unofficial-transcript.pdf)] &#124; Department rank: __1 out of 555__
-* __B.Tech.__ in [Computer Science](https://www.nitrkl.ac.in/CS/Default.aspx), [National Institute of Technology, Rourkela](https://www.nitrkl.ac.in), May 2005
+* __B.Tech.__ in [Computer Science](https://website.nitrkl.ac.in/CS/), [National Institute of Technology, Rourkela](https://www.nitrkl.ac.in), May 2005
   - Specialization: __Discrete Mathematics and Algorithms__
   - Advisor: [Bibhudatta Sahoo](https://website.nitrkl.ac.in/FProfile.aspx?e=bdsahu)
   - Cumulative Score: __77% (First class with honors)__ [[Transcript](http://schrilax.github.io/files/nit_bachelors_transcript.pdf)] &#124; Joint Entrance Exam rank: __22 out of 400,000__
@@ -70,7 +70,7 @@ Experience
     - Tech Lead for SIG/Oribi teams (10+ engineers), wherein work with product managers to convert business/product requirements into practical/scalable technical solutions, applying different ML/DL, GNN and NLP techniques to solve related problems.
     - Led firefighting efforts to quickly resolve P0 issues affecting 725K+ and 183K members which resulted in $5M+ revenue gain.
     - Improved average coverage of education taxonomy from 74% to 77.2%, which measures to be +5%.
-    - Built relevance-based models for Groups significantly improving group post contributions (+19.23%) and consumption (+22.18%).
+    - Built relevance-based models which significantly improved group post contributions (+19.23%) and consumption (+22.18%).
 
 * __Scientist I, Amobee__ (Mar 2020 - Jul 2021)
   - Developed a novel bidding strategy based on Win Price (WP) estimation
@@ -89,9 +89,9 @@ Experience
     - Developed a quantization based approach towards resolving the posterior-collapse issue. [[Paper](https://arxiv.org/abs/2004.10603)]
 
 * __Research Assistant, The Research Foundation for SUNY__ (Jan 2018 - May 2018)
-  - Parallelized Hierarchical Clustering (worked with [Haimonti Dutta](http://mgt.buffalo.edu/faculty/academic-departments/management-science-systems/faculty/haimonti-dutta.html))
+  - Parallelized Hierarchical Clustering (worked with [Haimonti Dutta](https://management.buffalo.edu/faculty/academic-departments/management-science-systems/faculty/haimonti-dutta.html))
     - Worked towards developing a novel parallel hierarchical clustering algorithm using activization strategies.
-  - Kernel Manifold Learning (worked with [Varun Chandola](https://cse.buffalo.edu/~chandola/))
+  - Kernel Manifold Learning (worked with [Varun Chandola](https://ubdsgroup.github.io/team/varun-chandola/))
     - Developed novel Manifold Learning techniques motivated from Gaussian Processes. [[Paper](https://arxiv.org/abs/1804.08833)]
 
 * __Research Scientist Intern, Criteo Research__ (May 2017 - Dec 2017)
@@ -99,9 +99,9 @@ Experience
     - Developed a robust QP model across retailer domains via Domain Adaptation and Optimal Transport based approaches. [[Poster](http://schrilax.github.io/files/Criteo_Domain_Adaptation.pdf)]
 
 * __Research Assistant, The Research Foundation for SUNY__ (Jan 2017 - May 2017)
-  - Representation learning via DL/NLSDR (worked with [Varun Chandola](https://cse.buffalo.edu/~chandola/) / [Nils Napp](https://cse.buffalo.edu/~nnapp/) / [Jaroslaw Zola](https://cse.buffalo.edu/~jzola/))
+  - Representation learning via DL/NLSDR (worked with [Varun Chandola](https://ubdsgroup.github.io/team/varun-chandola/) / [Nils Napp](https://www.csl.cornell.edu/~nnapp/) / [Jaroslaw Zola](https://cse.buffalo.edu/~jzola/))
     - Interpreting complex nonlinear processes using DL/NLSDR methods. [[Paper](http://ieeexplore.ieee.org/document/8257987/)][[Demo 1](https://www.youtube.com/watch?v=fwT1zJ7VMFc)][[Demo 2](https://www.youtube.com/watch?v=ehN4I1TsBRc)]
-  - Incorporating complex constraints for sparse Logistic Regression (working with [Varun Chandola](https://cse.buffalo.edu/~chandola/))
+  - Incorporating complex constraints for sparse Logistic Regression (working with [Varun Chandola](https://ubdsgroup.github.io/team/varun-chandola/))
     - Worked towards solving the sparse Logistic Regression problem with hierarchical tree-based constraints.
 
 * __Teaching Assistant, University of Buffalo, The State University of New York__ (Sep 2016 - Dec 2016)
@@ -115,15 +115,15 @@ Experience
   - Teaching Assistant for CSE 574 Machine Learning.
 
 * __Research Assistant, University of Buffalo, The State University of New York__ (Jun 2013 - Dec 2015)
-  - Nonlinear Spectral Dimensionality Reduction (worked with [Varun Chandola](https://cse.buffalo.edu/~chandola/) / [Jaroslaw Zola](https://cse.buffalo.edu/~jzola/) / [Nils Napp](https://cse.buffalo.edu/~nnapp/))
+  - Nonlinear Spectral Dimensionality Reduction (worked with [Varun Chandola](https://ubdsgroup.github.io/team/varun-chandola/) / [Jaroslaw Zola](https://cse.buffalo.edu/~jzola/) / [Nils Napp](https://www.csl.cornell.edu/~nnapp/))
     - Developed scalable NLSDR methods in a streaming setting. [[Paper](https://epubs.siam.org/doi/10.1137/1.9781611974973.84)]
   - Social Network Modeling (worked with [Varun Chandola](https://cse.buffalo.edu/~chandola/))
     - Developed the xKPGM model for social network modeling. [[Paper](http://ieeexplore.ieee.org/document/7363817/)]
-  - Variance Reduction techniques in Distributed Optimization (worked with [Haimonti Dutta](http://mgt.buffalo.edu/faculty/academic-departments/management-science-systems/faculty/haimonti-dutta.html) / [Varun Chandola](https://cse.buffalo.edu/~chandola/))
+  - Variance Reduction techniques in Distributed Optimization (worked with [Haimonti Dutta](https://management.buffalo.edu/faculty/academic-departments/management-science-systems/faculty/haimonti-dutta.html) / [Varun Chandola](https://ubdsgroup.github.io/team/varun-chandola/))
     - Worked towards developing novel variance reduction techniques for the ERM problem.
-  - Understanding Rumor Propagation in Social Networks (worked with [Shambhu Upadhyaya](https://cse.buffalo.edu/~shambhu/) / [Varun Chandola](https://cse.buffalo.edu/~chandola/))
+  - Understanding Rumor Propagation in Social Networks (worked with [Shambhu Upadhyaya](https://cse.buffalo.edu/~shambhu/) / [Varun Chandola](https://ubdsgroup.github.io/team/varun-chandola/))
     - Worked towards modeling rumor propagation in social networks.
-  - Volcanic Flow Prediction (worked with [Abani Patra](https://engineering.tufts.edu/people/faculty/abani-patra) / [Varun Chandola](https://cse.buffalo.edu/~chandola/) / [Paul Bauman](https://www.linkedin.com/in/paul-bauman-84a7093a))
+  - Volcanic Flow Prediction (worked with [Abani Patra](https://engineering.tufts.edu/cs/people/faculty/abani-patra) / [Varun Chandola](https://ubdsgroup.github.io/team/varun-chandola/) / [Paul Bauman](https://www.linkedin.com/in/paul-bauman-84a7093a))
     - Developed a novel Gaussian Process based model for prediction of volcanic flow using GPUs.
 
 * __Teaching Assistant, University of Buffalo, The State University of New York__ (Sep 2012 - May 2013)
