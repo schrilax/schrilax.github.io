@@ -57,7 +57,9 @@ Python &#124; PyTorch &#124; TensorFlow &#124; Keras &#124; C/C++ &#124; Apache 
 
 Experience
 ======
-* __Senior AI Scientist/Engineer, LinkedIn__ (Jul 2021 - Present)
+* __ML/LLM Engineer, Meta__ (Jan 2024 - Present)
+  - Ranking & Recommendation @ Meta AI
+* __Senior AI Scientist/Engineer, LinkedIn__ (Jul 2021 - Sep 2023)
   - Conditional label generation using LLMs
     - Built prompt generation pipelines for large scale LLM inference to assist in conditional label generation via in-context learning.
     - Worked towards instruction fine-tuning and pre-training of in-house LLMs.
