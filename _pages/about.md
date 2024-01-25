@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Research Engineer with Meta. Prior to this, I was a Research Scientist with Criteo AI Lab, Amobee and LinkedIn respectively. Broadly my work encompasses applying different ML/DL, NLP/LLM and GNN techniques to solve related problems. My research focuses on designing & implementing novel algorithms which enable large-scale learning and includes:
+I am currently a ML/LLM Engineer with Meta. Prior to this, I was a Research Scientist with Criteo AI Lab, Amobee and LinkedIn respectively. Broadly my work encompasses applying different ML/DL, NLP/LLM and GNN techniques to solve related problems. My research focuses on designing & implementing novel algorithms which enable large-scale learning and includes:
 
 * Machine/Deep Learning
 * Natural Language Processing/ Large Language Models (NLP/LLM)
