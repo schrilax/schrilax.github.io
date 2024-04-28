@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[[Curriculum Vitaé](http://schrilax.github.io/files/Suchismit_CV.pdf)]
+[[Curriculum Vitaé](../files/Suchismit_CV.pdf)]
 <!---
 [[Research Overview](http://schrilax.github.io/files/research_overview.pdf)]
 -->
@@ -17,7 +17,7 @@ redirect_from:
 Education
 ======
 * __Ph.D.__ in [Computer Science](https://engineering.buffalo.edu/computer-science-engineering.html), [University of Buffalo, The State University of New York](http://www.buffalo.edu), June 2018
-  - Topic: __Scalable Nonlinear Spectral Dimensionality Reduction methods for streaming data__ [[Thesis](http://schrilax.github.io/files/thesis_final.pdf)][[Slides](http://schrilax.github.io/files/thesis_defense.pdf)]
+  - Topic: __Scalable Nonlinear Spectral Dimensionality Reduction methods for streaming data__ [[Thesis](../files/thesis_final.pdf)][[Slides](../files/thesis_defense.pdf)]
   - Advisors: [Varun Chandola](https://ubdsgroup.github.io/team/varun-chandola/), [Nils Napp](https://www.csl.cornell.edu/~nnapp/) & [Jaroslaw Zola](https://cse.buffalo.edu/~jzola/)
   - GPA: __4.0 out of 4.0__ [[Transcript](http://schrilax.github.io/files/ub-cse-unofficial-transcript.pdf)]
 * __M.S.__ in [Computer Science](https://engineering.buffalo.edu/computer-science-engineering.html), [University of Buffalo, The State University of New York](http://www.buffalo.edu), June 2012
@@ -113,7 +113,7 @@ Experience
 
 * __Machine Learning Algorithm Design Intern, BD Biosciences__ (Jun 2016 - Aug 2016)
   - Fast Clustering of Flow Cytometry (FC) data
-    - Upscaled BD's clustering framework for high dimensional FC data upto \~16x. [[Poster](http://schrilax.github.io/files/BD_Fast_Adaptive_Mean_Shift.pdf)][[Slides](http://schrilax.github.io/files/Parallel_FAMS.pdf)]
+    - Upscaled BD's clustering framework for high dimensional FC data upto \~16x. [[Poster](../files/BD_Fast_Adaptive_Mean_Shift.pdf)][[Slides](../files/Parallel_FAMS.pdf)]
 
 * __Teaching Assistant, University of Buffalo, The State University of New York__ (Jan 2016 - May 2016)
   - Teaching Assistant for CSE 574 Machine Learning.
@@ -156,8 +156,8 @@ Experience
 Additional
 ======
 * Machine Learning course offered by Stanford under [Andrew Ng](https://www.andrewng.org/). [[Report](http://schrilax.github.io/files/statement-of-accomplishment.pdf)]
-* Optimization/Mathematics/ML courses offered by Coursera. [[Certificate 1](http://schrilax.github.io/files/Linear_Programming_2014.pdf)][[Certificate 2](http://schrilax.github.io/files/Complex_Analysis_2014.pdf)][[Certificate 3](http://schrilax.github.io/files/Coursera3JL97R9BMUPF.pdf)]
-* Implemented 3PRR Parallel Chain/PRRR Serial Chain Manipulators under [Venkat Krovi](https://www.clemson.edu/cecas/departments/automotive-engineering/people/Venkat%20Krovi.html). [[Slides 1](http://schrilax.github.io/files/3-PRR-parallel-chain-manipulator.pdf)][[Slides 2](http://schrilax.github.io/files/PRRR-serial-chain-manipulator.pdf)][[Demos](http://schrilax.github.io/files/youtube-video-links.txt)]
+* Optimization/Mathematics/ML courses offered by Coursera. [[Certificate 1](http://schrilax.github.io/files/Linear_Programming_2014.pdf)][[Certificate 2](../files/Complex_Analysis_2014.pdf)][[Certificate 3](../files/Coursera3JL97R9BMUPF.pdf)]
+* Implemented 3PRR Parallel Chain/PRRR Serial Chain Manipulators under [Venkat Krovi](https://www.clemson.edu/cecas/departments/automotive-engineering/people/Venkat%20Krovi.html). [[Slides 1](../files/3-PRR-parallel-chain-manipulator.pdf)][[Slides 2](http://schrilax.github.io/files/PRRR-serial-chain-manipulator.pdf)][[Demos](../files/youtube-video-links.txt)]
 * Developed ElGooG – A search engine using \~100000 TREC documents as corpus (won the NTipS 2010 competition) under [Rohini Srihari](https://cedar.buffalo.edu/~rohini/). [[Report](http://schrilax.github.io/files/ElGooG.pdf)]
 
 Publications
