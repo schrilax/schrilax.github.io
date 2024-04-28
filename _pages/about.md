@@ -17,7 +17,7 @@ I am currently a ML/LLM Engineer with Meta. Prior to this, I was a Research Scie
 <!-- * Nonlinear/Distributed Optimization -->
 
 ![Research](../files/research_cloud.png)
-<!-- <img src="drawing.jpg" alt="drawing" width="200"/> -->
+<img src="../files/research_cloud.png" alt="Research" width="200"/>
 
 I have 11+ years of research and 8+ years of developer experience during which I have been exposed and worked on solving a variety of problems. Please feel free to contact me at suchismi [at] buffalo.edu :)
 
