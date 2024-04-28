@@ -16,6 +16,8 @@ I am currently a ML/LLM Engineer with Meta. Prior to this, I was a Research Scie
 * Reinforcement Learning
 <!-- * Nonlinear/Distributed Optimization -->
 
+![Research](http://schrilax.github.io/files/research_cloud.png)
+
 I have 11+ years of research and 8+ years of developer experience during which I have been exposed and worked on solving a variety of problems. Please feel free to contact me at suchismi [at] buffalo.edu :)
 
 Previously
