@@ -12,3 +12,5 @@ My contact information is below. Please feel free to drop me a line. :)
 * Github: [schrilax](https://github.com/schrilax)
 <!-- * Twitter: [schrilax](http://twitter.com/schrilax) -->
 * Google Scholar: [suchismit](https://scholar.google.com/citations?hl=en&user=SfzRqb4AAAAJ)
+
+<img src="../files/research_cloud.png" alt="Research" width="400"/>
