@@ -19,7 +19,7 @@ I am currently a ML/LLM Engineer with Meta. Prior to this, I was a Research Scie
 <!-- <img src="../files/research_cloud.png" alt="Research" width="300"/> -->
 
 
-I have 11+ years of research and 8+ years of developer experience during which I have been exposed and worked on solving a variety of problems. Please feel free to contact me at suchismi [at] buffalo.edu :)
+I have 12+ years of research and 12+ years of developer experience during which I have been exposed and worked on solving a variety of problems. Please feel free to contact me at suchismi [at] buffalo.edu :)
 
 Previously
 ----

@@ -70,7 +70,7 @@ Experience
     - Added "guardrail" components and incorporated best practices as part of label generation pipeline to ensure high label quality.
     - Leveraged *llama-4-maverick-17b-128e-instruct* as teacher model in large scale LLM inference pipelines to generate semantic labels for non-english comments.
     - Collaborated with central translation team for fine-tuning *llama-3.1-8b-instruct* model to further improve labeling performance.
-    - Using above semantic signals in our comment ranking VM boosting funny/interesting comments + demoting bad comments etc. resulted in strong vibe gains (vibe +19.2%, vibe "mimicry effect" +1.19%, comment VPV +0.67%, severe bad vibe -27.3%).
+    - Using above semantic signals in our comment ranking VM boosting funny/interesting comments + demoting bad comments etc. resulted in strong vibe gains (overall vibe +19.2%, vibe "mimicry effect" +1.19%, comment VPV +0.67%, severe bad vibe -27.3%).
 
 * __Senior AI Scientist/Engineer, LinkedIn__ (Jul 2021 - Sep 2023)
   - Conditional label generation using LLMs
