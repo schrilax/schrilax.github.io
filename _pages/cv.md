@@ -58,7 +58,20 @@ Python &#124; PyTorch &#124; TensorFlow &#124; Keras &#124; C/C++ &#124; Apache 
 Experience
 ======
 * __ML/LLM Engineer, Meta__ (Jan 2024 - Present)
-  - Ranking & Recommendation @ Meta AI
+  - Improving YA presence on comment surfaces
+    - Built a comprehensive strategy for improving young adults (YA) presence on comment surfaces, resulting in tactical initiatives:
+      + Developed an interesting comments based notification (serving 1.6M users daily) incorporating user personalization in VM, which resulted in strong funnel gains (clicks +0.16%, reactions +0.17%, actions +0.15%).
+      + Built foundational comment-based semantic labels (e.g., p(funny), p(mean), etc.) using Llama-as-oracle which had applications in multitude of products.
+
+  - Llama-as-oracle and vibe improvement on comment surfaces
+    - Built large scale LLM inference pipelines to generate semantic labels for comments using prompt tuned *llama-3.1-70b-instruct*.
+    - Utilizing above teacher model, trained highly accurate (both AUC-ROC, PR-AUC >= 0.93), "cheap" XLM(R)-based student models for serving billions of comments in production (needed to optimally balance compute, latency and performance).
+    - LORA fine-tuned *llama-3.1-8b-instruct* model using high quality labeled dataset (1M samples) generated using prompt-tuned *llama-3.1-70b-instruct* teacher model resulting in 75% GPU compute saving and performance gains (+9% PR-AUC, +15% accuracy).
+    - Added "guardrail" components and incorporated best practices as part of label generation pipeline to ensure high label quality.
+    - Leveraged *llama-4-maverick-17b-128e-instruct* as teacher model in large scale LLM inference pipelines to generate semantic labels for non-english comments.
+    - Collaborated with central translation team for fine-tuning *llama-3.1-8b-instruct* model to further improve labeling performance.
+    - Using above semantic signals in our comment ranking VM boosting funny/interesting comments + demoting bad comments etc. resulted in strong vibe gains (vibe +19.2%, vibe "mimicry effect" +1.19%, comment VPV +0.67%, severe bad vibe -27.3%).
+
 * __Senior AI Scientist/Engineer, LinkedIn__ (Jul 2021 - Sep 2023)
   - Conditional label generation using LLMs
     - Built prompt generation pipelines for large scale LLM inference to assist in conditional label generation via in-context learning.
