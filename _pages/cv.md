@@ -66,7 +66,7 @@ Experience
   - Llama-as-oracle and vibe improvement on comment surfaces
     - Built large scale LLM inference pipelines to generate semantic labels for comments using prompt tuned *llama-3.1-70b-instruct*.
     - Utilizing above teacher model, trained highly accurate (both AUC-ROC, PR-AUC >= 0.93), "cheap" XLM(R)-based student models for serving billions of comments in production (needed to optimally balance compute, latency and performance).
-    - LORA fine-tuned *llama-3.1-8b-instruct* model using high quality labeled dataset (1M samples) generated using prompt-tuned *llama-3.1-70b-instruct* teacher model resulting in 75% GPU compute saving and performance gains (+9% PR-AUC, +15% accuracy).
+    - Fine-tuned *llama-3.1-8b-instruct* model via SFT + LORA using a high quality dataset (1M samples) generated utilizing prompt-tuned *llama-3.1-70b-instruct* teacher model resulting in 75% GPU compute savings and performance gains (+9% PR-AUC, +15% accuracy).
     - Added "guardrail" components and incorporated best practices as part of label generation pipeline to ensure high label quality.
     - Leveraged *llama-4-maverick-17b-128e-instruct* as teacher model in large scale LLM inference pipelines to generate semantic labels for non-english comments.
     - Collaborated with central translation team for fine-tuning *llama-3.1-8b-instruct* model to further improve labeling performance.
