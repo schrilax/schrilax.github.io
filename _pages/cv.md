@@ -90,12 +90,12 @@ Experience
     - Built relevance-based models which significantly improved group post contributions (+19.23%) and consumption (+22.18%).
 
 * __Scientist I, Amobee__ (Mar 2020 - Jul 2021)
-  - Developed a novel bidding strategy based on Win Price (WP) estimation
+  - Novel bidding strategy based on Win Price (WP) estimation
     - Developed and productionized a novel bidding strategy using nonlinear ML based approaches for estimating WP.
-  - Built a Factorization Machine (FM/FFM) based ML pipeline for usage in production
+  - Factorization Machine (FM/FFM) based ML pipeline for usage in production
     - Led efforts to build a FM/FFM based ML pipeline using a novel sparse matrix formulation that can handle high modality features.
-  - Incorporating user embeddings into existing ML/DL models to improve performance
-    - Trained BERT/GAN based generative models to construct user embeddings for usage by our existing models.
+  - BERT/GAN based user embeddings
+    - Incorporated BERT/GAN based user embeddings into existing ML/DL models leading to enhanced model accuracy (+7%).
 
 * __Research Scientist, Criteo AI Lab__ (Jul 2018 - Dec 2019)
   - Improve Click-through and Sales prediction
