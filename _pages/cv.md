@@ -99,7 +99,7 @@ Experience
 
 * __Research Scientist, Criteo AI Lab__ (Jul 2018 - Dec 2019)
   - Improve Click-through and Sales prediction
-    - Enhanced our existing production Click-through and Sales prediction pipeline using nonlinear ML techniques. Improved stability of our new models significantly from +50% to +5%. A/B test using new models resulted in +3-6% uplift in long-term RexT on all platforms.
+    - Enhanced our existing production Click-through and Sales prediction pipeline using nonlinear ML techniques. Improved stability of our new models significantly from +50% to +5%. A/B test using new models resulted in +3-6% uplift in long-term revenue on all platforms.
   - Theoretical aspects of Deep Learning (DL) (working with [Noureddine El Karoui](https://statistics.berkeley.edu/people/noureddine-el-karoui))
     - Working towards understanding kernel and manifold specific aspects of theoretical deep learning.
   - Resolving the posterior-collapse issue in Seq2Seq learning
@@ -126,7 +126,7 @@ Experience
 
 * __Machine Learning Algorithm Design Intern, BD Biosciences__ (Jun 2016 - Aug 2016)
   - Fast Clustering of Flow Cytometry (FC) data
-    - Upscaled BD's clustering framework for high dimensional FC data upto \~16x. [[Poster](../files/BD_Fast_Adaptive_Mean_Shift.pdf)][[Slides](../files/Parallel_FAMS.pdf)]
+    - Upscaled BD's clustering framework for high dimensional FC data upto \~16x using non-parametric ML techniques. [[Poster](../files/BD_Fast_Adaptive_Mean_Shift.pdf)][[Slides](../files/Parallel_FAMS.pdf)]
 
 * __Teaching Assistant, University of Buffalo, The State University of New York__ (Jan 2016 - May 2016)
   - Teaching Assistant for CSE 574 Machine Learning.
