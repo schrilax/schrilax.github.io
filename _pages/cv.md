@@ -75,7 +75,9 @@ Experience
 * __Senior AI Scientist/Engineer, LinkedIn__ (Jul 2021 - Sep 2023)
   - Conditional label generation using LLMs
     - Built prompt generation pipelines for large scale LLM inference to assist in conditional label generation via in-context learning.
-    - Worked towards instruction fine-tuning and pre-training of in-house LLMs.
+    - Fine-tuned GPT-2 base model to generate member summary from user profile data.
+    - Collaborated towards pre-training in-house BERT model (*LiBERT*) using member profile data.
+    <!-- - Worked towards instruction fine-tuning and pre-training of in-house LLMs. -->
     <!-- - Built prompt generation pipelines which can read input data and automatically create prompts to be fed to LLMs for label generation. -->
     <!-- - Developed a novel prompt engineering technique which can handle sequential data. -->
     <!-- - Worked towards pre-training and fine-tuning of in-house LLMs. -->
