@@ -71,7 +71,7 @@ Experience
     - Leveraged *llama-4-maverick-17b-128e-instruct* as teacher model in large scale LLM inference pipelines to generate semantic labels for non-english comments from high resource languages.
     - Collaborated with central translation team for instruction fine-tuning *llama-3.1-8b-instruct* model to further improve labeling performance.
     - Using above semantic signals in our comment ranking VM boosting funny/interesting comments + demoting bad comments resulted in strong vibe gains (overall vibe +19.2%, vibe "mimicry effect" +1.19%, comment VPV +0.67%, severe bad vibe -27.3%).
-    - Built aligned model from *llama-3.1-8b-instruct* base for generating summary for large creators’ posts via RLHF + PPO + LORA and using *BERT* based reward model. Product got strong traction from users (VPV +0.2%, reactions +0.14%). Switched to using simpler DPO strategy.
+    - Built aligned version from *llama-3.1-8b-instruct* base to generate summary for large creators' posts via RLHF + PPO + LORA and BERT based reward model. Launch resulted in strong user traction (VPV +0.2%, reactions +0.14%). Switched to using simpler DPO strategy.
 
 * __Senior AI Scientist/Engineer, LinkedIn__ (Jul 2021 - Sep 2023)
   - Conditional label generation using LLMs
