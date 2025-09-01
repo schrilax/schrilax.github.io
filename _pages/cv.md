@@ -71,6 +71,7 @@ Experience
     - Leveraged *llama-4-maverick-17b-128e-instruct* as teacher model in large scale LLM inference pipelines to generate semantic labels for non-english comments from high resource languages.
     - Collaborated with central translation team for instruction fine-tuning *llama-3.1-8b-instruct* model to further improve labeling performance.
     - Using above semantic signals in our comment ranking VM boosting funny/interesting comments + demoting bad comments resulted in strong vibe gains (overall vibe +19.2%, vibe "mimicry effect" +1.19%, comment VPV +0.67%, severe bad vibe -27.3%).
+    - Built aligned model from *llama-3.1-8b-instruct* base for generating summary for large creators’ posts via RLHF + PPO + LORA and using *BERT* based reward model. Product got strong traction from users (VPV +0.2%, reactions +0.14%). Switched to using simpler DPO strategy.
 
 * __Senior AI Scientist/Engineer, LinkedIn__ (Jul 2021 - Sep 2023)
   - Conditional label generation using LLMs
@@ -82,7 +83,7 @@ Experience
     <!-- - Developed a novel prompt engineering technique which can handle sequential data. -->
     <!-- - Worked towards pre-training and fine-tuning of in-house LLMs. -->
   - Special Interest Group (SIG)
-    - Built a novel unsupervised GNN framework which learns holistic member embeddings via incorporating edge based features in the graph convolution, which when used as seed both accelerated model training speed and improved model performance for clients.
+    - Built a novel unsupervised GNN framework which learns holistic member embeddings via incorporating edge based features in the graph convolution, which significantly improved model training speed (-60%) and accuracy (+11%) for clients.
     - Developed a novel strategy for using offline RL methods to build Task-oriented dialogue agents. [[Slides](http://schrilax.github.io/files/LinkedIn_Offline_RL_dialogue_agents.pdf)]
   - Standardization/Oribi/Groups
     - POC for Education, Degree and Field of Study (FoS) sub-domains in Standardization team.

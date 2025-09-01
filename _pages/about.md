@@ -8,18 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a ML/LLM Engineer with Meta. Prior to this, I was a Research Scientist with Criteo AI Lab, Amobee and LinkedIn respectively. Broadly my work encompasses applying different ML/DL, NLP/LLM and GNN techniques to solve related problems. My research focuses on designing & implementing novel algorithms which enable large-scale learning and includes:
+Proficient technical leader with extensive research and developer experience in building custom, robust systems for large-scale learning and driving industry-wide impact. Proven ability of delivering complex technical initiatives from conception to production.
 
-* Machine/Deep Learning
+<!-- * Machine/Deep Learning
 * Natural Language Processing/ Large Language Models (NLP/LLM)
 * Deep Graph/Geometric Learning
-* Reinforcement Learning
-<!-- * Nonlinear/Distributed Optimization -->
+* Reinforcement Learning -->
 
-<!-- <img src="../files/research_cloud.png" alt="Research" width="300"/> -->
+My research interests/expertise lies in:
+- Machine/Deep Learning
+- Large Language Models
+  - Pre-training strategies
+  - Preference Optimization methods (DPO, PPO)
+  - Supervised/Parameter-Efficient Fine-tuning strategies (LORA, QLORA)
+  - Distillation, Quantization methods (QAT, PTQ)
+- Deep Graph/Geometric Learning
 
-
-I have 12+ years of research and 12+ years of developer experience during which I have been exposed and worked on solving a variety of problems. Please feel free to contact me at suchismi [at] buffalo.edu :)
+I have 12+ years of research and 12+ years of developer experience during which I have been exposed and worked on solving a variety of problems. Passionate about advancing the state-of-the-art in AI and contributing to the AI community. Please feel free to contact me at suchismi@buffalo.edu :)
 
 Previously
 ----
