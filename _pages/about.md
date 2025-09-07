@@ -14,8 +14,9 @@ My research interests/expertise lies in:
 - Machine/Deep Learning
 - Large Language Models
   - Pre-training strategies
-  - Preference Optimization methods (DPO, PPO)
-  - Supervised/Parameter-Efficient Fine-tuning strategies (LORA, QLORA)
+  - Supervised/Instruction Fine-tuning
+  - Parameter-Efficient Fine-tuning strategies (LORA, QLORA)
+  - Reinforcement Fine-tuning (RLHF, PPO, GRPO) + Preference Optimization (DPO)
   - Distillation, Quantization methods (QAT, PTQ)
 - Deep Graph/Geometric Learning
 
