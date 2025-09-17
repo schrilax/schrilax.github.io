@@ -20,7 +20,7 @@ My research interests/expertise lies in:
   - Distillation, Quantization methods (QAT, PTQ)
 - Deep Graph/Geometric Learning
 
-I have 12+ years of research and 12+ years of developer experience during which I have been exposed and worked on solving a variety of problems. Passionate about advancing the state-of-the-art in AI and contributing to the AI community. Please feel free to contact me at suchismi@buffalo.edu :)
+I have 12+ years of research and 12+ years of developer experience during which I have been exposed and worked on solving a variety of problems. Passionate about advancing the state-of-the-art in AI and contributing to the AI community. Please feel free to contact me at smit.martingale@gmail.com :)
 
 ----
 
