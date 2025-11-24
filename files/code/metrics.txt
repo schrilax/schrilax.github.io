@@ -1,0 +1,32 @@
+ML system design
+    1. Clarifying requirements
+    2. Framing the problem as an ML task
+    3. Data preparation
+    4. Model development
+    5. Evaluation
+    6. Deployment and serving
+    7. Monitoring and infrastructure
+
+Metrics for Search Systems
+
+Evaluating search systems centers on measuring how effectively the system retrieves relevant results in response to user queries. Several key metrics help capture this performance from different angles:
+
+    Precision and Recall: Precision measures the proportion of retrieved results that are relevant. For example, if a search returns 10 results and 7 are relevant, precision is 70%. Recall measures the proportion of all relevant items that the system successfully retrieves.
+    F1 Score: The F1 score combines precision and recall into a single number, representing their harmonic mean. It’s useful when you want a balanced view of both accuracy and completeness.
+    Mean Average Precision (MAP): MAP evaluates precision at every relevant item’s position across multiple queries, averaging these scores. This metric captures both relevance and ranking quality.
+    Normalized Discounted Cumulative Gain (NDCG): NDCG accounts for the fact that relevant items appearing near the top of search results matter more by applying a discount factor to lower-ranked items.
+    Mean Reciprocal Rank (MRR): MRR focuses on the rank of the first relevant result, rewarding systems that surface relevant results early.
+    Behavioral Metrics: Beyond offline metrics, user behaviour provides important signals. Metrics like click-through rate (CTR) and dwell time indicate how users engage with search results.
+
+Metrics for Recommendation Systems
+
+Recommendation systems aim to personalise the user experience by suggesting relevant items. Evaluating their performance requires metrics that capture not only accuracy but also diversity, novelty, and user engagement.
+
+    Hit Rate and Recall at K (R@K): Hit Rate measures whether the recommended list contains at least one relevant item. R@K measures the proportion of all relevant items that appear within the top K recommendations.
+    Precision at K (P@K): Precision at K calculates the fraction of relevant items among the top K recommendations, highlighting accuracy where users look first.
+    Normalized Discounted Cumulative Gain (NDCG): Like in search, NDCG weights relevant items higher when they appear earlier in the ranked recommendation list.
+    Mean Average Precision at K (MAP@K): MAP@K combines precision and ranking by averaging precision values across all relevant items within the top K.
+    Coverage and Diversity: Coverage assesses the proportion of items in the catalog that the system recommends over time. Diversity measures how varied the recommendations are.
+    Novelty and Serendipity: Novelty captures how unfamiliar recommendations are, while serendipity evaluates how pleasantly surprising they are.
+    Behavioral Metrics: Online engagement metrics, such as click-through rates, conversion rates, and user retention, are crucial for understanding real-world impact.
+
