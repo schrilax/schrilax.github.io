@@ -7,6 +7,24 @@ ML system design
     6. Deployment and serving
     7. Monitoring and infrastructure
 
+The Landmark Recognition System can be designed utilizing various Machine Learning and Artificial Intelligence technologies. The high-level design can be as follows:
+    Image Pre-Processing: This usually involves cropping, reducing noise, normalization, etc.
+    Feature Extraction using Deep Learning algorithms: Deep Layer Convolution Neural Networks can be used here. They work by extracting the important features and characteristics from the images.
+    Data Storage: We need to store the pre-processed images and the features extracted from the images. We can use any NoSQL database for this purpose.
+    Training and Predicting: After data storage and processing, we train a machine learning model for recognizing the landmarks. The trained model predicts the landmark when a new image is supplied to it.
+    User Interface: A GUI can be designed for users to interact with the system. It allows users to upload the pictures and show the recognized landmarks in a friendly manner.
+    Security & Privacy: To ensure privacy and security, all images uploaded by users for recognition should be temporarily stored and deleted once the process is done. Also, using secure databases and encryption techniques can also ensure data protection.
+
+To design an efficient landmark recognition system, we can use the following methodologies:
+
+    Use of Computer Vision Techniques: We can use various computer vision techniques like edge detection, shape detection, texture, color, etc., to extract useful features from the images.
+    Machine Learning Models: We can train ML models like SVMs, Decision Trees or even Deep Learning models for the task of recognition.
+    Micro-services Architecture: To ensure scalability and loosely coupled design, we can design the system using a micro-services architecture. This allows separate aspect of the service to function independently and efficiently.
+    Data Storage: Hadoop storage can be used to store the vast amount of data because it can handle large data sets and allows for horizontal scaling.
+    Performance Optimization: To handle the performance issues, a variety of tactics can be applied. For example models can be deployed near the data sources to reduce latency, or we can use data compression techniques to reduce the storage and transmission cost.
+    User Interface: We design a simple and easy-to-use interface. Users can upload images, review the recognition results, and even suggest corrections.
+    Security Measures: Adopting secure coding practices, implementing necessary cybersecurity measures, and including privacy protection mechanisms are also crucial in the design of a visual landmark recognition system.
+
 Metrics for Search Systems
 
 Evaluating search systems centers on measuring how effectively the system retrieves relevant results in response to user queries. Several key metrics help capture this performance from different angles:
