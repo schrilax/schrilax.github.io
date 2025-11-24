@@ -30,3 +30,50 @@ Recommendation systems aim to personalise the user experience by suggesting rele
     Novelty and Serendipity: Novelty captures how unfamiliar recommendations are, while serendipity evaluates how pleasantly surprising they are.
     Behavioral Metrics: Online engagement metrics, such as click-through rates, conversion rates, and user retention, are crucial for understanding real-world impact.
 
+CNN-based architectures such as ResNet [4] or more recent Transformer-based architectures [5] such as ViT [6] perform well with image inputs.
+
+Triplet loss = max(d(a,p) - d(a,n) + alpha, 0)
+
+MRR measures the quality of the model by considering the rank of the first relevant item in each output list produced by the model, and then averaging them
+
+MRR = (1/m) \sum_i=0^i=m 1/rank_i
+
+Recall@k measures the ratio between the number of relevant items in the output list and the total number of relevant items available in the entire dataset.
+
+recall@k = number of relevant items among the top k items in the output list / total relevant items
+
+Precision@k measures the proportion of relevant items among the top k items in the output list.
+
+precision@k = number of relevant items among the top k items in the output list / k
+
+mAP first computes the average precision (AP) for each output list, and then averages AP values.
+
+AP = \sum_i=0^i=k Precision@i if i’th item is relevant to the user / total relevant items
+
+HNSW, or Hierarchical Navigable Small World, is an algorithm for efficient approximate nearest neighbor (ANN) search in high-dimensional spaces, commonly used in vector databases. It builds a multi-layered graph structure, similar to a skip list, where each layer is sparser than the one below it. This hierarchical structure allows the search to start at a top, sparse layer for quick traversal and then zoom into lower, denser layers for precision, resulting in fast and accurate results.
+
+How HNSW works
+
+    Hierarchical structure:
+    The algorithm creates multiple layers of graphs.
+        Layer 0 (bottom): Contains all the data points, forming a dense graph.
+        Upper layers: Each layer above contains a subset of the points from the layer below, with the top layer containing the fewest points. The probability of a point being in a higher layer decreases logarithmically. 
+    Search process:
+    When a search query is performed, the algorithm starts at the top layer.
+        It moves through the top, sparser layers to quickly navigate to the general vicinity of the nearest neighbors.
+        As the search gets closer to the target, it "drops" down to the next lower, denser layer to find more precise matches.
+        This continues until the bottom layer is reached, ensuring the most accurate results are found efficiently. 
+
+Benefits of using HNSW
+
+1. Speed and accuracy:
+    HNSW provides a good balance between search speed and accuracy, outperforming many other traditional algorithms, especially for large datasets. 
+
+2. Scalability:
+    The hierarchical structure allows the algorithm to scale efficiently as the dataset grows. 
+
+3. Flexibility:
+    It can be tuned to optimize the trade-off between speed and accuracy by adjusting parameters like the number of connections per node and the search expansion factor. 
+
+4. State-of-the-art performance:
+    It is widely considered a state-of-the-art method for approximate nearest neighbor search and is used in many modern applications, such as recommendation systems and semantic search. 
