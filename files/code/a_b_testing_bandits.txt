@@ -1,0 +1,131 @@
+In machine learning and data science, statistical decision-making is fundamental for evaluating and
+optimizing different strategies. Two popular techniques used for this purpose are:
+
+• A/B Testing: A controlled experiment comparing two or more variants (A and B) to determine which
+performs better.
+
+• Multi-Armed Bandits (MAB): A reinforcement learning algorithm that balances exploration (trying
+new options) and exploitation (capitalizing on known rewards).
+
+Both approaches are widely used in online advertising, product optimization, and user experience testing.
+
+A/B Testing
+
+A/B Testing is a classical statistical method for comparing two or more groups by assigning participants
+randomly to each group and measuring the effect of an intervention.
+
+Key Steps in A/B Testing
+
+1. Hypothesis Formulation:
+• 𝐻0 : No difference between groups.
+• 𝐻1 : A statistically significant difference exists.
+
+2. Random Assignment: Users are randomly assigned to either group A or group B.
+
+3. Outcome Measurement: The effectiveness of the variants is measured using metrics like conversion rate, click-through rate (CTR) or revenue.
+
+4. Statistical Significance Testing: Techniques such as the t-test or chi-squared test are used to determine if
+the difference is statistically significant.
+
+In A/B testing, the p-value is the probability that the observed difference between two versions (A and B) is due to random chance alone, assuming there is no real difference between them. 
+
+A low p-value (typically below 0.05) indicates that the results are statistically significant, suggesting the difference is likely not due to chance. 
+
+A high p-value means the results could be random, and the experiment may need more data or to be re-run.
+
+How to interpret the p-value
+
+Low p-value (e.g., <0.05): The result is statistically significant. This means it is highly unlikely that the difference was caused by chance, and you can be confident that the change in version B is the reason for the difference.
+
+High p-value (e.g., >0.05): The result is not statistically significant. The observed difference is likely due to random chance, and you cannot conclude that version B is better than version A.  Borderline p-value (e.g., between \(0.05\) and \(0.1\)): The results are not conclusive. You may need to run the test longer to gather more data.
+
+Key things to remember
+
+P-value is not the probability that the null hypothesis is true: It only tells you the probability of seeing your result if the null hypothesis (no difference) were true.
+
+Define your significance level (alpha) beforehand: A common threshold (alpha) is 0.05, but this can vary. Your p-value should be compared to this pre-determined alpha level to determine significance.
+
+Avoid peeking: Checking the results of your A/B test too frequently can artificially lower the p-value and lead to premature conclusions.
+
+P-value and effect size: Don't just look at the p-value. Also consider the effect size (how big the difference is) and confidence intervals to get a more complete picture of your results.
+
+Advantages of A/B Testing
+• Simple to implement and interpret.
+• Reliable when sample sizes are large.
+• Provides statistically significant results.
+
+Limitations of A/B Testing
+• Inefficient for dynamic environments with continuous changes.
+• Requires large sample sizes to detect small effects.
+• Exploration-exploitation dilemma: Fixed allocations do not adapt to new information.
+
+Multi-Armed Bandits
+
+The Multi-Armed Bandit (MAB) problem models the challenge of choosing between multiple competing options
+with uncertain rewards.
+
+Key Concepts
+1. Arms: The different options or variants being tested (e.g., A, B, C, etc.).
+2. Reward: The payoff or outcome associated with selecting an arm.
+3. Exploration: Trying out different arms to gather information.
+4. Exploitation: Choosing the arm with the highest expected reward.
+
+Bandit Algorithms
+1. Epsilon-Greedy:
+• With probability ϵ, explore a random arm.
+• With probability 1−ϵ, exploit the best-known arm.
+
+2. Upper Confidence Bound (UCB): Selects the arm with the highest upper confidence bound, balancing
+exploration and exploitation.
+
+3. Thompson Sampling: Uses Bayesian inference to sample from the posterior distribution and select the arm
+with the highest reward.
+
+Advantages of Multi-Armed Bandits
+• Efficiently balances exploration and exploitation.
+• Adaptable to dynamic environments.
+• Requires fewer samples than A/B testing.
+
+Limitations of Multi-Armed Bandits
+• More complex to implement.
+• May suffer from delayed convergence.
+• Requires careful parameter tuning.
+
+Key Differences Between A/B Testing and Multi-Armed Bandits
+Feature A/B Testing Multi-Armed Bandits
+Methodology Fixed allocation Dynamic allocation
+Decision Criterion Statistical significance | Maximising cumulative reward
+Exploration-Exploitation Fixed sample size per group Continuous balance of exploration and exploitation
+Efficiency Slower convergence Faster adaptation to changing conditions
+Complexity Easier to implement More complex algorithm
+Use Cases Website experiments Real-time optimization (ads, recommendations)
+
+Mathematical Formulation
+A/B Testing Formulation
+
+In A/B Testing, the goal is to compare the means of two groups:
+Conversion Rate = Conversions
+
+Total Visitors
+For two groups A and B:
+𝐻0: 𝜇𝐴 = 𝜇𝐵
+𝐻1: 𝜇𝐴 ≠ 𝜇𝐵
+
+Multi-Armed Bandit Formulation
+For the MAB problem:
+• K = Number of arms.
+• T = Time horizon.
+• Rt = Reward at time t.
+
+The goal is to maximize the cumulative reward:
+Maximize: Σ𝑡=1𝑇 𝑅𝑡
+
+A/B Testing Applications
+1. Web Optimization: Comparing two website versions to optimize conversion rates.
+2. Product Testing: Evaluating new features or pricing strategies.
+3. Marketing Campaigns: Comparing ad creatives.
+
+Multi-Armed Bandit Applications
+1. Online Advertising: Adjusting ad placement in real-time.
+2. Recommendation Systems: Serving personalized recommendations.
+3. Dynamic Pricing: Adapting prices based on demand.
