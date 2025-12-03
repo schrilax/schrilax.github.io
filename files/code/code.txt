@@ -1,0 +1,612 @@
+LRU
+
+class ListNode:
+    def __init__(self, key, val):
+        self.key = key
+        self.val = val
+        self.next = None
+        self.prev = None
+
+class LRUCache:
+    def __init__(self, capacity: int):
+        self.capacity = capacity
+        self.dic = {}
+        self.head = ListNode(-1, -1)
+        self.tail = ListNode(-1, -1)
+        self.head.next = self.tail
+        self.tail.prev = self.head
+
+    def get(self, key: int) -> int:
+        if key not in self.dic:
+            return -1
+        
+        node = self.dic[key]
+        self.remove(node)
+        self.add(node)
+        return node.val
+
+    def put(self, key: int, value: int) -> None:
+        if key in self.dic:
+            old_node = self.dic[key]
+            self.remove(old_node)
+        
+        node = ListNode(key, value)
+        self.dic[key] = node
+        self.add(node)
+        
+        if len(self.dic) > self.capacity:
+            node_to_delete = self.head.next
+            self.remove(node_to_delete)
+            del self.dic[node_to_delete.key]
+
+    def add(self, node):
+        previous_end = self.tail.prev
+        previous_end.next = node
+        node.prev = previous_end
+        node.next = self.tail
+        self.tail.prev = node
+        
+    def remove(self, node):
+        node.prev.next = node.next
+        node.next.prev = node.prev
+
+# Your LRUCache object will be instantiated and called as such:
+# obj = LRUCache(capacity)
+# param_1 = obj.get(key)
+# obj.put(key,value)
+
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+
+Trie
+
+class WordDictionary:
+    def __init__(self):
+        self.root = {}
+
+    def addWord(self, word: str) -> None:
+        node = self.root
+
+        for ch in word:
+            if not ch in node:
+                node[ch] = {}
+            node = node[ch]
+        node["$"] = True
+
+    def search(self, word: str) -> bool:
+        def search_in_node(word, node) -> bool:
+            for i, ch in enumerate(word):
+                if not ch in node:
+                    if ch == ".":
+                        for x in node:
+                            if x != "$" and search_in_node(
+                                word[i + 1 :], node[x]
+                            ):
+                                return True
+                    return False
+                else:
+                    node = node[ch]
+            return "$" in node
+
+        return search_in_node(word, self.root)
+
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+
+Islands
+
+def check(i, j, m, n, grid):
+	return (0 <= i < m) and (0 <= j < n) and (grid[i][j] == '1')
+
+def check_v2(i, j, m, n, grid):
+	return (0 <= i < m) and (0 <= j < n) and (grid[i][j] == 1)
+
+def bfs(grid, i, j):
+	m, n = len(grid), len(grid[0])
+	q = [(i, j)]
+
+	while q:
+		i, j = q.pop(0)
+		grid[i][j] = '-1'
+
+		if check(i, j-1, m, n, grid):
+			q.append((i, j-1))
+
+		if check(i, j+1, m, n, grid):
+			q.append((i, j+1))
+
+		if check(i-1, j, m, n, grid):
+			q.append((i-1, j))
+
+		if check(i+1, j, m, n, grid):
+			q.append((i+1, j))
+
+def bfs_v2(grid, i, j):
+	m, n = len(grid), len(grid[0])
+	q = [(i, j)]
+
+	ans = 0
+
+	while q:
+		ans += len(q)
+
+		for _ in range(len(q)):
+			i, j = q.pop(0)
+			grid[i][j] = -1
+
+			if check_v2(i, j-1, m, n, grid):
+				q.append((i, j-1))
+
+			if check_v2(i, j+1, m, n, grid):
+				q.append((i, j+1))
+
+			if check_v2(i-1, j, m, n, grid):
+				q.append((i-1, j))
+
+			if check_v2(i+1, j, m, n, grid):
+				q.append((i+1, j))
+
+	return ans
+
+def num_islands(grid):
+	m, n = len(grid), len(grid[0])
+	ans = 0
+
+	for i in range(m):
+		for j in range(n):
+			if grid[i][j] == '1':
+				bfs(grid, i, j)
+				ans += 1
+
+	return ans
+
+def max_island_area(grid):
+	m, n = len(grid), len(grid[0])
+	max_area = 0
+
+	for i in range(m):
+		for j in range(n):
+			if grid[i][j] == 1:
+				area = bfs_v2(grid, i, j)
+				max_area = max(max_area, area)
+
+	return max_area
+
+grid_1 = [
+  ["1","1","1","1","0"],
+  ["1","1","0","1","0"],
+  ["1","1","0","0","0"],
+  ["0","0","0","0","0"]
+]
+
+grid_2 = [
+  ["1","1","0","0","0"],
+  ["1","1","0","0","0"],
+  ["0","0","1","0","0"],
+  ["0","0","0","1","1"]
+]
+
+grid_3 = [[0,0,1,0,0,0,0,1,0,0,0,0,0],[0,0,0,0,0,0,0,1,1,1,0,0,0],[0,1,1,0,1,0,0,0,0,0,0,0,0],[0,1,0,0,1,1,0,0,1,0,1,0,0],[0,1,0,0,1,1,0,0,1,1,1,0,0],[0,0,0,0,0,0,0,0,0,0,1,0,0],[0,0,0,0,0,0,0,1,1,1,0,0,0],[0,0,0,0,0,0,0,1,1,0,0,0,0]]
+
+print(num_islands(grid_1))
+print(num_islands(grid_2))
+
+print(max_island_area(grid_3))
+
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+
+Merge Sort
+
+def mergeSort(arr): 
+    if len(arr) >1: 
+        mid = len(arr)//2 #Finding the mid of the array 
+        L = arr[:mid] # Dividing the array elements  
+        R = arr[mid:] # into 2 halves 
+  
+        mergeSort(L) # Sorting the first half 
+        mergeSort(R) # Sorting the second half 
+  
+        i = j = k = 0
+          
+        while i < len(L) and j < len(R): 
+            if L[i] < R[j]: 
+                arr[k] = L[i] 
+                i+=1
+            else: 
+                arr[k] = R[j] 
+                j+=1
+            k+=1
+          
+        while i < len(L): 
+            arr[k] = L[i] 
+            i+=1
+            k+=1
+          
+        while j < len(R): 
+            arr[k] = R[j] 
+            j+=1
+            k+=1
+
+arr = [5,2,6,1,9,2,8]
+print(arr)
+mergeSort(arr)
+print(arr)
+
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+
+Quick Sort
+
+def partition(arr, low, high): 
+    i = ( low-1 )         # index of smaller element 
+    pivot = arr[high]     # pivot 
+  
+    for j in range(low , high): 
+  
+        # If current element is smaller than or 
+        # equal to pivot 
+        if arr[j] <= pivot: 
+          
+            # increment index of smaller element 
+            i = i+1 
+            arr[i],arr[j] = arr[j],arr[i] 
+  
+    arr[i+1],arr[high] = arr[high],arr[i+1] 
+    return ( i+1 ) 
+    
+def quickSort(arr,low,high): 
+    if low < high: 
+  
+        # pi is partitioning index, arr[p] is now 
+        # at right place 
+        pi = partition(arr,low,high) 
+  
+        # Separately sort elements before 
+        # partition and after partition 
+        quickSort(arr, low, pi-1) 
+        quickSort(arr, pi+1, high)
+
+arr = [5,2,6,1,9,2,8]
+print(arr)
+quickSort(arr, 0, len(arr)-1)
+print(arr)
+
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+
+Max Heap
+
+class maxHeap:
+  def __init__(self):
+    self.heap = []
+    
+  def insert(self,val):
+    self.heap.append(val)
+    self.__percolateUp(len(self.heap)-1)
+  
+  def getMax(self):
+    if self.heap:
+      return self.heap[0]
+    return None
+  
+  def removeMax(self):
+    if len(self.heap) > 1:
+      max = self.heap[0]
+      self.heap[0] = self.heap[-1]
+      del self.heap[-1]
+      self.__maxHeapify(0)
+      return max
+    elif len(self.heap) == 1:
+      max = self.heap[0]
+      del self.heap[0]
+      return max
+    else:
+      return None
+  
+  def __percolateUp(self, index):
+    parent = (index-1)//2
+    if index <= 0:
+      return
+    elif self.heap[parent] < self.heap[index]:
+      tmp = self.heap[parent]
+      self.heap[parent] = self.heap[index]
+      self.heap[index] = tmp
+      self.__percolateUp(parent)
+    
+  def __maxHeapify(self,index):
+    left =(index * 2) + 1
+    right = (index * 2) + 2
+    largest = index
+    if len(self.heap) > left and self.heap[largest] < self.heap[left]:
+      largest = left
+    if len(self.heap) > right and self.heap[largest] < self.heap[right]:
+      largest = right
+    if largest != index:
+      tmp = self.heap[largest]
+      self.heap[largest] = self.heap[index]
+      self.heap[index] = tmp
+      self.__maxHeapify(largest)
+
+  
+heap = maxHeap()
+heap.insert(12)
+heap.insert(10)
+heap.insert(-10)
+heap.insert(100)
+
+print(heap.getMax())
+
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+
+Dijkstra
+
+import heapq
+
+def dijkstra(graph, start_node):
+    distances = {node: float('inf') for node in graph}
+    distances[start_node] = 0
+    q = [(0, start_node)]  # (distance, node)
+
+    while q:
+        current_distance, current_node = heapq.heappop(q)
+
+        # If we found a shorter path to current_node already, skip this one
+        if current_distance > distances[current_node]:
+            continue
+
+        for neighbor, weight in graph[current_node].items():
+            distance = current_distance + weight
+
+            # If a shorter path to neighbor is found
+            if distance < distances[neighbor]:
+                distances[neighbor] = distance
+                heapq.heappush(q, (distance, neighbor))
+
+    return distances
+
+# Example Usage:
+graph = {
+    'A': {'B': 1, 'C': 4},
+    'B': {'A': 1, 'D': 2, 'E': 5},
+    'C': {'A': 4, 'F': 3},
+    'D': {'B': 2, 'E': 1},
+    'E': {'B': 5, 'D': 1, 'F': 1},
+    'F': {'C': 3, 'E': 1}
+}
+
+start_node = 'A'
+shortest_paths = dijkstra(graph, start_node)
+print(f"Shortest paths from {start_node}: {shortest_paths}")
+
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+
+Binary Search
+
+def find_the_target_in_a_rotated_sorted_array(nums: List[int], target: int) -> int:
+    left, right = 0, len(nums) - 1
+    while left < right:
+        mid = (left + right) // 2
+        if nums[mid] == target:
+            return mid
+        # If the left subarray [left : mid] is sorted, check if the target falls in
+        # this range. If it does, search the left subarray. Otherwise, search the
+        # right.
+        elif nums[left] <= nums[mid]:
+            if nums[left] <= target < nums[mid]:
+                right = mid - 1
+            else:
+                left = mid + 1
+        # If the right subarray [mid : right] is sorted, check if the target falls
+        # in this range. If it does, search the right subarray. Otherwise, search the
+        # left.
+        else:
+            if nums[mid] < target <= nums[right]:
+                left = mid + 1
+            else:
+                right = mid - 1
+    # If the target is found in the array, return it’s index. Otherwise, return -1.
+    return left if nums and nums[left] == target else -1
+
+def find_the_insertion_index(nums: List[int], target: int) -> int:
+    left, right = 0, len(nums)
+    while left < right:
+        mid = (left + right) // 2
+        # If the midpoint value is greater than or equal to the target, the lower
+        # bound is either at the midpoint, or to its left.
+        if nums[mid] >= target:
+            right = mid
+        # The midpoint value is less than the target, indicating the lower bound is
+        # somewhere to the right.
+        else:
+            left = mid + 1
+    return left
+
+def first_and_last_occurrences_of_a_number(nums: List[int], target: int) -> List[int]:
+    lower_bound = lower_bound_binary_search(nums, target)
+    upper_bound = upper_bound_binary_search(nums, target)
+    return [lower_bound, upper_bound]
+
+def lower_bound_binary_search(nums: List[int], target: int) -> int:
+    left, right = 0, len(nums) - 1
+    while left < right:
+        mid = (left + right) // 2
+        if nums[mid] > target:
+            right = mid - 1
+        elif nums[mid] < target:
+            left = mid + 1
+        else:
+            right = mid
+    return left if nums and nums[left] == target else -1
+
+def upper_bound_binary_search(nums: List[int], target: int) -> int:
+    left, right = 0, len(nums) - 1
+    while left < right:
+        # In upper-bound binary search, bias the midpoint to the right.
+        mid = (left + right) // 2 + 1
+        if nums[mid] > target:
+            right = mid - 1
+        elif nums[mid] < target:
+            left = mid + 1
+        else:
+            left = mid
+    # If the target doesn’t exist in the array, then it's possible that
+    # 'left = mid + 1' places the left pointer outside the array when `mid == n - 1`.
+    # So, we use the right pointer in the return statement instead.
+    return right if nums and nums[right] == target else -1
+
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+
+Topological Sort
+
+def addEdge(graph, u, v):
+    if u not in graph:
+        graph[u] = []
+    
+    graph[u].append(v)
+
+def topologicalSortUtil(graph, node, visited, stack):
+    # Mark the current node as visited.
+    visited[node] = True
+
+    if node in graph:
+        for i in graph[node]:
+            if visited[i] == False:
+                topologicalSortUtil(graph, i, visited, stack)
+ 
+    stack.append(node)
+
+def topologicalSort(graph, V):
+    visited = [False]*V
+    stack = []
+ 
+    for i in range(V):
+        if visited[i] == False:
+            topologicalSortUtil(graph, i, visited, stack)
+ 
+    return stack[::-1]  # return list in reverse order
+
+graph = {}
+V = 6
+
+addEdge(graph, 5, 2)
+addEdge(graph, 5, 0)
+addEdge(graph, 4, 0)
+addEdge(graph, 4, 1)
+addEdge(graph, 2, 3)
+addEdge(graph, 3, 1)
+
+sorted_vertices = topologicalSort(graph, V)
+print(sorted_vertices)
+
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+
+Minimum Spanning Tree
+
+class DSU:
+    def __init__(self, n):
+        self.parent = list(range(n))
+        self.rank = [0] * n
+
+    def find(self, i):
+        if self.parent[i] == i:
+            return i
+        self.parent[i] = self.find(self.parent[i])
+        return self.parent[i]
+
+    def union(self, x, y):
+        root_x = self.find(x)
+        root_y = self.find(y)
+
+        if root_x != root_y:
+            if self.rank[root_x] < self.rank[root_y]:
+                self.parent[root_x] = root_y
+            elif self.rank[root_x] > self.rank[root_y]:
+                self.parent[root_y] = root_x
+            else:
+                self.parent[root_y] = root_x
+                self.rank[root_x] += 1
+            return True
+        return False
+
+def kruskal_mst(V, edges):
+    """
+    Finds the Minimum Spanning Tree (MST) of a graph using Kruskal's algorithm.
+
+    Args:
+        V: The number of vertices in the graph.
+        edges: A list of tuples, where each tuple represents an edge (u, v, weight).
+
+    Returns:
+        A list of tuples representing the edges in the MST (u, v, weight).
+    """
+    
+    # Sort all edges by their weight in non-decreasing order
+    edges.sort(key=lambda item: item[2])
+
+    dsu = DSU(V)
+    mst = []
+    mst_cost = 0
+
+    for u, v, weight in edges:
+        # If adding this edge does not form a cycle, add it to the MST
+        if dsu.union(u, v):
+            mst.append((u, v, weight))
+            mst_cost += weight
+            # If we have V-1 edges, we have found the MST
+            if len(mst) == V - 1:
+                break
+    
+    print(dsu.parent)
+    print(dsu.rank)
+
+    return mst, mst_cost
+
+# Example Usage:
+if __name__ == "__main__":
+    V = 4  # Number of vertices
+    edges = [
+        (0, 1, 10),
+        (0, 2, 6),
+        (0, 3, 5),
+        (1, 3, 15),
+        (2, 3, 4)
+    ]
+
+    mst_edges, total_cost = kruskal_mst(V, edges)
+    # print("Edges in the Minimum Spanning Tree:")
+    # for u, v, weight in mst_edges:
+    #     print(f"{u} - {v} : {weight}")
+    # print(f"Total cost of MST: {total_cost}")
+
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+
+Account Merge
+
+class Solution:
+    def accountsMerge(self, accounts: List[List[str]]) -> List[List[str]]:
+        from collections import defaultdict
+        
+        visited_accounts = [False] * len(accounts)
+        emails_accounts_map = defaultdict(list)
+        res = []
+        # Build up the graph.
+        for i, account in enumerate(accounts):
+            for j in range(1, len(account)):
+                email = account[j]
+                emails_accounts_map[email].append(i)
+        # DFS code for traversing accounts.
+        def dfs(i, emails):
+            if visited_accounts[i]:
+                return
+            visited_accounts[i] = True
+            for j in range(1, len(accounts[i])):
+                email = accounts[i][j]
+                emails.add(email)
+                for neighbor in emails_accounts_map[email]:
+                    dfs(neighbor, emails)
+        # Perform DFS for accounts and add to results.
+        for i, account in enumerate(accounts):
+            if visited_accounts[i]:
+                continue
+            name, emails = account[0], set()
+            dfs(i, emails)
+            res.append([name] + sorted(emails))
+        return res
+
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
