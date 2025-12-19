@@ -1,0 +1,125 @@
+> What is continuous integration?
+
+Continuous integration is a software engineering practice where all developers merge their working copies into shared mainline several times a day. The purpose of continuous integration is to avoid and prevent integration problems by ensuring that the main code repository is updated frequently and with small, incremental changes, rather than irregularly and with large changes. The idea for continuous integration was introduced by Grady Booch in the publication Object-oriented Analysis and Design with Applications.
+
+> Key takeaways
+1. The purpose of continuous integration is to avoid and prevent integration problems by ensuring that the main code repository is updated frequently and with small, incremental changes, rather than irregularly and with large changes.
+
+2. The microservices architecture model enables software developers to take advantage of the benefits of continuous integration.
+
+3. The journey to implementing continuous integration begins with the establishment of a centralized code repository for your application.
+
+> Continuous integration benefits
+
+Changes in the way that software developers approach application architecture have made continuous integration an increasingly popular methodology. In the past, the majority of software applications were built using what you would call a monolithic architecture. This means that the application is built as a single unit, or “all in one piece.” A traditional enterprise application with a monolithic architecture is built into three essential parts: a database, a user interface and a server-side interface.
+
+Today, an increasing number of applications are being developed using a microservices architecture. Microservices represent a specific feature of the application, a capability or service with a measurable business value. This means that features can be developed independently and even written in completely different programming languages. Development teams can enable feature toggling, making it easy to activate and deactivate specific application features or microservices in the production environment. The microservices architecture model enables software developers to deliver new updates more frequently, as updates to individual services can be implemented without negatively affecting other parts of the application. This enables developers to take advantage of the benefits of continuous integration, which include:
+
+> More frequent updates
+    
+Continuous integration ultimately means that software teams are delivering updates faster than before. This shortens the feedback cycle between application updates and user feedback and ensures that software development teams can continuously cater to the desires of their user base.
+
+> Better fault isolation
+
+When developers implement continuous integration, it becomes easier to detect integration bugs at an early stage. Continuous integration ensures that changes to the main code repository are implemented frequently, so each update is small. When an integration error occurs, relatively few lines of code have been added since the last successful build, so it’s much easier to find and diagnose the error. Additionally, for teams that use microservices architecture, faults can be isolated within individual microservices, making it even easier to debug.
+
+> Lower consequences of failure
+
+Sometimes a bug emerges and developers are forced to revert back to an earlier version of the code that is known to be functional. For teams that update the code base 10 times per day, this means reverting to the previous build from an hour ago. For teams that update monthly, it means reverting to a build from a month ago or more. Frequent integration means that fewer changes are lost in cases where a revert is necessary.
+
+> Current build always available
+
+Teams that practice continuous integration always have access to a high current version of the software that contains the latest updates. This enables more timely testing, demos and faster releases.
+
+> How to implement continuous integration
+
+1. Maintain a centralized code repository
+
+The journey to implementing continuous integration begins with the establishment of a centralized code repository for your application. The repository should contain all of the programming artifacts required to build the project with no additional dependencies. The goal of continuous integration is to make regular updates to the mainline code (at least once per day), ensuring that integration errors are immediately detected and corrected
+
+2. Write a comprehensive build script
+
+One of the most important best practices for continuous integration is automating the build process. Continuous integration teams require the capability to initiate a full build script that compiles binaries and generates documentation, web pages and statistics. Automating the build process is a necessary pre-condition for continuous integration that also helps developers save time and money by eliminating redundant tasks.
+
+3. Automate self-testing of your application
+
+Automated self-testing should be run on every build to ensure that the code continues to function as expected. When an error is found, it can be diagnosed and corrected through debugging or developers can revert to a stable version of the code while losing a minimal amount of changes.
+
+4. Everyone commits updated code every day
+
+Committing new code updates to the mainline regularly reduces the number of conflicting changes, therefore each developer on the team must commit their updated working code at least once per day. We have heard of software teams that commit new code up to 10 times daily.
+
+5. Every new commit should be built
+
+To ensure success in the integration process, every new commit should be built into the current working version and tested for function. This process can be automated with the use of a continuous integration server that monitors the code repository for changes and automatically builds and tests when a change is detected.
+
+6. Builds should always complete rapidly
+
+Continuous integration teams need to ensure that their automated build process happens quickly. If the build takes 24 hours, that introduces a day of delays in finding any integration errors. Short build times mean that errors are identified and resolved more quickly.
+
+7. Clone your production environment for testing purposes
+
+One of the aims of continuous integration is to ensure that the application is always functional and ready for deployment. When the test environment does not accurately represent a live or production environment, this is impossible to verify. Software developers should construct a “staging environment” that replicates the conditions of live production.
+
+8. Streamline access to the latest deliverables
+
+Make sure that all stakeholders and testers can access the latest build to review and test code. Early testing and error detection can reduce the time needed to resolve a software bug.
+
+9. Everyone can see build results
+
+Continuous integration teams need to maintain a constant state of transparency when it comes to building results. Separate teams should be able to see whether the build breaks, then trace that back to what was changed and who changed it, and what microservices are affected.
+
+10. Automate the deployment process
+
+The final step of continuous integration implementation is to automate the deployment process. Deployment can be to either a test server where the build can be reviewed by the development team, or to a live production environment where users can instantaneously give feedback on updates.
+
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+
+> What is continuous deployment?
+
+Continuous deployment (CD, or CDE) is a strategy or methodology for software releases where any new code update or change made through the rigorous automated test process is deployed directly into the live production environment, where it will be visible to customers.
+
+The goal of a continuous deployment process is simple: minimize the cycle time required to write a piece of code, test it to ensure that it functions correctly and does not break the application, deploy it to the live environment and collect feedback on it from users.
+
+Key takeaways
+
+1. The goal of a continuous deployment process is to minimize the cycle time to write a piece of code, test it to ensure that it functions correctly without breaking the application, deploy it to the live environment, and collect user feedback.
+    
+2. Continuous deployment adds an element of risk to the software release process, as developers frequently commit unproven code that could contain bugs to the live environment.
+
+3. Organizations that implement continuous deployment must develop real-time monitoring capabilities of the live environment to discover and address any technical issues after a new release.
+
+4. The benefits of continuous deployment are faster new releases and feedback loops with customers and reduce manual processes.
+
+Continuous integration vs. continuous deployment
+
+Continuous integration refers to the software engineering practice of merging the output from software development teams into a shared mainline several times daily.
+
+In the past, a software developer working on an application would obtain a copy of the current code base to build and test a change. As other developers were constantly updating the code base, this copy of the code base would become increasingly out-of-date over time. Still, the developer would build and test their change, but the final step was always to integrate the change back into the code base. And by then, incompatibility between the two often causes problems in the software development process.
+
+Developer teams that practice continuous integration avoid integration issues by ensuring that working copies are merged into the main code bank several times daily. These regular commits reduce the number of conflicting changes, and any discovered conflicts are small and can usually be fixed relatively quickly. In contrast, developer teams that only commit changes once per week or once per month can build up a lot of conflicts between builds, leading to more difficulties when integrating the code.
+
+Continuous deployment takes CI a step further and automates the code release process so that each time new commits are merged into the mainline, automated testing is conducted, and passes results in pushing the update to the production environment. The key to achieving continuous deployment is to start with a functioning workflow for continuous integration, then streamline and automate the application release process so you can roll out new releases regularly.
+
+Automation is a key driver of productivity for teams that are doing continuous deployment. A robust battery of automated tests must be programmed to verify that new code commits are functional before they are automated. Additional tools are required to abort the deployment process and trigger human intervention when the tests reveal lower-than-expected quality results or outcomes.
+
+Continuous deployment adds an element of risk to the software release process, as developers frequently commit unproven code that could potentially contain bugs in the live environment. Organizations that implement continuous deployment must therefore develop real-time monitoring capabilities of the live environment to rapidly discover and address any technical issues that occur after a new release.
+Continuous deployment vs. DevOps
+
+Continuous deployment and DevOps are not the same things, but they aren’t mutually exclusive either and software developers can achieve some notable results by leveraging both paradigms.
+
+For starters, it’s clear that continuous deployment and DevOps have similar goals. DevOps is a set of software development practices emphasizing the shortening of software development cycle times and time-to-value while frequently delivering updates and new features. Continuous deployment strives to deliver frequent updates as well, but it does so through a specific approach to change integration and delivery that minimizes lead times and relies on automation to facilitate frequent testing and software releases.
+
+Ultimately, while continuous deployment describes a single practice for software development, DevOps offers a range of processes and best practices designed to help dev teams quickly deliver code tightly aligned with business strategy and objectives. The DevOps framework includes third-party software recommendations for every stage of the product development process and guidelines for establishing a strong DevOps culture within your organization. These characteristics of DevOps are well beyond the scope of continuous deployment.
+What are the benefits of continuous deployment?
+
+Why are more software developers moving beyond the continuous integration model and working towards continuous delivery and deployment? The combination of continuous development and DevOps can enable lightning-speed releases, but that’s not the only benefit organizations see from their adoption of CD. Here are just a few benefits of continuous deployment:
+Maintain capability for quick new releases
+
+The most important feature of continuous deployment is that it enables developer teams to get their new releases into the production environment as quickly as possible. Most software companies can no longer rely on common development methodologies when developers release software updates once per year. Some companies are rolling out up to 10 deployments per day with continuous deployment.
+Enable a more rapid feedback loop with customers
+
+More frequent updates to your application mean a shorter feedback loop with the customer. Using state-of-the-art monitoring tools, developer teams can assess the impact of a new change on user behavior or engagement and adjust accordingly. The ability to rapidly release changes is an asset when customer behavior indicates the need for a quick pivot or change in strategy.
+Reducing manual processes with automation
+
+Continuous deployment is defined by its use of automation in the application deployment process. Continuous deployment wants developers to automate the entire software development process to the greatest extent possible, especially regarding release testing. Automation doesn’t just help developers push out new releases faster. It also reduces time spent on manual processes.
