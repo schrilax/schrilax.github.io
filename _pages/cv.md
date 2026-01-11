@@ -19,11 +19,11 @@ Education
 * __Ph.D.__ in [Computer Science](https://engineering.buffalo.edu/computer-science-engineering.html), [University of Buffalo, The State University of New York](http://www.buffalo.edu), June 2018
   - Topic: __Scalable Nonlinear Spectral Dimensionality Reduction methods for streaming data__ [[Thesis](../files/thesis_final.pdf)][[Slides](../files/thesis_defense.pdf)]
   - Advisors: [Varun Chandola](https://ubdsgroup.github.io/team/varun-chandola/), [Nils Napp](https://www.csl.cornell.edu/~nnapp/) & [Jaroslaw Zola](https://cse.buffalo.edu/~jzola/)
-  - GPA: __4.0 out of 4.0__ [[Transcript](http://schrilax.github.io/files/ub-cse-unofficial-transcript.pdf)]
+  - GPA: __4.0 out of 4.0__ [[Transcript](http://schrilax.github.io/files/ub-cse-official-transcript.pdf)]
 * __M.S.__ in [Computer Science](https://engineering.buffalo.edu/computer-science-engineering.html), [University of Buffalo, The State University of New York](http://www.buffalo.edu), June 2012
   - Topic: __A Cold Start Recommendation System Using Item Correlation and User Similarity__ [[Report](http://schrilax.github.io/files/iRec.pdf)]
   - Advisor: [Rohini Srihari](https://www.acsu.buffalo.edu/~rohini/)
-  - GPA: __4.0 out of 4.0__ [[Transcript](http://schrilax.github.io/files/ub-cse-unofficial-transcript.pdf)] &#124; Department rank: __1 out of 555__
+  - GPA: __4.0 out of 4.0__ [[Transcript](http://schrilax.github.io/files/ub-cse-official-transcript.pdf)] &#124; Department rank: __1 out of 555__
 * __B.Tech.__ in [Computer Science](https://website.nitrkl.ac.in/CS/), [National Institute of Technology, Rourkela](https://www.nitrkl.ac.in), May 2005
   - Specialization: __Discrete Mathematics and Algorithms__
   - Advisor: [Bibhudatta Sahoo](https://website.nitrkl.ac.in/FProfile.aspx?e=bdsahu)
@@ -63,7 +63,7 @@ Experience
       + Developed an interesting comments based notification (serving 1.6M users daily) incorporating user personalization in VM, which resulted in strong funnel gains (clicks +0.16%, reactions +0.17%, actions +0.15%).
       + Built foundational comment-based semantic labels (e.g., p(funny), p(mean), etc.) using Llama-as-oracle which had applications in multitude of products.
 
-  - Llama-as-oracle and vibe improvement on comment surfaces
+  - Llama-as-oracle, summary generation and vibe improvement on comment surfaces
     - Built large scale LLM inference pipelines to generate semantic labels for comments using prompt tuned *llama-3.1-70b-instruct*.
     - Utilizing above teacher model, trained highly accurate (both AUC-ROC, PR-AUC >= 0.93), "cheap" XLM(R)-based student models for serving billions of comments in production (needed to optimally balance compute, latency and performance).
     - Fine-tuned *llama-3.1-8b-instruct* model via SFT + LORA using a high quality dataset (1M samples, generated utilizing prompt-tuned *llama-3.1-70b-instruct* teacher model) resulting in 75% GPU compute savings and performance gains (+9% PR-AUC, +15% accuracy).

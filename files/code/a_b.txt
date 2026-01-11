@@ -37,7 +37,7 @@ How to interpret the p-value
 
 Low p-value (e.g., <0.05): The result is statistically significant. This means it is highly unlikely that the difference was caused by chance, and you can be confident that the change in version B is the reason for the difference.
 
-High p-value (e.g., >0.05): The result is not statistically significant. The observed difference is likely due to random chance, and you cannot conclude that version B is better than version A.  Borderline p-value (e.g., between \(0.05\) and \(0.1\)): The results are not conclusive. You may need to run the test longer to gather more data.
+High p-value (e.g., >0.05): The result is not statistically significant. The observed difference is likely due to random chance, and you cannot conclude that version B is better than version A. Borderline p-value (e.g., between \(0.05\) and \(0.1\)): The results are not conclusive. You may need to run the test longer to gather more data.
 
 Key things to remember
 
