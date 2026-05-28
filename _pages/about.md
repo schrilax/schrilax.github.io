@@ -30,9 +30,70 @@ I was a PhD student with the [Machine Learning & Data Science Research (MLDS) gr
 
 Predominantly my area of research is in large scale Machine Learning and Data Mining. More specifically my research focuses on designing, analyzing and implementing novel Machine Learning algorithms that take advantage of modern hardware to enable learning and mining of massive graphs and data sets.
 
+<div class="visitor-map-section">
+  <div class="visitor-map-heading">Visitors around the world</div>
+
+  <div class="visitor-map-wrapper">
+    <script
+      type="text/javascript"
+      id="mapmyvisitors"
+      src="https://mapmyvisitors.com/map.js?cl=4fb99f&w=433&t=n&d=2j7terxIAVzK2-UB5s2GQi82HGWs6Vq9EUvOh6EwDo8&co=d9f3f7&cmo=f4a261&cmn=e76f51&ct=264653">
+    </script>
+  </div>
+</div>
+
+<style>
+  .visitor-map-section {
+    max-width: 470px;
+    margin: 3.25rem auto 0;
+    padding-top: 1.6rem;
+    border-top: 1px solid #e5e7eb;
+    text-align: center;
+  }
+
+  .visitor-map-heading {
+    margin-bottom: 0.85rem;
+    font-size: 0.86rem;
+    font-weight: 600;
+    letter-spacing: 0.035em;
+    color: #334155;
+  }
+
+  .visitor-map-wrapper {
+    max-width: 433px;
+    margin: 0 auto;
+    overflow: hidden;
+  }
+
+  .visitor-map-wrapper img,
+  .visitor-map-wrapper iframe,
+  .visitor-map-wrapper canvas,
+  .visitor-map-wrapper svg {
+    max-width: 100% !important;
+    height: auto !important;
+  }
+
+  @media screen and (max-width: 520px) {
+    .visitor-map-section {
+      max-width: 100%;
+      margin-top: 2.75rem;
+      padding-top: 1.35rem;
+    }
+
+    .visitor-map-heading {
+      font-size: 0.8rem;
+      margin-bottom: 0.7rem;
+    }
+
+    .visitor-map-wrapper {
+      max-width: 100%;
+    }
+  }
+</style>
+
 <!-- <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=4fb99f&w=433&t=n&d=2j7terxIAVzK2-UB5s2GQi82HGWs6Vq9EUvOh6EwDo8&co=d9f3f7&cmo=f4a261&cmn=e76f51&ct=264653'></script> -->
 
-<div class="visitor-map-card">
+<!-- <div class="visitor-map-card">
   <div class="visitor-map-header">
     <div class="visitor-map-title">Visitors around the world</div>
     <div class="visitor-map-subtitle">A small map of where readers stop by from</div>
@@ -136,6 +197,6 @@ Predominantly my area of research is in large scale Machine Learning and Data Mi
       min-height: 195px;
     }
   }
-</style>
+</style> -->
 
 <!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=0e1633&w=a&t=n&d=iWVPHtVtXbRjx69IAOrwDTR72cJz41zwiePZDa3SIxc&co=0b4975&cmo=3acc3a&cmn=ffa500&ct=cdd4d9'></script> -->
