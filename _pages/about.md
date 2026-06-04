@@ -37,15 +37,15 @@ Predominantly my area of research is in large scale Machine Learning and Data Mi
     <script
       type="text/javascript"
       id="mapmyvisitors"
-      src="https://mapmyvisitors.com/map.js?cl=4fb99f&w=433&t=n&d=2j7terxIAVzK2-UB5s2GQi82HGWs6Vq9EUvOh6EwDo8&co=d9f3f7&cmo=f4a261&cmn=e76f51&ct=264653">
+      src="https://mapmyvisitors.com/map.js?cl=4fb99f&w=480&t=n&d=2j7terxIAVzK2-UB5s2GQi82HGWs6Vq9EUvOh6EwDo8&co=d9f3f7&cmo=f4a261&cmn=e76f51&ct=264653">
     </script>
   </div>
 </div>
 
 <style>
   .visitor-map-section {
-    max-width: 470px;
-    margin: 2.75rem auto 0;
+    max-width: 510px;
+    margin: 2.9rem auto 0;
     padding-top: 1.25rem;
     border-top: 1px solid #f2f3f3;
     text-align: center;
@@ -53,7 +53,7 @@ Predominantly my area of research is in large scale Machine Learning and Data Mi
   }
 
   .visitor-map-heading {
-    margin: 0 0 0.85rem;
+    margin: 0 0 0.9rem;
     padding: 0;
     border: 0;
     font-family: inherit;
@@ -64,7 +64,7 @@ Predominantly my area of research is in large scale Machine Learning and Data Mi
   }
 
   .visitor-map-wrapper {
-    max-width: 433px;
+    max-width: 480px;
     margin: 0 auto;
     overflow: hidden;
   }
@@ -77,16 +77,16 @@ Predominantly my area of research is in large scale Machine Learning and Data Mi
     height: auto !important;
   }
 
-  @media screen and (max-width: 520px) {
+  @media screen and (max-width: 560px) {
     .visitor-map-section {
       max-width: 100%;
-      margin-top: 2.25rem;
+      margin-top: 2.35rem;
       padding-top: 1.1rem;
     }
 
     .visitor-map-heading {
       font-size: 0.9em;
-      margin-bottom: 0.7rem;
+      margin-bottom: 0.75rem;
     }
 
     .visitor-map-wrapper {
@@ -95,4 +95,3 @@ Predominantly my area of research is in large scale Machine Learning and Data Mi
   }
 </style>
 
-<!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=0e1633&w=a&t=n&d=iWVPHtVtXbRjx69IAOrwDTR72cJz41zwiePZDa3SIxc&co=0b4975&cmo=3acc3a&cmn=ffa500&ct=cdd4d9'></script> -->
