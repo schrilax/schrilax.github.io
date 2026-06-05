@@ -31,21 +31,21 @@ I was a PhD student with the [Machine Learning & Data Science Research (MLDS) gr
 Predominantly my area of research is in large scale Machine Learning and Data Mining. More specifically my research focuses on designing, analyzing and implementing novel Machine Learning algorithms that take advantage of modern hardware to enable learning and mining of massive graphs and data sets.
 
 <div class="visitor-map-section">
-  <h2 class="visitor-map-heading">Visitors from around the world</h2>
+  <h2 class="visitor-map-heading">Visitors around the world</h2>
 
   <div class="visitor-map-wrapper">
     <script
       type="text/javascript"
       id="mapmyvisitors"
-      src="https://mapmyvisitors.com/map.js?cl=8ccfbf&w=500&t=n&d=2j7terxIAVzK2-UB5s2GQi82HGWs6Vq9EUvOh6EwDo8&co=eaf7fa&cmo=2563eb&cmn=e11d48&ct=334155">
+      src="https://mapmyvisitors.com/map.js?cl=8ccfbf&w=580&t=n&d=2j7terxIAVzK2-UB5s2GQi82HGWs6Vq9EUvOh6EwDo8&co=eaf7fa&cmo=2563eb&cmn=e11d48&ct=334155">
     </script>
   </div>
 </div>
 
 <style>
   .visitor-map-section {
-    max-width: 530px;
-    margin: 2.9rem auto 0;
+    max-width: 620px;
+    margin: 3rem auto 0;
     padding-top: 1.25rem;
     border-top: 1px solid #f2f3f3;
     text-align: center;
@@ -53,7 +53,7 @@ Predominantly my area of research is in large scale Machine Learning and Data Mi
   }
 
   .visitor-map-heading {
-    margin: 0 0 0.9rem;
+    margin: 0 0 0.95rem;
     padding: 0;
     border: 0;
     font-family: inherit;
@@ -64,7 +64,7 @@ Predominantly my area of research is in large scale Machine Learning and Data Mi
   }
 
   .visitor-map-wrapper {
-    max-width: 500px;
+    max-width: 580px;
     margin: 0 auto;
     overflow: hidden;
   }
@@ -77,10 +77,10 @@ Predominantly my area of research is in large scale Machine Learning and Data Mi
     height: auto !important;
   }
 
-  @media screen and (max-width: 580px) {
+  @media screen and (max-width: 680px) {
     .visitor-map-section {
       max-width: 100%;
-      margin-top: 2.35rem;
+      margin-top: 2.5rem;
       padding-top: 1.1rem;
     }
 
