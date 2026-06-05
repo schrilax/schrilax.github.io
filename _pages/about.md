@@ -30,80 +30,17 @@ I was a PhD student with the [Machine Learning & Data Science Research (MLDS) gr
 
 Predominantly my area of research is in large scale Machine Learning and Data Mining. More specifically my research focuses on designing, analyzing and implementing novel Machine Learning algorithms that take advantage of modern hardware to enable learning and mining of massive graphs and data sets.
 
-<!-- <div class="visitor-map-section">
-  <h2 class="visitor-map-heading">Visitors from around the world</h2>
-
-  <div class="visitor-map-wrapper">
-    <script
-      type="text/javascript"
-      id="mapmyvisitors"
-      src="https://mapmyvisitors.com/map.js?cl=8ccfbf&w=620&t=n&d=2j7terxIAVzK2-UB5s2GQi82HGWs6Vq9EUvOh6EwDo8&co=eaf7fa&cmo=2563eb&cmn=e11d48&ct=334155">
-    </script>
-  </div>
-</div>
-
-<style>
-  .visitor-map-section {
-    max-width: 660px;
-    margin: 3rem auto 0;
-    padding-top: 1.25rem;
-    border-top: 1px solid #f2f3f3;
-    text-align: center;
-    font-family: inherit;
-  }
-
-  .visitor-map-heading {
-    margin: 0 0 0.95rem;
-    padding: 0;
-    border: 0;
-    font-family: inherit;
-    font-size: 0.95em;
-    font-weight: 600;
-    line-height: 1.4;
-    color: #494e52;
-  }
-
-  .visitor-map-wrapper {
-    max-width: 620px;
-    margin: 0 auto;
-    overflow: hidden;
-  }
-
-  .visitor-map-wrapper img,
-  .visitor-map-wrapper iframe,
-  .visitor-map-wrapper canvas,
-  .visitor-map-wrapper svg {
-    max-width: 100% !important;
-    height: auto !important;
-  }
-
-  @media screen and (max-width: 720px) {
-    .visitor-map-section {
-      max-width: 100%;
-      margin-top: 2.5rem;
-      padding-top: 1.1rem;
-    }
-
-    .visitor-map-heading {
-      font-size: 0.9em;
-      margin-bottom: 0.75rem;
-    }
-
-    .visitor-map-wrapper {
-      max-width: 100%;
-    }
-  }
-</style> -->
-
 <div class="visitor-map-section">
   <h2 class="visitor-map-heading">Visitors around the world</h2>
 
-  <div class="visitor-map-wrapper">
-    <script id="_wauhux">
-      var _wau = _wau || [];
-      _wau.push(["map", "ogobilspdq", "hux", "560", "280", "textbook", "cross-orange"]);
-    </script>
-    <script async src="https://waust.at/m.js"></script>
+  <div class="visitor-map-shell">
+    <div class="visitor-map-wrapper">
+      <script id="_wauhux">
+        var _wau = _wau || [];
+        _wau.push(["map", "ogobilspdq", "hux", "560", "280", "textbook", "cross-orange"]);
+      </script>
+      <script async src="https://waust.at/m.js"></script>
+    </div>
   </div>
 </div>
 
@@ -113,7 +50,6 @@ Predominantly my area of research is in large scale Machine Learning and Data Mi
     margin: 3rem auto 0;
     padding-top: 1.25rem;
     border-top: 1px solid #f2f3f3;
-    text-align: center;
     font-family: inherit;
   }
 
@@ -121,6 +57,7 @@ Predominantly my area of research is in large scale Machine Learning and Data Mi
     margin: 0 0 0.95rem;
     padding: 0;
     border: 0;
+    text-align: center;
     font-family: inherit;
     font-size: 0.95em;
     font-weight: 600;
@@ -128,20 +65,35 @@ Predominantly my area of research is in large scale Machine Learning and Data Mi
     color: #494e52;
   }
 
+  .visitor-map-shell {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+
   .visitor-map-wrapper {
-    max-width: 560px;
-    margin: 0 auto;
+    width: 560px;
+    max-width: 100%;
+    min-height: 280px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     overflow: hidden;
   }
 
-  .visitor-map-wrapper img,
+  .visitor-map-wrapper > * {
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+
   .visitor-map-wrapper iframe,
-  .visitor-map-wrapper canvas,
-  .visitor-map-wrapper svg,
+  .visitor-map-wrapper img,
   .visitor-map-wrapper object,
   .visitor-map-wrapper embed {
+    display: block !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
     max-width: 100% !important;
-    height: auto !important;
   }
 
   @media screen and (max-width: 640px) {
@@ -157,7 +109,8 @@ Predominantly my area of research is in large scale Machine Learning and Data Mi
     }
 
     .visitor-map-wrapper {
-      max-width: 100%;
+      width: 100%;
+      min-height: 210px;
     }
   }
 </style>
