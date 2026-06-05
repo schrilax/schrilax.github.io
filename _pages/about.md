@@ -37,14 +37,14 @@ Predominantly my area of research is in large scale Machine Learning and Data Mi
     <script
       type="text/javascript"
       id="mapmyvisitors"
-      src="https://mapmyvisitors.com/map.js?cl=4fb99f&w=480&t=n&d=2j7terxIAVzK2-UB5s2GQi82HGWs6Vq9EUvOh6EwDo8&co=d9f3f7&cmo=7c3aed&cmn=ff2d55&ct=264653">
+      src="https://mapmyvisitors.com/map.js?cl=8ccfbf&w=500&t=n&d=2j7terxIAVzK2-UB5s2GQi82HGWs6Vq9EUvOh6EwDo8&co=eaf7fa&cmo=2563eb&cmn=e11d48&ct=334155">
     </script>
   </div>
 </div>
 
 <style>
   .visitor-map-section {
-    max-width: 510px;
+    max-width: 530px;
     margin: 2.9rem auto 0;
     padding-top: 1.25rem;
     border-top: 1px solid #f2f3f3;
@@ -64,7 +64,7 @@ Predominantly my area of research is in large scale Machine Learning and Data Mi
   }
 
   .visitor-map-wrapper {
-    max-width: 480px;
+    max-width: 500px;
     margin: 0 auto;
     overflow: hidden;
   }
@@ -77,7 +77,7 @@ Predominantly my area of research is in large scale Machine Learning and Data Mi
     height: auto !important;
   }
 
-  @media screen and (max-width: 560px) {
+  @media screen and (max-width: 580px) {
     .visitor-map-section {
       max-width: 100%;
       margin-top: 2.35rem;
@@ -94,5 +94,3 @@ Predominantly my area of research is in large scale Machine Learning and Data Mi
     }
   }
 </style>
-
-<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=7u1joBiGjaH-oj4yIh2jG0-186jCjuMwMx8jeStHD0k"></script>
