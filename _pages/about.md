@@ -31,7 +31,7 @@ I was a PhD student with the [Machine Learning & Data Science Research (MLDS) gr
 Predominantly my area of research is in large scale Machine Learning and Data Mining. More specifically my research focuses on designing, analyzing and implementing novel Machine Learning algorithms that take advantage of modern hardware to enable learning and mining of massive graphs and data sets.
 
 <div class="visitor-map-section">
-  <h2 class="visitor-map-heading">Visitors around the world</h2>
+  <h2 class="visitor-map-heading">Visitors from around the world</h2>
 
   <div class="visitor-map-shell">
     <div class="visitor-map-wrapper">
