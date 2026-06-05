@@ -37,7 +37,7 @@ Predominantly my area of research is in large scale Machine Learning and Data Mi
     <script
       type="text/javascript"
       id="mapmyvisitors"
-      src="https://mapmyvisitors.com/map.js?cl=4fb99f&w=480&t=n&d=2j7terxIAVzK2-UB5s2GQi82HGWs6Vq9EUvOh6EwDo8&co=d9f3f7&cmo=f4a261&cmn=e76f51&ct=264653">
+      src="https://mapmyvisitors.com/map.js?cl=4fb99f&w=480&t=n&d=2j7terxIAVzK2-UB5s2GQi82HGWs6Vq9EUvOh6EwDo8&co=d9f3f7&cmo=7c3aed&cmn=ff2d55&ct=264653">
     </script>
   </div>
 </div>
